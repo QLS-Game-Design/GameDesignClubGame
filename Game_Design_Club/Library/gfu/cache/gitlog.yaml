@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-02-17T17:46:25.751-08:00
+  initializedAtString: 2021-02-17T17:46:25.751-08:00
+  log:
+  - commitID: 47962151cbc65ae2f77c0435be25fc1ea68247f1
+    mergeA: 5eb0340911ba41139bd3ccce30220154c8c7c8cf
+    mergeB: c11af2c8c11a65bd86a5720bfa2f72500579265d
+    authorName: Wesley Vong
+    authorEmail: wv@vongs.com
+    commitEmail: wv@vongs.com
+    commitName: Wesley Vong
+    summary: Merge branch 'main' of https://github.com/WesleyVong/GameDesignClubGame
+      into main
+    description: 
+    timeString: 2021-02-17T17:33:43.000-08:00
+    commitTimeString: 2021-02-17T17:33:43.000-08:00
+    changes: []
+  - commitID: 5eb0340911ba41139bd3ccce30220154c8c7c8cf
+    mergeA: 
+    mergeB: 
+    authorName: Wesley Vong
+    authorEmail: wv@vongs.com
+    commitEmail: wv@vongs.com
+    commitName: Wesley Vong
+    summary: Reset State
+    description: 
+    timeString: 2021-02-17T17:20:45.000-08:00
+    commitTimeString: 2021-02-17T17:20:45.000-08:00
+    changes:
+    - path: .gitignore
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+      projectPath: ../.gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+      projectPath: ../README.md
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: c11af2c8c11a65bd86a5720bfa2f72500579265d
+    mergeA: 
+    mergeB: 
+    authorName: Wesley Vong
+    authorEmail: wv@vongs.com
+    commitEmail: wv@vongs.com
+    commitName: Wesley Vong
+    summary: Reset State
+    description: 
+    timeString: 2021-02-17T17:20:45.000-08:00
+    commitTimeString: 2021-02-17T17:20:45.000-08:00
+    changes:
+    - path: .gitignore
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+      projectPath: ../.gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+      projectPath: ../README.md
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: f4590c661ce949d6475b13bd8496d0d4452db7e0
+    mergeA: 
+    mergeB: 
+    authorName: WesleyVong
+    authorEmail: wv@vongs.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-02-01T14:39:48.000-08:00
+    commitTimeString: 2021-02-01T14:39:48.000-08:00
+    changes:
+    - path: .gitignore
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+      projectPath: ../.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+      projectPath: ../README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: f98ba45bbf018a7cd7060759335de809883690f8
+    mergeA: 
+    mergeB: 
+    authorName: WesleyVong
+    authorEmail: wv@vongs.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-02-01T14:39:48.000-08:00
+    commitTimeString: 2021-02-01T14:39:48.000-08:00
+    changes:
+    - path: .gitignore
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+      projectPath: ../.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+      projectPath: ../README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
