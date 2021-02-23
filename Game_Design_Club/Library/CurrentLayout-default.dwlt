@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 1267
+    x: 1266
     y: 45
     width: 2165
     height: 1395
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,8 +74,8 @@ MonoBehaviour:
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LoadedToolbars:
-  - {fileID: 19}
-  m_MainToolbar: {fileID: 19}
+  - {fileID: 20}
+  m_MainToolbar: {fileID: 20}
   m_LastLoadedLayoutName: 
 --- !u!114 &4
 MonoBehaviour:
@@ -119,10 +119,10 @@ MonoBehaviour:
     y: 30
     width: 2165
     height: 1345
-  m_MinSize: {x: 1184, y: 492}
+  m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 87
+  controlID: 100
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 88
+  controlID: 101
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 19
+  controlID: 102
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -194,9 +194,9 @@ MonoBehaviour:
     height: 683
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 15}
+  m_ActualView: {fileID: 16}
   m_Panes:
-  - {fileID: 15}
+  - {fileID: 16}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &9
@@ -218,12 +218,12 @@ MonoBehaviour:
     y: 0
     width: 956
     height: 683
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 13}
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 14}
   m_Panes:
-  - {fileID: 13}
   - {fileID: 14}
+  - {fileID: 15}
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &10
@@ -247,10 +247,10 @@ MonoBehaviour:
     height: 662
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 17}
   m_Panes:
-  - {fileID: 16}
   - {fileID: 17}
+  - {fileID: 18}
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &11
@@ -263,7 +263,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ProfilerWindow
+  m_Name: Window
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -272,15 +272,3008 @@ MonoBehaviour:
     y: 0
     width: 900
     height: 1345
-  m_MinSize: {x: 881, y: 237}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 12}
   m_Panes:
-  - {fileID: 18}
+  - {fileID: 19}
+  - {fileID: 13}
   - {fileID: 12}
-  m_Selected: 1
+  m_Selected: 2
   m_LastSelected: 1
 --- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 363648761, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: GitHub
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1266
+    y: 19
+    width: 899
+    height: 1324
+  m_ViewDataDictionary: {fileID: 0}
+  progressMessageClearTime: -1
+  notificationClearTime: -1
+  timeSinceLastRotation: -1
+  currentBranchAndRemoteHasUpdate: 0
+  currentTrackingStatusHasUpdate: 0
+  currentStatusEntriesHasUpdate: 0
+  repositoryProgressHasUpdate: 0
+  appManagerProgressHasUpdate: 0
+  changeTab: 3
+  activeTab: 3
+  initProjectView:
+    hasCompletedInitialCheck: 0
+    isUserDataPresent: 0
+    lastCheckUserChangedEvent:
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      cacheType: 8
+  branchesView:
+    treeLocals:
+      IsRemote: 0
+      folders:
+        keys:
+        - Local branches
+        values:
+        - path: Local branches
+          label: Local branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Local branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Local branches
+        label: Local branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: main
+        label: main
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 1
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    treeRemotes:
+      IsRemote: 1
+      folders:
+        keys:
+        - Remote branches
+        - origin
+        values:
+        - path: Remote branches
+          label: Remote branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+        - path: origin
+          label: origin
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Remote branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Remote branches
+        label: Remote branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin
+        label: origin
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin/HEAD
+        label: HEAD
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin/main
+        label: main
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    mode: 0
+    newBranchName: 
+    scroll: {x: 0, y: 0}
+    disableDelete: 1
+    disableCreate: 1
+    lastLocalAndRemoteBranchListChangedEvent:
+      updatedTimeString: 2021-02-17T17:46:28.120-08:00
+      cacheType: 2
+    lastCurrentBranchAndRemoteChange:
+      updatedTimeString: 2021-02-17T17:46:14.934-08:00
+      cacheType: 1
+    currentBranch:
+      name: main
+      tracking: origin/main
+    currentRemote:
+      name: origin
+      url: https://github.com/WesleyVong/GameDesignClubGame.git
+      login: 
+      user: 
+      host: 
+      function: 0
+      token: 
+    localBranches:
+    - name: main
+      tracking: origin/main
+    remoteBranches:
+    - name: origin/HEAD
+      tracking: '[None]'
+    - name: origin/main
+      tracking: '[None]'
+  changesView:
+    currentBranchHasUpdate: 0
+    currentStatusEntriesHasUpdate: 0
+    currentLocksHasUpdate: 0
+    commitBody: 
+    commitMessage: 
+    currentBranch: '[main]'
+    treeScroll: {x: 0, y: 0}
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys:
+        - Game_Design_Club
+        - Game_Design_Club/Library
+        - Game_Design_Club/Library/gfu
+        - Game_Design_Club/Library/gfu/cache
+        - Game_Design_Club/Library/ShaderCache
+        - Game_Design_Club/Library/StateCache
+        - Game_Design_Club/Library/StateCache/MainStageHierarchy
+        - Game_Design_Club/Library/StateCache/MainStageHierarchy/d7
+        - Game_Design_Club/Temp
+        values:
+        - path: Game_Design_Club
+          label: Game_Design_Club
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Game_Design_Club/Library
+          label: Library
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Game_Design_Club/Library/gfu
+          label: gfu
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Game_Design_Club/Library/gfu/cache
+          label: cache
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Game_Design_Club/Library/ShaderCache
+          label: ShaderCache
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Game_Design_Club/Library/StateCache
+          label: StateCache
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Game_Design_Club/Library/StateCache/MainStageHierarchy
+          label: MainStageHierarchy
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Game_Design_Club/Library/StateCache/MainStageHierarchy/d7
+          label: d7
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Game_Design_Club/Temp
+          label: Temp
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: /
+      displayRootNode: 0
+      isSelectable: 1
+      isCheckable: 1
+      isUsingGlobalSelection: 1
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Game_Design_Club
+        label: Game_Design_Club
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Game_Design_Club/Assembly-CSharp-Editor-firstpass.csproj
+        label: Assembly-CSharp-Editor-firstpass.csproj
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Assembly-CSharp-Editor-firstpass.csproj
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assembly-CSharp-Editor-firstpass.csproj
+          projectPath: Assembly-CSharp-Editor-firstpass.csproj
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Game_Design_Club.sln
+        label: Game_Design_Club.sln
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Game_Design_Club.sln
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Game_Design_Club.sln
+          projectPath: Game_Design_Club.sln
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Library
+        label: Library
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Game_Design_Club/Library/ArtifactDB
+        label: ArtifactDB
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/ArtifactDB
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ArtifactDB
+          projectPath: Library/ArtifactDB
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/CurrentLayout-default.dwlt
+        label: CurrentLayout-default.dwlt
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/CurrentLayout-default.dwlt
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/CurrentLayout-default.dwlt
+          projectPath: Library/CurrentLayout-default.dwlt
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/EditorInstance.json
+        label: EditorInstance.json
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/EditorInstance.json
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/EditorInstance.json
+          projectPath: Library/EditorInstance.json
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/EditorUserBuildSettings.asset
+        label: EditorUserBuildSettings.asset
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/EditorUserBuildSettings.asset
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/EditorUserBuildSettings.asset
+          projectPath: Library/EditorUserBuildSettings.asset
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/gfu
+        label: gfu
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Game_Design_Club/Library/gfu/cache
+        label: cache
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Game_Design_Club/Library/gfu/cache/branches.yaml
+        label: branches.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/gfu/cache/branches.yaml
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/branches.yaml
+          projectPath: Library/gfu/cache/branches.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/gfu/cache/gitlocks.yaml
+        label: gitlocks.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/gfu/cache/gitlocks.yaml
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gitlocks.yaml
+          projectPath: Library/gfu/cache/gitlocks.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/gfu/cache/gitlog.yaml
+        label: gitlog.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/gfu/cache/gitlog.yaml
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gitlog.yaml
+          projectPath: Library/gfu/cache/gitlog.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/gfu/cache/gitstatusentries.yaml
+        label: gitstatusentries.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/gfu/cache/gitstatusentries.yaml
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gitstatusentries.yaml
+          projectPath: Library/gfu/cache/gitstatusentries.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/gfu/cache/gittrackingstatus.yaml
+        label: gittrackingstatus.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/gfu/cache/gittrackingstatus.yaml
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gittrackingstatus.yaml
+          projectPath: Library/gfu/cache/gittrackingstatus.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/gfu/cache/repoinfo.yaml
+        label: repoinfo.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/gfu/cache/repoinfo.yaml
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/repoinfo.yaml
+          projectPath: Library/gfu/cache/repoinfo.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/ShaderCache
+        label: ShaderCache
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Game_Design_Club/Library/ShaderCache/EditorEncounteredVariants
+        label: EditorEncounteredVariants
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/ShaderCache/EditorEncounteredVariants
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/EditorEncounteredVariants
+          projectPath: Library/ShaderCache/EditorEncounteredVariants
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/SourceAssetDB
+        label: SourceAssetDB
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/SourceAssetDB
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/SourceAssetDB
+          projectPath: Library/SourceAssetDB
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Library/StateCache
+        label: StateCache
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Game_Design_Club/Library/StateCache/MainStageHierarchy
+        label: MainStageHierarchy
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Game_Design_Club/Library/StateCache/MainStageHierarchy/d7
+        label: d7
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Game_Design_Club/Library/StateCache/MainStageHierarchy/d7/d73c3d21b4185e9f0a2224590bc958ea.json
+        label: d73c3d21b4185e9f0a2224590bc958ea.json
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Library/StateCache/MainStageHierarchy/d7/d73c3d21b4185e9f0a2224590bc958ea.json
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/StateCache/MainStageHierarchy/d7/d73c3d21b4185e9f0a2224590bc958ea.json
+          projectPath: Library/StateCache/MainStageHierarchy/d7/d73c3d21b4185e9f0a2224590bc958ea.json
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Game_Design_Club/Temp
+        label: Temp
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Game_Design_Club/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+        label: Assembly-CSharp-Editor-firstpass.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+          projectPath: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/CompilationLog.txt
+        label: CompilationLog.txt
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/CompilationLog.txt
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/CompilationLog.txt
+          projectPath: Temp/CompilationLog.txt
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/PsdPlugin.dll.hash
+        label: PsdPlugin.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/PsdPlugin.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/PsdPlugin.dll.hash
+          projectPath: Temp/PsdPlugin.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.Animation.Editor.dll.hash
+        label: Unity.2D.Animation.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.Animation.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Animation.Editor.dll.hash
+          projectPath: Temp/Unity.2D.Animation.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.Animation.Runtime.dll.hash
+        label: Unity.2D.Animation.Runtime.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.Animation.Runtime.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Animation.Runtime.dll.hash
+          projectPath: Temp/Unity.2D.Animation.Runtime.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+        label: Unity.2D.Animation.Triangle.Runtime.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+          projectPath: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.Common.Editor.dll.hash
+        label: Unity.2D.Common.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.Common.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Common.Editor.dll.hash
+          projectPath: Temp/Unity.2D.Common.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.Common.Runtime.dll.hash
+        label: Unity.2D.Common.Runtime.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.Common.Runtime.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Common.Runtime.dll.hash
+          projectPath: Temp/Unity.2D.Common.Runtime.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.IK.Editor.dll.hash
+        label: Unity.2D.IK.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.IK.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.IK.Editor.dll.hash
+          projectPath: Temp/Unity.2D.IK.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.IK.Runtime.dll.hash
+        label: Unity.2D.IK.Runtime.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.IK.Runtime.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.IK.Runtime.dll.hash
+          projectPath: Temp/Unity.2D.IK.Runtime.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.Path.Editor.dll.hash
+        label: Unity.2D.Path.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.Path.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Path.Editor.dll.hash
+          projectPath: Temp/Unity.2D.Path.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.PixelPerfect.dll.hash
+        label: Unity.2D.PixelPerfect.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.PixelPerfect.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.PixelPerfect.dll.hash
+          projectPath: Temp/Unity.2D.PixelPerfect.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+        label: Unity.2D.PixelPerfect.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+          projectPath: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+        label: Unity.2D.Psdimporter.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+          projectPath: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.Sprite.Editor.dll.hash
+        label: Unity.2D.Sprite.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.Sprite.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Sprite.Editor.dll.hash
+          projectPath: Temp/Unity.2D.Sprite.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+        label: Unity.2D.SpriteShape.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+          projectPath: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+        label: Unity.2D.SpriteShape.Runtime.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+          projectPath: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.2D.Tilemap.Editor.dll.hash
+        label: Unity.2D.Tilemap.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.2D.Tilemap.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Tilemap.Editor.dll.hash
+          projectPath: Temp/Unity.2D.Tilemap.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.CollabProxy.Editor.dll.hash
+        label: Unity.CollabProxy.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.CollabProxy.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.CollabProxy.Editor.dll.hash
+          projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+        label: Unity.InternalAPIEditorBridge.001.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+          projectPath: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+        label: Unity.InternalAPIEngineBridge.001.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+          projectPath: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.Mathematics.dll.hash
+        label: Unity.Mathematics.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.Mathematics.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.Mathematics.dll.hash
+          projectPath: Temp/Unity.Mathematics.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.Mathematics.Editor.dll.hash
+        label: Unity.Mathematics.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.Mathematics.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.Mathematics.Editor.dll.hash
+          projectPath: Temp/Unity.Mathematics.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.Rider.Editor.dll.hash
+        label: Unity.Rider.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.Rider.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.Rider.Editor.dll.hash
+          projectPath: Temp/Unity.Rider.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.TextMeshPro.dll.hash
+        label: Unity.TextMeshPro.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.TextMeshPro.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.TextMeshPro.dll.hash
+          projectPath: Temp/Unity.TextMeshPro.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.TextMeshPro.Editor.dll.hash
+        label: Unity.TextMeshPro.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.TextMeshPro.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.TextMeshPro.Editor.dll.hash
+          projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.Timeline.dll.hash
+        label: Unity.Timeline.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.Timeline.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.Timeline.dll.hash
+          projectPath: Temp/Unity.Timeline.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.Timeline.Editor.dll.hash
+        label: Unity.Timeline.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.Timeline.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.Timeline.Editor.dll.hash
+          projectPath: Temp/Unity.Timeline.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.VisualStudio.Editor.dll.hash
+        label: Unity.VisualStudio.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.VisualStudio.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.VisualStudio.Editor.dll.hash
+          projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/Unity.VSCode.Editor.dll.hash
+        label: Unity.VSCode.Editor.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/Unity.VSCode.Editor.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.VSCode.Editor.dll.hash
+          projectPath: Temp/Unity.VSCode.Editor.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityEditor.TestRunner.dll.hash
+        label: UnityEditor.TestRunner.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityEditor.TestRunner.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityEditor.TestRunner.dll.hash
+          projectPath: Temp/UnityEditor.TestRunner.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityEditor.UI.dll.hash
+        label: UnityEditor.UI.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityEditor.UI.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityEditor.UI.dll.hash
+          projectPath: Temp/UnityEditor.UI.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityEngine.TestRunner.dll.hash
+        label: UnityEngine.TestRunner.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityEngine.TestRunner.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityEngine.TestRunner.dll.hash
+          projectPath: Temp/UnityEngine.TestRunner.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityEngine.UI.dll.hash
+        label: UnityEngine.UI.dll.hash
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityEngine.UI.dll.hash
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityEngine.UI.dll.hash
+          projectPath: Temp/UnityEngine.UI.dll.hash
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-0179e02260a3d41b7b0774cfe0f0a1a6
+        label: UnityTempFile-0179e02260a3d41b7b0774cfe0f0a1a6
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-0179e02260a3d41b7b0774cfe0f0a1a6
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-0179e02260a3d41b7b0774cfe0f0a1a6
+          projectPath: Temp/UnityTempFile-0179e02260a3d41b7b0774cfe0f0a1a6
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-0398d9de24c744730a5b75a51bcc49f5
+        label: UnityTempFile-0398d9de24c744730a5b75a51bcc49f5
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-0398d9de24c744730a5b75a51bcc49f5
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-0398d9de24c744730a5b75a51bcc49f5
+          projectPath: Temp/UnityTempFile-0398d9de24c744730a5b75a51bcc49f5
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-1315bdfbfacd34d13ab5bd55a65f2665
+        label: UnityTempFile-1315bdfbfacd34d13ab5bd55a65f2665
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-1315bdfbfacd34d13ab5bd55a65f2665
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-1315bdfbfacd34d13ab5bd55a65f2665
+          projectPath: Temp/UnityTempFile-1315bdfbfacd34d13ab5bd55a65f2665
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-18edefc97f77247ec8cb19caa1f6d72e
+        label: UnityTempFile-18edefc97f77247ec8cb19caa1f6d72e
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-18edefc97f77247ec8cb19caa1f6d72e
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-18edefc97f77247ec8cb19caa1f6d72e
+          projectPath: Temp/UnityTempFile-18edefc97f77247ec8cb19caa1f6d72e
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-19b9710878bf14daea0e4191d2be6291
+        label: UnityTempFile-19b9710878bf14daea0e4191d2be6291
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-19b9710878bf14daea0e4191d2be6291
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-19b9710878bf14daea0e4191d2be6291
+          projectPath: Temp/UnityTempFile-19b9710878bf14daea0e4191d2be6291
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-208544116d9a4433b9e34e3d11d56ce1
+        label: UnityTempFile-208544116d9a4433b9e34e3d11d56ce1
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-208544116d9a4433b9e34e3d11d56ce1
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-208544116d9a4433b9e34e3d11d56ce1
+          projectPath: Temp/UnityTempFile-208544116d9a4433b9e34e3d11d56ce1
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-288fbacd5ef0044138de886fec0edafd
+        label: UnityTempFile-288fbacd5ef0044138de886fec0edafd
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-288fbacd5ef0044138de886fec0edafd
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-288fbacd5ef0044138de886fec0edafd
+          projectPath: Temp/UnityTempFile-288fbacd5ef0044138de886fec0edafd
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-2acf6555bce5e4f129e4285c1451ebeb
+        label: UnityTempFile-2acf6555bce5e4f129e4285c1451ebeb
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-2acf6555bce5e4f129e4285c1451ebeb
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-2acf6555bce5e4f129e4285c1451ebeb
+          projectPath: Temp/UnityTempFile-2acf6555bce5e4f129e4285c1451ebeb
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-35b6e19d6d3914fafbca73d001cc8ace
+        label: UnityTempFile-35b6e19d6d3914fafbca73d001cc8ace
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-35b6e19d6d3914fafbca73d001cc8ace
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-35b6e19d6d3914fafbca73d001cc8ace
+          projectPath: Temp/UnityTempFile-35b6e19d6d3914fafbca73d001cc8ace
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-3dedfe0fea1bc44aca49177cc4f15174
+        label: UnityTempFile-3dedfe0fea1bc44aca49177cc4f15174
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-3dedfe0fea1bc44aca49177cc4f15174
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-3dedfe0fea1bc44aca49177cc4f15174
+          projectPath: Temp/UnityTempFile-3dedfe0fea1bc44aca49177cc4f15174
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-50b16d36f494b4c4483c8f54850beb83
+        label: UnityTempFile-50b16d36f494b4c4483c8f54850beb83
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-50b16d36f494b4c4483c8f54850beb83
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-50b16d36f494b4c4483c8f54850beb83
+          projectPath: Temp/UnityTempFile-50b16d36f494b4c4483c8f54850beb83
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-5a4a55e1a65744f4d9b347f27ed840f7
+        label: UnityTempFile-5a4a55e1a65744f4d9b347f27ed840f7
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-5a4a55e1a65744f4d9b347f27ed840f7
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-5a4a55e1a65744f4d9b347f27ed840f7
+          projectPath: Temp/UnityTempFile-5a4a55e1a65744f4d9b347f27ed840f7
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-5b961a9b3503146cdb25d1d8d3eff918
+        label: UnityTempFile-5b961a9b3503146cdb25d1d8d3eff918
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-5b961a9b3503146cdb25d1d8d3eff918
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-5b961a9b3503146cdb25d1d8d3eff918
+          projectPath: Temp/UnityTempFile-5b961a9b3503146cdb25d1d8d3eff918
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-5defc422d19d64b0aa11b334139d6afd
+        label: UnityTempFile-5defc422d19d64b0aa11b334139d6afd
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-5defc422d19d64b0aa11b334139d6afd
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-5defc422d19d64b0aa11b334139d6afd
+          projectPath: Temp/UnityTempFile-5defc422d19d64b0aa11b334139d6afd
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-6e68691d5aff04a448b01fc1f2e2125c
+        label: UnityTempFile-6e68691d5aff04a448b01fc1f2e2125c
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-6e68691d5aff04a448b01fc1f2e2125c
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-6e68691d5aff04a448b01fc1f2e2125c
+          projectPath: Temp/UnityTempFile-6e68691d5aff04a448b01fc1f2e2125c
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-80eac7117b88346eb9907a298b9d951e
+        label: UnityTempFile-80eac7117b88346eb9907a298b9d951e
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-80eac7117b88346eb9907a298b9d951e
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-80eac7117b88346eb9907a298b9d951e
+          projectPath: Temp/UnityTempFile-80eac7117b88346eb9907a298b9d951e
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-8c7b5b5fa05394ee9b70fc6a4ce0cecc
+        label: UnityTempFile-8c7b5b5fa05394ee9b70fc6a4ce0cecc
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-8c7b5b5fa05394ee9b70fc6a4ce0cecc
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-8c7b5b5fa05394ee9b70fc6a4ce0cecc
+          projectPath: Temp/UnityTempFile-8c7b5b5fa05394ee9b70fc6a4ce0cecc
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-940d2c01c840047529876935e0bb6c97
+        label: UnityTempFile-940d2c01c840047529876935e0bb6c97
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-940d2c01c840047529876935e0bb6c97
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-940d2c01c840047529876935e0bb6c97
+          projectPath: Temp/UnityTempFile-940d2c01c840047529876935e0bb6c97
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-98abf8cc470684eaea13f5800876c095
+        label: UnityTempFile-98abf8cc470684eaea13f5800876c095
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-98abf8cc470684eaea13f5800876c095
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-98abf8cc470684eaea13f5800876c095
+          projectPath: Temp/UnityTempFile-98abf8cc470684eaea13f5800876c095
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-a18426a7d8a854898885b83ef12a289e
+        label: UnityTempFile-a18426a7d8a854898885b83ef12a289e
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-a18426a7d8a854898885b83ef12a289e
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-a18426a7d8a854898885b83ef12a289e
+          projectPath: Temp/UnityTempFile-a18426a7d8a854898885b83ef12a289e
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-a371bb34c30b8444084ef4549fe4afde
+        label: UnityTempFile-a371bb34c30b8444084ef4549fe4afde
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-a371bb34c30b8444084ef4549fe4afde
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-a371bb34c30b8444084ef4549fe4afde
+          projectPath: Temp/UnityTempFile-a371bb34c30b8444084ef4549fe4afde
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-ad9c8b13aeb7c4452bb29193dd735b1d
+        label: UnityTempFile-ad9c8b13aeb7c4452bb29193dd735b1d
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-ad9c8b13aeb7c4452bb29193dd735b1d
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-ad9c8b13aeb7c4452bb29193dd735b1d
+          projectPath: Temp/UnityTempFile-ad9c8b13aeb7c4452bb29193dd735b1d
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-ae39943dde05842cd8465c6dafe2234f
+        label: UnityTempFile-ae39943dde05842cd8465c6dafe2234f
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-ae39943dde05842cd8465c6dafe2234f
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-ae39943dde05842cd8465c6dafe2234f
+          projectPath: Temp/UnityTempFile-ae39943dde05842cd8465c6dafe2234f
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-b914e31e811bc4175ba7386cf152d076
+        label: UnityTempFile-b914e31e811bc4175ba7386cf152d076
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-b914e31e811bc4175ba7386cf152d076
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-b914e31e811bc4175ba7386cf152d076
+          projectPath: Temp/UnityTempFile-b914e31e811bc4175ba7386cf152d076
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-bb0542c3c73c942488cec7f027b858f3
+        label: UnityTempFile-bb0542c3c73c942488cec7f027b858f3
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-bb0542c3c73c942488cec7f027b858f3
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-bb0542c3c73c942488cec7f027b858f3
+          projectPath: Temp/UnityTempFile-bb0542c3c73c942488cec7f027b858f3
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-c43e7d5b9e590449da606e9abec337c0
+        label: UnityTempFile-c43e7d5b9e590449da606e9abec337c0
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-c43e7d5b9e590449da606e9abec337c0
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-c43e7d5b9e590449da606e9abec337c0
+          projectPath: Temp/UnityTempFile-c43e7d5b9e590449da606e9abec337c0
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-ca2e9adb384f44be79a7f7fbf330f4f8
+        label: UnityTempFile-ca2e9adb384f44be79a7f7fbf330f4f8
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-ca2e9adb384f44be79a7f7fbf330f4f8
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-ca2e9adb384f44be79a7f7fbf330f4f8
+          projectPath: Temp/UnityTempFile-ca2e9adb384f44be79a7f7fbf330f4f8
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-d29e58562734c4f07a371b305f9f8f92
+        label: UnityTempFile-d29e58562734c4f07a371b305f9f8f92
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-d29e58562734c4f07a371b305f9f8f92
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-d29e58562734c4f07a371b305f9f8f92
+          projectPath: Temp/UnityTempFile-d29e58562734c4f07a371b305f9f8f92
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-d3c9f251a0f994a75bc90695b8aa16a1
+        label: UnityTempFile-d3c9f251a0f994a75bc90695b8aa16a1
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-d3c9f251a0f994a75bc90695b8aa16a1
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-d3c9f251a0f994a75bc90695b8aa16a1
+          projectPath: Temp/UnityTempFile-d3c9f251a0f994a75bc90695b8aa16a1
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-db69f1aa205cd4c5db8aa74610fff4f7
+        label: UnityTempFile-db69f1aa205cd4c5db8aa74610fff4f7
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-db69f1aa205cd4c5db8aa74610fff4f7
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-db69f1aa205cd4c5db8aa74610fff4f7
+          projectPath: Temp/UnityTempFile-db69f1aa205cd4c5db8aa74610fff4f7
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-db9bcb76c614f453faf692fae3eab0eb
+        label: UnityTempFile-db9bcb76c614f453faf692fae3eab0eb
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-db9bcb76c614f453faf692fae3eab0eb
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-db9bcb76c614f453faf692fae3eab0eb
+          projectPath: Temp/UnityTempFile-db9bcb76c614f453faf692fae3eab0eb
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-e846bec8b77934f91bcfc6b2dafc7484
+        label: UnityTempFile-e846bec8b77934f91bcfc6b2dafc7484
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-e846bec8b77934f91bcfc6b2dafc7484
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-e846bec8b77934f91bcfc6b2dafc7484
+          projectPath: Temp/UnityTempFile-e846bec8b77934f91bcfc6b2dafc7484
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Game_Design_Club/Temp/UnityTempFile-ea44ee228f3484d56b6e910b7246019b
+        label: UnityTempFile-ea44ee228f3484d56b6e910b7246019b
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Game_Design_Club/Temp/UnityTempFile-ea44ee228f3484d56b6e910b7246019b
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-ea44ee228f3484d56b6e910b7246019b
+          projectPath: Temp/UnityTempFile-ea44ee228f3484d56b6e910b7246019b
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      selectedNode:
+        path: Game_Design_Club
+        label: Game_Design_Club
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+    gitStatusEntries:
+    - path: Game_Design_Club/Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Game_Design_Club.sln
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Game_Design_Club.sln
+      projectPath: Game_Design_Club.sln
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Library/ArtifactDB
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/CurrentLayout-default.dwlt
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/CurrentLayout-default.dwlt
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/EditorInstance.json
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/EditorUserBuildSettings.asset
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/EditorUserBuildSettings.asset
+      projectPath: Library/EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/gfu/cache/branches.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/SourceAssetDB
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Library/StateCache/MainStageHierarchy/d7/d73c3d21b4185e9f0a2224590bc958ea.json
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/StateCache/MainStageHierarchy/d7/d73c3d21b4185e9f0a2224590bc958ea.json
+      projectPath: Library/StateCache/MainStageHierarchy/d7/d73c3d21b4185e9f0a2224590bc958ea.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Game_Design_Club/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+      projectPath: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/CompilationLog.txt
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/CompilationLog.txt
+      projectPath: Temp/CompilationLog.txt
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/PsdPlugin.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/PsdPlugin.dll.hash
+      projectPath: Temp/PsdPlugin.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.Animation.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Animation.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Animation.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.Animation.Runtime.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Animation.Runtime.dll.hash
+      projectPath: Temp/Unity.2D.Animation.Runtime.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+      projectPath: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.Common.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Common.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Common.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.Common.Runtime.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Common.Runtime.dll.hash
+      projectPath: Temp/Unity.2D.Common.Runtime.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.IK.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.IK.Editor.dll.hash
+      projectPath: Temp/Unity.2D.IK.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.IK.Runtime.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.IK.Runtime.dll.hash
+      projectPath: Temp/Unity.2D.IK.Runtime.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.Path.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Path.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Path.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.PixelPerfect.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.PixelPerfect.dll.hash
+      projectPath: Temp/Unity.2D.PixelPerfect.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+      projectPath: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.Sprite.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Sprite.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Sprite.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+      projectPath: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+      projectPath: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.2D.Tilemap.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.2D.Tilemap.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Tilemap.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.CollabProxy.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.CollabProxy.Editor.dll.hash
+      projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+      projectPath: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+      projectPath: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.Mathematics.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.Mathematics.dll.hash
+      projectPath: Temp/Unity.Mathematics.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.Mathematics.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.Mathematics.Editor.dll.hash
+      projectPath: Temp/Unity.Mathematics.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.Rider.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.Rider.Editor.dll.hash
+      projectPath: Temp/Unity.Rider.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.TextMeshPro.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.TextMeshPro.dll.hash
+      projectPath: Temp/Unity.TextMeshPro.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.TextMeshPro.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.TextMeshPro.Editor.dll.hash
+      projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.Timeline.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.Timeline.dll.hash
+      projectPath: Temp/Unity.Timeline.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.Timeline.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.Timeline.Editor.dll.hash
+      projectPath: Temp/Unity.Timeline.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.VisualStudio.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.VisualStudio.Editor.dll.hash
+      projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/Unity.VSCode.Editor.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Unity.VSCode.Editor.dll.hash
+      projectPath: Temp/Unity.VSCode.Editor.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityEditor.TestRunner.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityEditor.TestRunner.dll.hash
+      projectPath: Temp/UnityEditor.TestRunner.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityEditor.UI.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityEditor.UI.dll.hash
+      projectPath: Temp/UnityEditor.UI.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityEngine.TestRunner.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityEngine.TestRunner.dll.hash
+      projectPath: Temp/UnityEngine.TestRunner.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityEngine.UI.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityEngine.UI.dll.hash
+      projectPath: Temp/UnityEngine.UI.dll.hash
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-0179e02260a3d41b7b0774cfe0f0a1a6
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-0179e02260a3d41b7b0774cfe0f0a1a6
+      projectPath: Temp/UnityTempFile-0179e02260a3d41b7b0774cfe0f0a1a6
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-0398d9de24c744730a5b75a51bcc49f5
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-0398d9de24c744730a5b75a51bcc49f5
+      projectPath: Temp/UnityTempFile-0398d9de24c744730a5b75a51bcc49f5
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-1315bdfbfacd34d13ab5bd55a65f2665
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-1315bdfbfacd34d13ab5bd55a65f2665
+      projectPath: Temp/UnityTempFile-1315bdfbfacd34d13ab5bd55a65f2665
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-18edefc97f77247ec8cb19caa1f6d72e
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-18edefc97f77247ec8cb19caa1f6d72e
+      projectPath: Temp/UnityTempFile-18edefc97f77247ec8cb19caa1f6d72e
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-19b9710878bf14daea0e4191d2be6291
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-19b9710878bf14daea0e4191d2be6291
+      projectPath: Temp/UnityTempFile-19b9710878bf14daea0e4191d2be6291
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-208544116d9a4433b9e34e3d11d56ce1
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-208544116d9a4433b9e34e3d11d56ce1
+      projectPath: Temp/UnityTempFile-208544116d9a4433b9e34e3d11d56ce1
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-288fbacd5ef0044138de886fec0edafd
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-288fbacd5ef0044138de886fec0edafd
+      projectPath: Temp/UnityTempFile-288fbacd5ef0044138de886fec0edafd
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-2acf6555bce5e4f129e4285c1451ebeb
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-2acf6555bce5e4f129e4285c1451ebeb
+      projectPath: Temp/UnityTempFile-2acf6555bce5e4f129e4285c1451ebeb
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-35b6e19d6d3914fafbca73d001cc8ace
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-35b6e19d6d3914fafbca73d001cc8ace
+      projectPath: Temp/UnityTempFile-35b6e19d6d3914fafbca73d001cc8ace
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-3dedfe0fea1bc44aca49177cc4f15174
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-3dedfe0fea1bc44aca49177cc4f15174
+      projectPath: Temp/UnityTempFile-3dedfe0fea1bc44aca49177cc4f15174
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-50b16d36f494b4c4483c8f54850beb83
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-50b16d36f494b4c4483c8f54850beb83
+      projectPath: Temp/UnityTempFile-50b16d36f494b4c4483c8f54850beb83
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-5a4a55e1a65744f4d9b347f27ed840f7
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-5a4a55e1a65744f4d9b347f27ed840f7
+      projectPath: Temp/UnityTempFile-5a4a55e1a65744f4d9b347f27ed840f7
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-5b961a9b3503146cdb25d1d8d3eff918
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-5b961a9b3503146cdb25d1d8d3eff918
+      projectPath: Temp/UnityTempFile-5b961a9b3503146cdb25d1d8d3eff918
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-5defc422d19d64b0aa11b334139d6afd
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-5defc422d19d64b0aa11b334139d6afd
+      projectPath: Temp/UnityTempFile-5defc422d19d64b0aa11b334139d6afd
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-6e68691d5aff04a448b01fc1f2e2125c
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-6e68691d5aff04a448b01fc1f2e2125c
+      projectPath: Temp/UnityTempFile-6e68691d5aff04a448b01fc1f2e2125c
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-80eac7117b88346eb9907a298b9d951e
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-80eac7117b88346eb9907a298b9d951e
+      projectPath: Temp/UnityTempFile-80eac7117b88346eb9907a298b9d951e
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-8c7b5b5fa05394ee9b70fc6a4ce0cecc
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-8c7b5b5fa05394ee9b70fc6a4ce0cecc
+      projectPath: Temp/UnityTempFile-8c7b5b5fa05394ee9b70fc6a4ce0cecc
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-940d2c01c840047529876935e0bb6c97
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-940d2c01c840047529876935e0bb6c97
+      projectPath: Temp/UnityTempFile-940d2c01c840047529876935e0bb6c97
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-98abf8cc470684eaea13f5800876c095
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-98abf8cc470684eaea13f5800876c095
+      projectPath: Temp/UnityTempFile-98abf8cc470684eaea13f5800876c095
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-a18426a7d8a854898885b83ef12a289e
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-a18426a7d8a854898885b83ef12a289e
+      projectPath: Temp/UnityTempFile-a18426a7d8a854898885b83ef12a289e
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-a371bb34c30b8444084ef4549fe4afde
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-a371bb34c30b8444084ef4549fe4afde
+      projectPath: Temp/UnityTempFile-a371bb34c30b8444084ef4549fe4afde
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-ad9c8b13aeb7c4452bb29193dd735b1d
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-ad9c8b13aeb7c4452bb29193dd735b1d
+      projectPath: Temp/UnityTempFile-ad9c8b13aeb7c4452bb29193dd735b1d
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-ae39943dde05842cd8465c6dafe2234f
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-ae39943dde05842cd8465c6dafe2234f
+      projectPath: Temp/UnityTempFile-ae39943dde05842cd8465c6dafe2234f
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-b914e31e811bc4175ba7386cf152d076
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-b914e31e811bc4175ba7386cf152d076
+      projectPath: Temp/UnityTempFile-b914e31e811bc4175ba7386cf152d076
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-bb0542c3c73c942488cec7f027b858f3
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-bb0542c3c73c942488cec7f027b858f3
+      projectPath: Temp/UnityTempFile-bb0542c3c73c942488cec7f027b858f3
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-c43e7d5b9e590449da606e9abec337c0
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-c43e7d5b9e590449da606e9abec337c0
+      projectPath: Temp/UnityTempFile-c43e7d5b9e590449da606e9abec337c0
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-ca2e9adb384f44be79a7f7fbf330f4f8
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-ca2e9adb384f44be79a7f7fbf330f4f8
+      projectPath: Temp/UnityTempFile-ca2e9adb384f44be79a7f7fbf330f4f8
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-d29e58562734c4f07a371b305f9f8f92
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-d29e58562734c4f07a371b305f9f8f92
+      projectPath: Temp/UnityTempFile-d29e58562734c4f07a371b305f9f8f92
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-d3c9f251a0f994a75bc90695b8aa16a1
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-d3c9f251a0f994a75bc90695b8aa16a1
+      projectPath: Temp/UnityTempFile-d3c9f251a0f994a75bc90695b8aa16a1
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-db69f1aa205cd4c5db8aa74610fff4f7
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-db69f1aa205cd4c5db8aa74610fff4f7
+      projectPath: Temp/UnityTempFile-db69f1aa205cd4c5db8aa74610fff4f7
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-db9bcb76c614f453faf692fae3eab0eb
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-db9bcb76c614f453faf692fae3eab0eb
+      projectPath: Temp/UnityTempFile-db9bcb76c614f453faf692fae3eab0eb
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-e846bec8b77934f91bcfc6b2dafc7484
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-e846bec8b77934f91bcfc6b2dafc7484
+      projectPath: Temp/UnityTempFile-e846bec8b77934f91bcfc6b2dafc7484
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Game_Design_Club/Temp/UnityTempFile-ea44ee228f3484d56b6e910b7246019b
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-ea44ee228f3484d56b6e910b7246019b
+      projectPath: Temp/UnityTempFile-ea44ee228f3484d56b6e910b7246019b
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    changedFilesText: 82 changed files
+    lastCurrentBranchChangedEvent:
+      updatedTimeString: 2021-02-17T18:29:09.808-08:00
+      cacheType: 1
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2021-02-17T18:31:11.202-08:00
+      cacheType: 6
+    lastLocksChangedEvent:
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      cacheType: 7
+  historyView:
+    currentLogHasUpdate: 0
+    currentTrackingStatusHasUpdate: 0
+    logEntries:
+    - commitID: 47962151cbc65ae2f77c0435be25fc1ea68247f1
+      mergeA: 5eb0340911ba41139bd3ccce30220154c8c7c8cf
+      mergeB: c11af2c8c11a65bd86a5720bfa2f72500579265d
+      authorName: Wesley Vong
+      authorEmail: wv@vongs.com
+      commitEmail: wv@vongs.com
+      commitName: Wesley Vong
+      summary: Merge branch 'main' of https://github.com/WesleyVong/GameDesignClubGame
+        into main
+      description: 
+      timeString: 2021-02-17T17:33:43.000-08:00
+      commitTimeString: 2021-02-17T17:33:43.000-08:00
+      changes: []
+    - commitID: 5eb0340911ba41139bd3ccce30220154c8c7c8cf
+      mergeA: 
+      mergeB: 
+      authorName: Wesley Vong
+      authorEmail: wv@vongs.com
+      commitEmail: wv@vongs.com
+      commitName: Wesley Vong
+      summary: Reset State
+      description: 
+      timeString: 2021-02-17T17:20:45.000-08:00
+      commitTimeString: 2021-02-17T17:20:45.000-08:00
+      changes:
+      - path: .gitignore
+        fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+        projectPath: ../.gitignore
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: README.md
+        fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+        projectPath: ../README.md
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+    - commitID: c11af2c8c11a65bd86a5720bfa2f72500579265d
+      mergeA: 
+      mergeB: 
+      authorName: Wesley Vong
+      authorEmail: wv@vongs.com
+      commitEmail: wv@vongs.com
+      commitName: Wesley Vong
+      summary: Reset State
+      description: 
+      timeString: 2021-02-17T17:20:45.000-08:00
+      commitTimeString: 2021-02-17T17:20:45.000-08:00
+      changes:
+      - path: .gitignore
+        fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+        projectPath: ../.gitignore
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: README.md
+        fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+        projectPath: ../README.md
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+    - commitID: f4590c661ce949d6475b13bd8496d0d4452db7e0
+      mergeA: 
+      mergeB: 
+      authorName: WesleyVong
+      authorEmail: wv@vongs.com
+      commitEmail: noreply@github.com
+      commitName: GitHub
+      summary: Initial commit
+      description: 
+      timeString: 2021-02-01T14:39:48.000-08:00
+      commitTimeString: 2021-02-01T14:39:48.000-08:00
+      changes:
+      - path: .gitignore
+        fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+        projectPath: ../.gitignore
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: README.md
+        fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+        projectPath: ../README.md
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+    - commitID: f98ba45bbf018a7cd7060759335de809883690f8
+      mergeA: 
+      mergeB: 
+      authorName: WesleyVong
+      authorEmail: wv@vongs.com
+      commitEmail: noreply@github.com
+      commitName: GitHub
+      summary: Initial commit
+      description: 
+      timeString: 2021-02-01T14:39:48.000-08:00
+      commitTimeString: 2021-02-01T14:39:48.000-08:00
+      changes:
+      - path: .gitignore
+        fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+        projectPath: ../.gitignore
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: README.md
+        fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+        projectPath: ../README.md
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+    statusAhead: 0
+    lastLogChangedEvent:
+      updatedTimeString: 2021-02-17T17:46:25.751-08:00
+      cacheType: 3
+    lastTrackingStatusChangedEvent:
+      updatedTimeString: 2021-02-17T17:46:23.224-08:00
+      cacheType: 5
+    historyControl:
+      scroll: {x: 0, y: 0}
+      entries:
+      - commitID: 47962151cbc65ae2f77c0435be25fc1ea68247f1
+        mergeA: 5eb0340911ba41139bd3ccce30220154c8c7c8cf
+        mergeB: c11af2c8c11a65bd86a5720bfa2f72500579265d
+        authorName: Wesley Vong
+        authorEmail: wv@vongs.com
+        commitEmail: wv@vongs.com
+        commitName: Wesley Vong
+        summary: Merge branch 'main' of https://github.com/WesleyVong/GameDesignClubGame
+          into main
+        description: 
+        timeString: 2021-02-17T17:33:43.000-08:00
+        commitTimeString: 2021-02-17T17:33:43.000-08:00
+        changes: []
+      - commitID: 5eb0340911ba41139bd3ccce30220154c8c7c8cf
+        mergeA: 
+        mergeB: 
+        authorName: Wesley Vong
+        authorEmail: wv@vongs.com
+        commitEmail: wv@vongs.com
+        commitName: Wesley Vong
+        summary: Reset State
+        description: 
+        timeString: 2021-02-17T17:20:45.000-08:00
+        commitTimeString: 2021-02-17T17:20:45.000-08:00
+        changes:
+        - path: .gitignore
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+          projectPath: ../.gitignore
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: README.md
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+          projectPath: ../README.md
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+      - commitID: c11af2c8c11a65bd86a5720bfa2f72500579265d
+        mergeA: 
+        mergeB: 
+        authorName: Wesley Vong
+        authorEmail: wv@vongs.com
+        commitEmail: wv@vongs.com
+        commitName: Wesley Vong
+        summary: Reset State
+        description: 
+        timeString: 2021-02-17T17:20:45.000-08:00
+        commitTimeString: 2021-02-17T17:20:45.000-08:00
+        changes:
+        - path: .gitignore
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+          projectPath: ../.gitignore
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: README.md
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+          projectPath: ../README.md
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+      - commitID: f4590c661ce949d6475b13bd8496d0d4452db7e0
+        mergeA: 
+        mergeB: 
+        authorName: WesleyVong
+        authorEmail: wv@vongs.com
+        commitEmail: noreply@github.com
+        commitName: GitHub
+        summary: Initial commit
+        description: 
+        timeString: 2021-02-01T14:39:48.000-08:00
+        commitTimeString: 2021-02-01T14:39:48.000-08:00
+        changes:
+        - path: .gitignore
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+          projectPath: ../.gitignore
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: README.md
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+          projectPath: ../README.md
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+      - commitID: f98ba45bbf018a7cd7060759335de809883690f8
+        mergeA: 
+        mergeB: 
+        authorName: WesleyVong
+        authorEmail: wv@vongs.com
+        commitEmail: noreply@github.com
+        commitName: GitHub
+        summary: Initial commit
+        description: 
+        timeString: 2021-02-01T14:39:48.000-08:00
+        commitTimeString: 2021-02-01T14:39:48.000-08:00
+        changes:
+        - path: .gitignore
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+          projectPath: ../.gitignore
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: README.md
+          fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+          projectPath: ../README.md
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+      statusAhead: 0
+      selectedIndex: -1
+    selectedEntry:
+      commitID: 
+      mergeA: 
+      mergeB: 
+      authorName: 
+      authorEmail: 
+      commitEmail: 
+      commitName: 
+      summary: 
+      description: 
+      timeString: 0001-01-01T00:00:00.000+00:00
+      commitTimeString: 0001-01-01T00:00:00.000+00:00
+      changes: []
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys: []
+        values: []
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: /
+      displayRootNode: 0
+      isSelectable: 1
+      isCheckable: 0
+      isUsingGlobalSelection: 0
+      nodes: []
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+    detailsScroll: {x: 0, y: 0}
+  settingsView:
+    gitPathView:
+      gitPath: /usr/bin/git
+      gitLfsPath: /Users/wesleyvong/Library/Application Support/GitHubUnity/git-lfs/git-lfs
+      errorMessage: 
+      resetToBundled: 0
+      resetToSystem: 0
+      changingManually: 0
+    hasRemote: 1
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2021-02-17T17:46:14.934-08:00
+      cacheType: 1
+    metricsEnabled: 1
+    newRepositoryRemoteUrl: https://github.com/WesleyVong/GameDesignClubGame.git
+    repositoryRemoteName: origin
+    repositoryRemoteUrl: https://github.com/WesleyVong/GameDesignClubGame.git
+    scroll: {x: 0, y: 0}
+    userSettingsView:
+      gitName: Wesley Vong
+      gitEmail: wv@vongs.com
+      newGitName: Wesley Vong
+      newGitEmail: wv@vongs.com
+      needsSaving: 0
+      lastCheckUserChangedEvent:
+        updatedTimeString: 2021-02-17T17:46:25.908-08:00
+        cacheType: 8
+    webTimeout: 3000
+    gitTimeout: 5000
+  locksView:
+    currentRemoteHasUpdate: 0
+    currentStatusEntriesHasUpdate: 0
+    currentLocksHasUpdate: 0
+    keychainHasUpdate: 0
+    locksControl:
+      scroll: {x: 0, y: 0}
+      gitLockEntries: []
+      assets:
+        keys: []
+        values: []
+      gitStatusDictionary:
+        keys: []
+        values: []
+      selectedEntry:
+        gitLock:
+          id: 
+          path: 
+          owner:
+            name: 
+            email: 
+          lockedAtString: 
+        gitFileStatus: 0
+        lockedAt: 
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 
+      cacheType: 0
+    lastLocksChangedEvent:
+      updatedTimeString: 
+      cacheType: 0
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 
+      cacheType: 0
+    lockedFiles: []
+    gitStatusEntries: []
+    currentUsername: 
+    unlockFileMenuContent:
+      m_Text: Release Lock
+      m_Image: {fileID: 0}
+      m_Tooltip: 
+    forceUnlockFileMenuContent:
+      m_Text: Release Lock (forced)
+      m_Image: {fileID: 0}
+      m_Tooltip: 
+  hasRemote: 1
+  currentRemoteName: origin
+  currentBranch: main
+  currentRemoteUrl: https://github.com/WesleyVong/GameDesignClubGame.git
+  statusAhead: 0
+  statusBehind: 0
+  hasItemsToCommit: 1
+  isTrackingRemoteBranch: 1
+  currentBranchContent:
+    m_Text: main
+    m_Image: {fileID: 0}
+    m_Tooltip: Active branch
+  currentRemoteUrlContent:
+    m_Text: https://github.com/WesleyVong/GameDesignClubGame.git
+    m_Image: {fileID: 0}
+    m_Tooltip: Url of the origin remote
+  lastCurrentBranchAndRemoteChangedEvent:
+    updatedTimeString: 2021-02-17T18:29:09.808-08:00
+    cacheType: 1
+  lastTrackingStatusChangedEvent:
+    updatedTimeString: 2021-02-17T18:29:10.106-08:00
+    cacheType: 5
+  lastStatusEntriesChangedEvent:
+    updatedTimeString: 2021-02-17T18:31:11.202-08:00
+    cacheType: 6
+  pullButtonContent:
+    m_Text: Pull
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  pushButtonContent:
+    m_Text: Push
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  refreshButtonContent:
+    m_Text: Refresh
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  fetchButtonContent:
+    m_Text: Fetch
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  repositoryProgressValue: 0
+  repositoryProgressMessage: 
+  appManagerProgressValue: 1
+  appManagerProgressMessage: Initialized
+  connections: []
+  primaryConnectionUsername: WesleyVong
+--- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -306,7 +3299,7 @@ MonoBehaviour:
     height: 1324
   m_ViewDataDictionary: {fileID: 0}
   m_VertSplit:
-    ID: 142
+    ID: 35
     splitterInitialOffset: 0
     currentActiveSplitter: -1
     realSizes:
@@ -1125,7 +4118,7 @@ MonoBehaviour:
           m_ScrollBias: {x: 0, y: 0}
     0000000E:
       type: {class: ProfilerWindow/ProfilerWindowControllerProxy, ns: UnityEditor, asm: UnityEditor.CoreModule}
---- !u!114 &13
+--- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1145,8 +4138,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1576
-    y: 75
+    x: 310
+    y: 19
     width: 954
     height: 662
   m_ViewDataDictionary: {fileID: 0}
@@ -1161,9 +4154,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 2.1835175, y: 1.9596148, z: -0.006440806}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 2.2779918, y: 2.0001965, z: 0.00010500576}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1214,9 +4207,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 9.777545
     speed: 2
-    m_Value: 10
+    m_Value: 9.984999
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1241,7 +4234,7 @@ MonoBehaviour:
   m_SceneVisActive: 1
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
---- !u!114 &14
+--- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1330,7 +4323,7 @@ MonoBehaviour:
   m_LowResolutionForAspectRatios: 00000000000100000100
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
---- !u!114 &15
+--- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1350,8 +4343,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1267
-    y: 75
+    x: 0
+    y: 19
     width: 308
     height: 662
   m_ViewDataDictionary: {fileID: 0}
@@ -1384,7 +4377,7 @@ MonoBehaviour:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
   m_WindowGUID: 4a003cea37bda49ecab604ee303d2f3c
---- !u!114 &16
+--- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1404,8 +4397,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1267
-    y: 758
+    x: 0
+    y: 702
     width: 1264
     height: 641
   m_ViewDataDictionary: {fileID: 0}
@@ -1435,9 +4428,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a63f0000
-    m_LastClickedID: 16294
-    m_ExpandedIDs: 00000000a63f000000ca9a3b
+    m_SelectedIDs: 4a400000
+    m_LastClickedID: 16458
+    m_ExpandedIDs: 000000004a40000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1465,7 +4458,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a63f0000
+    m_ExpandedIDs: 000000004a400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1492,7 +4485,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000162800009e090000aa0900005a3c000074290000ec2900009c4d00005a920000be5b0000049300001ade0000fc080100881801006c810100da84010002010200780e0200920e02006e5a0000843d000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1521,7 +4514,7 @@ MonoBehaviour:
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 115
---- !u!114 &17
+--- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1546,7 +4539,7 @@ MonoBehaviour:
     width: 1855
     height: 666
   m_ViewDataDictionary: {fileID: 0}
---- !u!114 &18
+--- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1583,7 +4576,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
---- !u!114 &19
+--- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
