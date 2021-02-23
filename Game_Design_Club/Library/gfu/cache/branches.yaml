@@ -13,19 +13,38 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-17T17:46:28.120-08:00
-  initializedAtString: 2021-02-17T17:46:27.958-08:00
+  lastUpdatedAtString: 2021-02-22T16:20:05.365-08:00
+  initializedAtString: 2021-02-22T16:19:57.333-08:00
   localBranches:
   - name: main
     tracking: origin/main
+  - name: master
+    tracking: upstream/master
+  - name: Stephen
+    tracking: upstream/Stephen
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/main
     tracking: '[None]'
+  - name: upstream/Charles
+    tracking: '[None]'
+  - name: upstream/main
+    tracking: '[None]'
+  - name: upstream/master
+    tracking: '[None]'
+  - name: upstream/Stephen
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/WesleyVong/GameDesignClubGame.git
+    url: https://github.com/StephenXie/GameDesignClubGame.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: upstream
+    url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
     login: 
     user: 
     host: 
@@ -34,34 +53,76 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - main
+    - master
+    - Stephen
     values:
     - name: main
       remote:
         name: origin
-        url: https://github.com/WesleyVong/GameDesignClubGame.git
+        url: https://github.com/StephenXie/GameDesignClubGame.git
       trackingBranch: main
+    - name: master
+      remote:
+        name: upstream
+        url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
+      trackingBranch: master
+    - name: Stephen
+      remote:
+        name: upstream
+        url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
+      trackingBranch: Stephen
   remoteConfigBranches:
     keys:
     - origin
+    - upstream
     subKeys:
     - Values:
       - HEAD
       - main
+    - Values:
+      - Charles
+      - main
+      - master
+      - Stephen
     subKeyValues:
     - Values:
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/WesleyVong/GameDesignClubGame.git
+          url: https://github.com/StephenXie/GameDesignClubGame.git
         trackingBranch: 
       - name: main
         remote:
           name: origin
-          url: https://github.com/WesleyVong/GameDesignClubGame.git
+          url: https://github.com/StephenXie/GameDesignClubGame.git
+        trackingBranch: 
+    - Values:
+      - name: Charles
+        remote:
+          name: upstream
+          url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
+        trackingBranch: 
+      - name: main
+        remote:
+          name: upstream
+          url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: upstream
+          url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
+        trackingBranch: 
+      - name: Stephen
+        remote:
+          name: upstream
+          url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
+    - upstream
     values:
     - name: origin
-      url: https://github.com/WesleyVong/GameDesignClubGame.git
+      url: https://github.com/StephenXie/GameDesignClubGame.git
+    - name: upstream
+      url: https://github.com/QLS-Game-Design/GameDesignClubGame.git

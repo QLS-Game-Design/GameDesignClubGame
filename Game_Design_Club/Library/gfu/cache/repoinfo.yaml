@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-02-17T17:46:14.934-08:00
-  initializedAtString: 2021-02-17T17:46:14.934-08:00
+  lastUpdatedAtString: 2021-02-22T16:20:05.372-08:00
+  initializedAtString: 2021-02-22T16:19:56.725-08:00
   currentGitRemote:
-    name: origin
-    url: https://github.com/WesleyVong/GameDesignClubGame.git
+    name: upstream
+    url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: Stephen
+    tracking: upstream/Stephen
   currentConfigBranch:
-    name: main
+    name: Stephen
     remote:
-      name: origin
-      url: https://github.com/WesleyVong/GameDesignClubGame.git
-    trackingBranch: main
+      name: upstream
+      url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
+    trackingBranch: Stephen
   currentConfigRemote:
-    name: origin
-    url: https://github.com/WesleyVong/GameDesignClubGame.git
+    name: upstream
+    url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
   currentHead: 
