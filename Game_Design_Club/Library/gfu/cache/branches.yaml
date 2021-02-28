@@ -13,19 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-22T16:39:23.831-08:00
-  initializedAtString: 2021-02-22T16:39:23.821-08:00
+  lastUpdatedAtString: 2021-02-27T21:05:28.458-08:00
+  initializedAtString: 2021-02-27T21:05:26.727-08:00
   localBranches:
+  - name: Charles
+    tracking: origin/Charles
   - name: main
     tracking: origin/main
   remoteBranches:
-  - name: origin/HEAD
+  - name: origin/Charles
     tracking: '[None]'
-  - name: origin/main
+  - name: origin/HEAD
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/WesleyVong/GameDesignClubGame.git
+    url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
     login: 
     user: 
     host: 
@@ -33,35 +35,41 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - Charles
     - main
     values:
+    - name: Charles
+      remote:
+        name: origin
+        url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
+      trackingBranch: Charles
     - name: main
       remote:
         name: origin
-        url: https://github.com/WesleyVong/GameDesignClubGame.git
+        url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
       trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - Charles
       - HEAD
-      - main
     subKeyValues:
     - Values:
+      - name: Charles
+        remote:
+          name: origin
+          url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
+        trackingBranch: 
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/WesleyVong/GameDesignClubGame.git
-        trackingBranch: 
-      - name: main
-        remote:
-          name: origin
-          url: https://github.com/WesleyVong/GameDesignClubGame.git
+          url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/WesleyVong/GameDesignClubGame.git
+      url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
