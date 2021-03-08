@@ -56,9 +56,20 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/NewBehaviourScript.cs" />
+    <Compile Include="Assets/Unused/_Complete-Game/Scripts/Player.cs" />
+    <Compile Include="Assets/Unused/TutorialInfo/Scripts/Readme.cs" />
+    <Compile Include="Assets/Unused/_Complete-Game/Scripts/Wall.cs" />
+    <Compile Include="Assets/Unused/_Complete-Game/Scripts/Enemy.cs" />
+    <Compile Include="Assets/Unused/_Complete-Game/Scripts/MovingObject.cs" />
+    <Compile Include="Assets/Unused/_Complete-Game/Scripts/GameManager.cs" />
+    <Compile Include="Assets/Unused/_Complete-Game/Scripts/Loader.cs" />
+    <Compile Include="Assets/Unused/_Complete-Game/Scripts/SoundManager.cs" />
+    <Compile Include="Assets/Unused/TutorialInfo/Scripts/TutorialInfo.cs" />
+    <Compile Include="Assets/Unused/_Complete-Game/Scripts/BoardManager.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets/Fonts/OFL.txt" />
+     <None Include="Assets/Unused/TutorialInfo/Fonts/LICENSE.txt" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

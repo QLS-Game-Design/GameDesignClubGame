@@ -13,9 +13,273 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-22T16:41:50.879-08:00
-  initializedAtString: 2021-02-22T16:41:50.879-08:00
+  lastUpdatedAtString: 2021-03-08T09:13:27.768-08:00
+  initializedAtString: 2021-03-08T09:12:45.104-08:00
   log:
+  - commitID: 6944d80f9b44affb4f79135f8c4c95c757aaaba7
+    mergeA: 
+    mergeB: 
+    authorName: WesleyVong
+    authorEmail: wv@vongs.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create .gitignore
+    description: 
+    timeString: 2021-02-22T17:05:27.000-08:00
+    commitTimeString: 2021-02-22T17:05:27.000-08:00
+    changes:
+    - path: .gitignore
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.gitignore
+      projectPath: ../.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 802f312ffc185f65dc295ddd7f04665af332e246
+    mergeA: 
+    mergeB: 
+    authorName: Stephen Xie
+    authorEmail: 49465499+StephenXie@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create README.md
+    description: 
+    timeString: 2021-02-22T16:43:33.000-08:00
+    commitTimeString: 2021-02-22T16:43:33.000-08:00
+    changes:
+    - path: README.md
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/README.md
+      projectPath: ../README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 22dd7a80707ba31297ce662b9f0a38baa923d943
+    mergeA: 
+    mergeB: 
+    authorName: Wesley Vong
+    authorEmail: wv@vongs.com
+    commitEmail: wv@vongs.com
+    commitName: Wesley Vong
+    summary: Added basic file structure
+    description: 
+    timeString: 2021-02-22T16:42:45.000-08:00
+    commitTimeString: 2021-02-22T16:42:45.000-08:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/.DS_Store
+      projectPath: ../.DS_Store
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assembly-CSharp.csproj
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assets/Assets.meta
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Assets.meta
+      projectPath: Assets/Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assets/Assets/Graphics.meta
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Assets/Graphics.meta
+      projectPath: Assets/Assets/Graphics.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assets/Assets/Sound.meta
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Assets/Sound.meta
+      projectPath: Assets/Assets/Sound.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assets/Scripts.meta
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Scripts.meta
+      projectPath: Assets/Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assets/Scripts/Enemy.meta
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Scripts/Enemy.meta
+      projectPath: Assets/Scripts/Enemy.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assets/Scripts/Environment.meta
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Scripts/Environment.meta
+      projectPath: Assets/Scripts/Environment.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assets/Scripts/Misc.meta
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Scripts/Misc.meta
+      projectPath: Assets/Scripts/Misc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assets/Scripts/Player.meta
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Scripts/Player.meta
+      projectPath: Assets/Scripts/Player.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Assets/Scripts/Weapon.meta
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Scripts/Weapon.meta
+      projectPath: Assets/Scripts/Weapon.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Game_Design_Club.sln
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Game_Design_Club.sln
+      projectPath: Game_Design_Club.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/ArtifactDB
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/Artifacts/b9/b923dab9e99f8eafe099d1a9f5d45146
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/b9/b923dab9e99f8eafe099d1a9f5d45146
+      projectPath: Library/Artifacts/b9/b923dab9e99f8eafe099d1a9f5d45146
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/Artifacts/d4/d4c8cc6dc0c3c77ca45c915143396273
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/d4/d4c8cc6dc0c3c77ca45c915143396273
+      projectPath: Library/Artifacts/d4/d4c8cc6dc0c3c77ca45c915143396273
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/CurrentLayout-default.dwlt
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/CurrentLayout-default.dwlt
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/EditorInstance.json
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/EditorUserBuildSettings.asset
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/EditorUserBuildSettings.asset
+      projectPath: Library/EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/SourceAssetDB
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/StateCache/MainStageHierarchy/d7/d73c3d21b4185e9f0a2224590bc958ea.json
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/StateCache/MainStageHierarchy/d7/d73c3d21b4185e9f0a2224590bc958ea.json
+      projectPath: Library/StateCache/MainStageHierarchy/d7/d73c3d21b4185e9f0a2224590bc958ea.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/StateCache/SceneView/b6/b6ad09fc721964690b158d664c514c61.json
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/StateCache/SceneView/b6/b6ad09fc721964690b158d664c514c61.json
+      projectPath: Library/StateCache/SceneView/b6/b6ad09fc721964690b158d664c514c61.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/gfu/cache/branches.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/gfu/cache/gituser.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game_Design_Club/Logs/AssetImportWorker0.log
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Logs/AssetImportWorker0.log
+      projectPath: Logs/AssetImportWorker0.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Temp/Assembly-CSharp.dll.hash
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Assembly-CSharp.dll.hash
+      projectPath: Temp/Assembly-CSharp.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Temp/CompilationLog.txt
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/CompilationLog.txt
+      projectPath: Temp/CompilationLog.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game_Design_Club/Temp/UnityTempFile-0507cde253f90407b9f1bdb10daaa2ce
+      fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-0507cde253f90407b9f1bdb10daaa2ce
+      projectPath: Temp/UnityTempFile-0507cde253f90407b9f1bdb10daaa2ce
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 4f5413abbde1554de5df1453235eec8a3726f0b5
     mergeA: 
     mergeB: 
