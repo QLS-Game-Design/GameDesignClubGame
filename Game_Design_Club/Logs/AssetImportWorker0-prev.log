@@ -1,0 +1,466 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1379; Version 1909; 64bit' Language: 'en' Physical Memory: 7919 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/crazy/Documents/GitHub/GameDesignClubGame/Game_Design_Club
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53053
+Successfully changed project path to: C:/Users/crazy/Documents/GitHub/GameDesignClubGame/Game_Design_Club
+C:/Users/crazy/Documents/GitHub/GameDesignClubGame/Game_Design_Club
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/crazy/Documents/GitHub/GameDesignClubGame/Game_Design_Club/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3964 MB
+    Driver:   27.21.14.5241
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56280
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004169 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 44.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.075 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.014362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 34.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.041 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2290.
+Total: 3.239500 ms (FindLiveObjects: 0.236800 ms CreateObjectMapping: 0.110700 ms MarkObjects: 2.548800 ms  DeleteObjects: 0.341800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Unused/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unused/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef72cfa16a77105575cc5a9f5bad0d89') in 0.095646 seconds
+  Import took 0.102025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.055724 seconds.
+  path: Assets/Audio/scavengers_chop1.aif
+  artifactKey: Guid(4c2332bc8245b474dad63074059bb755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_chop1.aif using Guid(4c2332bc8245b474dad63074059bb755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0314bb4a23cc784a445f44b6c5b002') in 0.082266 seconds
+  Import took 0.085094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Audio/scavengers_fruit2.aif
+  artifactKey: Guid(062161c1897a54088a5430f8c197e1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_fruit2.aif using Guid(062161c1897a54088a5430f8c197e1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472f9e0e9e91cf4053f47510ffa7bf12') in 0.017623 seconds
+  Import took 0.020756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Audio/scavengers_footstep2.aif
+  artifactKey: Guid(a826bc3d758db43d6ae9caf415b63d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_footstep2.aif using Guid(a826bc3d758db43d6ae9caf415b63d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c7843a5a02f47f0b651c08c051bcaa') in 0.016023 seconds
+  Import took 0.019204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Audio/scavengers_footstep1.aif
+  artifactKey: Guid(892962212a4b74d1c9f578a3b6ea6439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_footstep1.aif using Guid(892962212a4b74d1c9f578a3b6ea6439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '264e618922201b796b6263fd6604cbf4') in 0.015591 seconds
+  Import took 0.019219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Audio/scavengers_enemy1.aif
+  artifactKey: Guid(0db8cac2749584a009540aa5671ee80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_enemy1.aif using Guid(0db8cac2749584a009540aa5671ee80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dcb7a97fc750a5fbd1ebdbe1e24e37d') in 0.016145 seconds
+  Import took 0.019547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Audio/scavengers_die.aif
+  artifactKey: Guid(e2beefeb2273f4efe992adf5b8d67c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_die.aif using Guid(e2beefeb2273f4efe992adf5b8d67c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14971117e1954d1e4757c4172a263999') in 0.022413 seconds
+  Import took 0.025670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Audio/scavengers_chop2.aif
+  artifactKey: Guid(f6aaac83be9e0493493aace800b76619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_chop2.aif using Guid(f6aaac83be9e0493493aace800b76619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9d820b62ed95883ebb1bc19b5cfc81') in 0.017603 seconds
+  Import took 0.020430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Audio/scavengers_enemy2.aif
+  artifactKey: Guid(114514a3b3697484ebaa08f7fbf842d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_enemy2.aif using Guid(114514a3b3697484ebaa08f7fbf842d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9713c913c3be1d901b3b51ff200accdd') in 0.016970 seconds
+  Import took 0.020399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Audio/scavengers_soda2.aif
+  artifactKey: Guid(bcb9dda73ee914d3e8f252895f73f461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_soda2.aif using Guid(bcb9dda73ee914d3e8f252895f73f461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e76570d3d688e175fd4f036d01788e46') in 0.018293 seconds
+  Import took 0.021381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Audio/scavengers_soda1.aif
+  artifactKey: Guid(b6b608537288246c9a464915db27bf52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_soda1.aif using Guid(b6b608537288246c9a464915db27bf52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e1b93c5d2c2cbcc7de6e2999ff327d') in 0.017224 seconds
+  Import took 0.020356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Audio/scavengers_music.aif
+  artifactKey: Guid(2d75080d0851d4613ada1117d91ee417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_music.aif using Guid(2d75080d0851d4613ada1117d91ee417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4d5db4576d275a9a58b46f36c74840') in 0.024736 seconds
+  Import took 0.027501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Audio/scavengers_soda1.aif
+  artifactKey: Guid(b6b608537288246c9a464915db27bf52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_soda1.aif using Guid(b6b608537288246c9a464915db27bf52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e1b93c5d2c2cbcc7de6e2999ff327d') in 0.007265 seconds
+  Import took 0.010361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Audio/scavengers_fruit1.aif
+  artifactKey: Guid(1cb61f83d60374c7389bb547431919e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/scavengers_fruit1.aif using Guid(1cb61f83d60374c7389bb547431919e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c5a4bb0842a97084953d9fe62effb0') in 0.016484 seconds
+  Import took 0.019298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097997 seconds.
+  path: Assets/Fonts/PressStart2P-Regular.ttf
+  artifactKey: Guid(b284a6525342f44599e9ce79e37c2d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/PressStart2P-Regular.ttf using Guid(b284a6525342f44599e9ce79e37c2d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b594d6838deb1143cf11be500c29d8') in 0.085563 seconds
+  Import took 0.089398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.404527 seconds.
+  path: Assets/Map/Ground.prefab
+  artifactKey: Guid(5cac4e58b57784054a8eedd0e5e86bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Ground.prefab using Guid(5cac4e58b57784054a8eedd0e5e86bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f07ed1f321874483d24798b3571881d') in 0.015942 seconds
+  Import took 0.019474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_21.asset
+  artifactKey: Guid(070ce18a121864b87a8361ca80f5b11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_21.asset using Guid(070ce18a121864b87a8361ca80f5b11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f46fdff7e84d0c06268a1c1856f4b93') in 0.055777 seconds
+  Import took 0.058825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_22.asset
+  artifactKey: Guid(5e4d045d01deb4081b070aa2b22225ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_22.asset using Guid(5e4d045d01deb4081b070aa2b22225ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56a5347cd5d2dfa803bf336b2c1fd71') in 0.012418 seconds
+  Import took 0.015267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_26.asset
+  artifactKey: Guid(64c2c2e4be41b4bc68ccaaeeb17e372f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_26.asset using Guid(64c2c2e4be41b4bc68ccaaeeb17e372f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f8007b69d475171b78dfbd542d53a6') in 0.014688 seconds
+  Import took 0.017515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_38.asset
+  artifactKey: Guid(7851a588e73104d2188d02c8146df0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_38.asset using Guid(7851a588e73104d2188d02c8146df0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f736f5c1408fe99c99c75f7fd6c7de21') in 0.014494 seconds
+  Import took 0.017349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_30.asset
+  artifactKey: Guid(0fab56ea075a9436b91515fbc4314598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_30.asset using Guid(0fab56ea075a9436b91515fbc4314598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e936301fa3c69e18fe3ac66a27e5ae') in 0.014056 seconds
+  Import took 0.017451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_52.asset
+  artifactKey: Guid(591d8be6baf714bcca57404954572aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_52.asset using Guid(591d8be6baf714bcca57404954572aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de25ca0eaea77a3e0e9f4e7a5acda125') in 0.013714 seconds
+  Import took 0.017344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_32.asset
+  artifactKey: Guid(a68e260a5db874cf48d075d32d616bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_32.asset using Guid(a68e260a5db874cf48d075d32d616bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b98e9ba0ec24ffddec95f2f1a691f0') in 0.013989 seconds
+  Import took 0.017476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_29.asset
+  artifactKey: Guid(3aabb3c50c0eb45a6acc6fa6958338d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_29.asset using Guid(3aabb3c50c0eb45a6acc6fa6958338d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b51c4789fc8aa629460e23d9e67caa') in 0.014939 seconds
+  Import took 0.018090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_37.asset
+  artifactKey: Guid(6bbad8600a8e44928bcdecb84c6fb6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_37.asset using Guid(6bbad8600a8e44928bcdecb84c6fb6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2ee6fb03878a73012cc2f90d325096') in 0.014904 seconds
+  Import took 0.017765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_24.asset
+  artifactKey: Guid(e44538961631f44618251d7d92044ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_24.asset using Guid(e44538961631f44618251d7d92044ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39383843aeec0531122fc1f7847c2bf5') in 0.014013 seconds
+  Import took 0.016811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_33.asset
+  artifactKey: Guid(fd45308b243bd4ebe80df798d575ad07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_33.asset using Guid(fd45308b243bd4ebe80df798d575ad07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad3db16ae2dbc0fb7b3b5852fbd7819c') in 0.013757 seconds
+  Import took 0.017008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_36.asset
+  artifactKey: Guid(ce75d07f61f124d48a6b95b01ec08af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_36.asset using Guid(ce75d07f61f124d48a6b95b01ec08af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7211874152bf343b88ca7f6e70ca3cbb') in 0.015138 seconds
+  Import took 0.018515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_27.asset
+  artifactKey: Guid(d7494e25bb8c04f91a6cf4a60113f9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_27.asset using Guid(d7494e25bb8c04f91a6cf4a60113f9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419d51a51c88ebe24e7ce90962f59934') in 0.016064 seconds
+  Import took 0.018986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_50.asset
+  artifactKey: Guid(fc02c69329cdf4e0383fbb6804360558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_50.asset using Guid(fc02c69329cdf4e0383fbb6804360558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ded5c00b25e2936e6e682527a393101') in 0.016928 seconds
+  Import took 0.019690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_49.asset
+  artifactKey: Guid(27f96f171a86140aca60b93492a20647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_49.asset using Guid(27f96f171a86140aca60b93492a20647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e9240657edad4af4cb3e682c0d2dd2') in 0.016007 seconds
+  Import took 0.018944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_39.asset
+  artifactKey: Guid(e2185e1f819584819a31b1a6c90f7e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_39.asset using Guid(e2185e1f819584819a31b1a6c90f7e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b7b04ecf962ae92b0182a28faae930') in 0.015608 seconds
+  Import took 0.019023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_51.asset
+  artifactKey: Guid(f58da0e965cd6446b93cca45d0c82c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_51.asset using Guid(f58da0e965cd6446b93cca45d0c82c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4a6894fa17282e1ad4367576164ae12') in 0.013819 seconds
+  Import took 0.016702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_35.asset
+  artifactKey: Guid(6436a0d3ae6064f5cad94ddddab2372c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_35.asset using Guid(6436a0d3ae6064f5cad94ddddab2372c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1e281ec664202d601cfe3fac7214bd') in 0.013541 seconds
+  Import took 0.017494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_34.asset
+  artifactKey: Guid(3c081c125d7084114848603f2d124178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_34.asset using Guid(3c081c125d7084114848603f2d124178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e5031dd2055db2c198bfc98650dc1e') in 0.015861 seconds
+  Import took 0.019520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_28.asset
+  artifactKey: Guid(9f79066b227414f718eba1185ae9ab3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_28.asset using Guid(9f79066b227414f718eba1185ae9ab3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f2ca4840f3e2d5aabfb7a78a338848') in 0.014982 seconds
+  Import took 0.018535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_23.asset
+  artifactKey: Guid(e9c6d93e3a8b44563a02d6c94f708217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_23.asset using Guid(e9c6d93e3a8b44563a02d6c94f708217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70243d39f6cef566c3ca0d8dec637094') in 0.015544 seconds
+  Import took 0.018444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_25.asset
+  artifactKey: Guid(dae8851c4826c49d38e3041ba2c290fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_25.asset using Guid(dae8851c4826c49d38e3041ba2c290fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '017f36b10ee11c2efc8051d6bade626d') in 0.015336 seconds
+  Import took 0.018219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_31.asset
+  artifactKey: Guid(a8bcc7b8c38f1433d9658af54fa1bae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_31.asset using Guid(a8bcc7b8c38f1433d9658af54fa1bae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84d7385ab4e5e964f783e13f06b1fb28') in 0.013683 seconds
+  Import took 0.016581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_48.asset
+  artifactKey: Guid(4b4fe1d6529a6456b9fbe209791887f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_48.asset using Guid(4b4fe1d6529a6456b9fbe209791887f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d856b03d0ad80bbd45c6c5352f177aa') in 0.014685 seconds
+  Import took 0.017440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_53.asset
+  artifactKey: Guid(89684c75180054c0a9609eb096275e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_53.asset using Guid(89684c75180054c0a9609eb096275e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eac80a509c3e22bd28909d0ce9a3818') in 0.014497 seconds
+  Import took 0.017683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Map/Scavengers_SpriteSheet_54.asset
+  artifactKey: Guid(117d2237d7ea949acacb5e2f7c33a200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map/Scavengers_SpriteSheet_54.asset using Guid(117d2237d7ea949acacb5e2f7c33a200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3141695cc53b3d52eda93f9935608844') in 0.014516 seconds
+  Import took 0.018149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 142.713696 seconds.
+  path: Assets/Scripts/Enemy/Enemy.cs
+  artifactKey: Guid(10099e730dfafce46b704cb30648efc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemy/Enemy.cs using Guid(10099e730dfafce46b704cb30648efc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea92f7b295d87b8b451df6c65108ca1') in 0.016108 seconds
+  Import took 0.019762 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019044 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.231 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2342.
+Total: 3.227100 ms (FindLiveObjects: 0.326700 ms CreateObjectMapping: 0.079500 ms MarkObjects: 2.697500 ms  DeleteObjects: 0.121400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 303.586642 seconds.
+  path: Assets/Scripts/Enemy
+  artifactKey: Guid(eda24244b376a4bb3b5d16f50fdf368c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemy using Guid(eda24244b376a4bb3b5d16f50fdf368c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f43a08f6239919d719af7fa17f53672') in 0.009004 seconds
+  Import took 0.013513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.428276 seconds.
+  path: Assets/Sprites/Scavengers_SpriteSheet.png
+  artifactKey: Guid(fbe1e7b94bb1a4a099d5bcb15a00141c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Scavengers_SpriteSheet.png using Guid(fbe1e7b94bb1a4a099d5bcb15a00141c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1275e0fe987e194b153050734e9d9f04') in 0.208509 seconds
+  Import took 0.213061 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

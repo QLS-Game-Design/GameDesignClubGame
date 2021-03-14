@@ -13,13 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-03-08T09:13:12.032-08:00
-  initializedAtString: 2021-03-08T09:10:22.750-08:00
+  lastUpdatedAtString: 2021-03-13T16:39:59.489-08:00
+  initializedAtString: 2021-03-13T16:39:59.417-08:00
   localBranches:
-  - name: Map
-    tracking: origin/Map
+  - name: Charles
+    tracking: origin/Charles
   - name: main
     tracking: origin/main
+  - name: Map
+    tracking: origin/Map
   remoteBranches:
   - name: origin/Charles
     tracking: '[None]'
@@ -29,11 +31,9 @@ MonoBehaviour:
     tracking: '[None]'
   - name: origin/Stephen
     tracking: '[None]'
-  - name: origin/main
-    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/WesleyVong/GameDesignClubGame.git
+    url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
     login: 
     user: 
     host: 
@@ -41,19 +41,25 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - Map
+    - Charles
     - main
+    - Map
     values:
-    - name: Map
+    - name: Charles
       remote:
         name: origin
-        url: https://github.com/WesleyVong/GameDesignClubGame.git
-      trackingBranch: Map
+        url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
+      trackingBranch: Charles
     - name: main
       remote:
         name: origin
-        url: https://github.com/WesleyVong/GameDesignClubGame.git
+        url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
       trackingBranch: main
+    - name: Map
+      remote:
+        name: origin
+        url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
+      trackingBranch: Map
   remoteConfigBranches:
     keys:
     - origin
@@ -63,37 +69,31 @@ MonoBehaviour:
       - HEAD
       - Map
       - Stephen
-      - main
     subKeyValues:
     - Values:
       - name: Charles
         remote:
           name: origin
-          url: https://github.com/WesleyVong/GameDesignClubGame.git
+          url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
         trackingBranch: 
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/WesleyVong/GameDesignClubGame.git
+          url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
         trackingBranch: 
       - name: Map
         remote:
           name: origin
-          url: https://github.com/WesleyVong/GameDesignClubGame.git
+          url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
         trackingBranch: 
       - name: Stephen
         remote:
           name: origin
-          url: https://github.com/WesleyVong/GameDesignClubGame.git
-        trackingBranch: 
-      - name: main
-        remote:
-          name: origin
-          url: https://github.com/WesleyVong/GameDesignClubGame.git
+          url: https://github.com/QLS-Game-Design/GameDesignClubGame.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/WesleyVong/GameDesignClubGame.git
+      url: https://github.com/QLS-Game-Design/GameDesignClubGame.git

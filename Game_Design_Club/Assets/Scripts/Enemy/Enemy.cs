@@ -8,6 +8,10 @@ public class Enemy : MonoBehaviour
     private int health;
     protected bool dead;
 
+    public Transform player;
+    public int speed = 4;
+    public int detectRange = 5;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -32,6 +36,12 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Vector3 dir = player.position - transform.position;
+
+        // Normalize it so that it's a unit direction vector
+        dir.Normalize();
+
+        // Move ourselves in that direction
+        transform.position += dir * speed * Time.deltaTime;
     }
 }
