@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-13T16:58:30.752-08:00
-  initializedAtString: 2021-03-13T13:54:14.529-08:00
+  lastUpdatedAtString: 2021-03-20T18:25:14.077-07:00
+  initializedAtString: 2021-03-20T17:42:10.754-07:00
   entries:
   - path: Game_Design_Club\Assembly-CSharp.csproj
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Assembly-CSharp.csproj
@@ -34,993 +34,213 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game_Design_Club\Library\APIUpdater\project-dependencies.graph
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
+  - path: Game_Design_Club\Assets\Scripts\Enemy\Projectile.cs
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Assets\Scripts\Enemy\Projectile.cs
+    projectPath: Assets\Scripts\Enemy\Projectile.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Assets\Scripts\Enemy\Projectile.cs.meta
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Assets\Scripts\Enemy\Projectile.cs.meta
+    projectPath: Assets\Scripts\Enemy\Projectile.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Assets\Scripts\Enemy\TestPlayer.cs
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Assets\Scripts\Enemy\TestPlayer.cs
+    projectPath: Assets\Scripts\Enemy\TestPlayer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Assets\Scripts\Enemy\TestPlayer.cs.meta
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Assets\Scripts\Enemy\TestPlayer.cs.meta
+    projectPath: Assets\Scripts\Enemy\TestPlayer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Assets\Sprites\Projectile.prefab
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Assets\Sprites\Projectile.prefab
+    projectPath: Assets\Sprites\Projectile.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Assets\Sprites\Projectile.prefab.meta
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Assets\Sprites\Projectile.prefab.meta
+    projectPath: Assets\Sprites\Projectile.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Game_Design_Club\Library\ArtifactDB
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game_Design_Club\Library\Artifacts\00\00770d57b25be986cdfca40759b01330
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\00\00770d57b25be986cdfca40759b01330
-    projectPath: Library\Artifacts\00\00770d57b25be986cdfca40759b01330
+  - path: Game_Design_Club\Library\Artifacts\06\06c43dca2d0ca6cf7bd8a89e9100dadc
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\06\06c43dca2d0ca6cf7bd8a89e9100dadc
+    projectPath: Library\Artifacts\06\06c43dca2d0ca6cf7bd8a89e9100dadc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\04\045943bf6adf853e83b8a46e0b6b0943
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\04\045943bf6adf853e83b8a46e0b6b0943
-    projectPath: Library\Artifacts\04\045943bf6adf853e83b8a46e0b6b0943
+  - path: Game_Design_Club\Library\Artifacts\0b\0b73e556e87a0278f2ca333bd259b2d7
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\0b\0b73e556e87a0278f2ca333bd259b2d7
+    projectPath: Library\Artifacts\0b\0b73e556e87a0278f2ca333bd259b2d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Library\Artifacts\18\181219bb4cf7e8da1a00138f6857189c
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\18\181219bb4cf7e8da1a00138f6857189c
+    projectPath: Library\Artifacts\18\181219bb4cf7e8da1a00138f6857189c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Library\Artifacts\1e\1e906e757481f24d52550df8aee3bf4b
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\1e\1e906e757481f24d52550df8aee3bf4b
+    projectPath: Library\Artifacts\1e\1e906e757481f24d52550df8aee3bf4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Library\Artifacts\21\21f0d99b3f47d739f55d7ead2910316b
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\21\21f0d99b3f47d739f55d7ead2910316b
+    projectPath: Library\Artifacts\21\21f0d99b3f47d739f55d7ead2910316b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\05\05b60c0c7a237b6d9ccee4873388e6ea
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\05\05b60c0c7a237b6d9ccee4873388e6ea
-    projectPath: Library\Artifacts\05\05b60c0c7a237b6d9ccee4873388e6ea
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\06\06f170d58f1194eaf1434d2d0eb15b11
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\06\06f170d58f1194eaf1434d2d0eb15b11
-    projectPath: Library\Artifacts\06\06f170d58f1194eaf1434d2d0eb15b11
+  - path: Game_Design_Club\Library\Artifacts\25\2597656e56ae51944bea43070e46c222
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\25\2597656e56ae51944bea43070e46c222
+    projectPath: Library\Artifacts\25\2597656e56ae51944bea43070e46c222
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\08\08646cd76cc8f4f7e0ad16ed4da84c4f
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\08\08646cd76cc8f4f7e0ad16ed4da84c4f
-    projectPath: Library\Artifacts\08\08646cd76cc8f4f7e0ad16ed4da84c4f
+  - path: Game_Design_Club\Library\Artifacts\27\274c54476e255f149537ca867834a5ad
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\27\274c54476e255f149537ca867834a5ad
+    projectPath: Library\Artifacts\27\274c54476e255f149537ca867834a5ad
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\08\08d26c1f9d12bfbd9eb7037c963c9843
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\08\08d26c1f9d12bfbd9eb7037c963c9843
-    projectPath: Library\Artifacts\08\08d26c1f9d12bfbd9eb7037c963c9843
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\09\09193177901f5d328c16810b94e4b2dc
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\09\09193177901f5d328c16810b94e4b2dc
-    projectPath: Library\Artifacts\09\09193177901f5d328c16810b94e4b2dc
+  - path: Game_Design_Club\Library\Artifacts\2f\2f535918811b7e5109cf0acfbc58e1a9
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\2f\2f535918811b7e5109cf0acfbc58e1a9
+    projectPath: Library\Artifacts\2f\2f535918811b7e5109cf0acfbc58e1a9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\0d\0d5f034c20c64d29b5b2a7a2e4f723bf
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\0d\0d5f034c20c64d29b5b2a7a2e4f723bf
-    projectPath: Library\Artifacts\0d\0d5f034c20c64d29b5b2a7a2e4f723bf
+  - path: Game_Design_Club\Library\Artifacts\4f\4f6877b2628246a7076cbdd2d719555b
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\4f\4f6877b2628246a7076cbdd2d719555b
+    projectPath: Library\Artifacts\4f\4f6877b2628246a7076cbdd2d719555b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\0e\0e925588a82976649aca5a8e8ddb89a0
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\0e\0e925588a82976649aca5a8e8ddb89a0
-    projectPath: Library\Artifacts\0e\0e925588a82976649aca5a8e8ddb89a0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\12\120d27f27a830bd3018d0a4fce980470
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\12\120d27f27a830bd3018d0a4fce980470
-    projectPath: Library\Artifacts\12\120d27f27a830bd3018d0a4fce980470
+  - path: Game_Design_Club\Library\Artifacts\57\57785fd3f67f14278b3b5e911cb5652d
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\57\57785fd3f67f14278b3b5e911cb5652d
+    projectPath: Library\Artifacts\57\57785fd3f67f14278b3b5e911cb5652d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\13\13ecfe951cc64dc0c2b23a371c5c6513
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\13\13ecfe951cc64dc0c2b23a371c5c6513
-    projectPath: Library\Artifacts\13\13ecfe951cc64dc0c2b23a371c5c6513
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\14\14ccb1f0230581df8f04ce4475709227
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\14\14ccb1f0230581df8f04ce4475709227
-    projectPath: Library\Artifacts\14\14ccb1f0230581df8f04ce4475709227
+  - path: Game_Design_Club\Library\Artifacts\5d\5df2c3f6ad87837592fbe5b1cdea53e1
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\5d\5df2c3f6ad87837592fbe5b1cdea53e1
+    projectPath: Library\Artifacts\5d\5df2c3f6ad87837592fbe5b1cdea53e1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\16\161094d7cc34deec17b99baf5cd991d6
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\16\161094d7cc34deec17b99baf5cd991d6
-    projectPath: Library\Artifacts\16\161094d7cc34deec17b99baf5cd991d6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\16\164049226e16396e48c7b5c7358d3c79
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\16\164049226e16396e48c7b5c7358d3c79
-    projectPath: Library\Artifacts\16\164049226e16396e48c7b5c7358d3c79
+  - path: Game_Design_Club\Library\Artifacts\7b\7bd20aef799d8de2ddfd1d90ade9a5de
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\7b\7bd20aef799d8de2ddfd1d90ade9a5de
+    projectPath: Library\Artifacts\7b\7bd20aef799d8de2ddfd1d90ade9a5de
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\17\17944a07bb2bcdd2b0591f0c5a485499
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\17\17944a07bb2bcdd2b0591f0c5a485499
-    projectPath: Library\Artifacts\17\17944a07bb2bcdd2b0591f0c5a485499
+  - path: Game_Design_Club\Library\Artifacts\7d\7de8acadda4ec5f676b6a867e6e48679
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\7d\7de8acadda4ec5f676b6a867e6e48679
+    projectPath: Library\Artifacts\7d\7de8acadda4ec5f676b6a867e6e48679
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\1c\1c90d44345424d42877800dd4d86a19b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\1c\1c90d44345424d42877800dd4d86a19b
-    projectPath: Library\Artifacts\1c\1c90d44345424d42877800dd4d86a19b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\1d\1db7e0c7575f02e06780ad287684f327
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\1d\1db7e0c7575f02e06780ad287684f327
-    projectPath: Library\Artifacts\1d\1db7e0c7575f02e06780ad287684f327
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\1e\1eedd4e204fb9beffcb64984b5f24c53
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\1e\1eedd4e204fb9beffcb64984b5f24c53
-    projectPath: Library\Artifacts\1e\1eedd4e204fb9beffcb64984b5f24c53
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\20\203e3038620c86f9c9a030167c0b94ef
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\20\203e3038620c86f9c9a030167c0b94ef
-    projectPath: Library\Artifacts\20\203e3038620c86f9c9a030167c0b94ef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\20\20a15f56d1d7f0e55467ecafc88aa7d0
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\20\20a15f56d1d7f0e55467ecafc88aa7d0
-    projectPath: Library\Artifacts\20\20a15f56d1d7f0e55467ecafc88aa7d0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\22\22849e0716a2be8cd13fb3a53807f4cc
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\22\22849e0716a2be8cd13fb3a53807f4cc
-    projectPath: Library\Artifacts\22\22849e0716a2be8cd13fb3a53807f4cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\23\232f2b596b7374f7a02555db7a2a7227
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\23\232f2b596b7374f7a02555db7a2a7227
-    projectPath: Library\Artifacts\23\232f2b596b7374f7a02555db7a2a7227
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\23\237864cb6ba913c5e5ca8e9ed58f882d
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\23\237864cb6ba913c5e5ca8e9ed58f882d
-    projectPath: Library\Artifacts\23\237864cb6ba913c5e5ca8e9ed58f882d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\29\2970c3b06dad1c12e7b8c3586e435255
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\29\2970c3b06dad1c12e7b8c3586e435255
-    projectPath: Library\Artifacts\29\2970c3b06dad1c12e7b8c3586e435255
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\2a\2acabd07a26cef3fd0fcd25105f72974
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\2a\2acabd07a26cef3fd0fcd25105f72974
-    projectPath: Library\Artifacts\2a\2acabd07a26cef3fd0fcd25105f72974
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\2d\2df3292a7b768a29587d7acc01fdf5af
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\2d\2df3292a7b768a29587d7acc01fdf5af
-    projectPath: Library\Artifacts\2d\2df3292a7b768a29587d7acc01fdf5af
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\2e\2eba3f781a943e74a1b5392482f98a29
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\2e\2eba3f781a943e74a1b5392482f98a29
-    projectPath: Library\Artifacts\2e\2eba3f781a943e74a1b5392482f98a29
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\30\3080a7f5f2e3ea9c97dadd279378a0ce
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\30\3080a7f5f2e3ea9c97dadd279378a0ce
-    projectPath: Library\Artifacts\30\3080a7f5f2e3ea9c97dadd279378a0ce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\31\31d1118d8df5ff5751b0edccba25b445
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\31\31d1118d8df5ff5751b0edccba25b445
-    projectPath: Library\Artifacts\31\31d1118d8df5ff5751b0edccba25b445
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\33\332ca51598f866b1f7e8441250d06f4f
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\33\332ca51598f866b1f7e8441250d06f4f
-    projectPath: Library\Artifacts\33\332ca51598f866b1f7e8441250d06f4f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\36\3665ee8bb81267241b1002eb3c3bb7e5
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\36\3665ee8bb81267241b1002eb3c3bb7e5
-    projectPath: Library\Artifacts\36\3665ee8bb81267241b1002eb3c3bb7e5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\37\376cf7733a01785c32ed303a86b25206
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\37\376cf7733a01785c32ed303a86b25206
-    projectPath: Library\Artifacts\37\376cf7733a01785c32ed303a86b25206
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\38\38ebe954fe303e2b16aec5cefd71442f
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\38\38ebe954fe303e2b16aec5cefd71442f
-    projectPath: Library\Artifacts\38\38ebe954fe303e2b16aec5cefd71442f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\39\394c79966b7b268678d132c7c8b42250
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\39\394c79966b7b268678d132c7c8b42250
-    projectPath: Library\Artifacts\39\394c79966b7b268678d132c7c8b42250
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\3a\3a586982a5c48f188e0c69aa297bc341
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\3a\3a586982a5c48f188e0c69aa297bc341
-    projectPath: Library\Artifacts\3a\3a586982a5c48f188e0c69aa297bc341
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\3d\3dc6b55493fc7daddb14c0b058e7f495
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\3d\3dc6b55493fc7daddb14c0b058e7f495
-    projectPath: Library\Artifacts\3d\3dc6b55493fc7daddb14c0b058e7f495
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\3e\3ee0c7cfd8a1340783a375ec25906dee
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\3e\3ee0c7cfd8a1340783a375ec25906dee
-    projectPath: Library\Artifacts\3e\3ee0c7cfd8a1340783a375ec25906dee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\40\40f111baf263c4604c736170e11e8744
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\40\40f111baf263c4604c736170e11e8744
-    projectPath: Library\Artifacts\40\40f111baf263c4604c736170e11e8744
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\41\41816e857731513350438674d9ee2887
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\41\41816e857731513350438674d9ee2887
-    projectPath: Library\Artifacts\41\41816e857731513350438674d9ee2887
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\41\41a5f50787ca8df05d972c5168a4e1bf
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\41\41a5f50787ca8df05d972c5168a4e1bf
-    projectPath: Library\Artifacts\41\41a5f50787ca8df05d972c5168a4e1bf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\42\42b04dce5a8ff38aa368d5dd4b286e32
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\42\42b04dce5a8ff38aa368d5dd4b286e32
-    projectPath: Library\Artifacts\42\42b04dce5a8ff38aa368d5dd4b286e32
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\44\440d1f87a8613b5a49197d3514a43768
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\44\440d1f87a8613b5a49197d3514a43768
-    projectPath: Library\Artifacts\44\440d1f87a8613b5a49197d3514a43768
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\44\441e32d9b9767d049a94c3b4b3864c5f
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\44\441e32d9b9767d049a94c3b4b3864c5f
-    projectPath: Library\Artifacts\44\441e32d9b9767d049a94c3b4b3864c5f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\44\44d66f97515a8c187854fb7fdbb1d22c
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\44\44d66f97515a8c187854fb7fdbb1d22c
-    projectPath: Library\Artifacts\44\44d66f97515a8c187854fb7fdbb1d22c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\45\453c802ef10e8050a7a61bd8ecaeb144
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\45\453c802ef10e8050a7a61bd8ecaeb144
-    projectPath: Library\Artifacts\45\453c802ef10e8050a7a61bd8ecaeb144
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\45\4568e98253a781e57b81583284ab3960
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\45\4568e98253a781e57b81583284ab3960
-    projectPath: Library\Artifacts\45\4568e98253a781e57b81583284ab3960
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\46\46e0f6b67dca9709200f82865daa87ed
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\46\46e0f6b67dca9709200f82865daa87ed
-    projectPath: Library\Artifacts\46\46e0f6b67dca9709200f82865daa87ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\47\4721343920ef94b1744743559814cf5d
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\47\4721343920ef94b1744743559814cf5d
-    projectPath: Library\Artifacts\47\4721343920ef94b1744743559814cf5d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\47\47352808eee86e8dc53f2ae1cae4c03a
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\47\47352808eee86e8dc53f2ae1cae4c03a
-    projectPath: Library\Artifacts\47\47352808eee86e8dc53f2ae1cae4c03a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\48\481017c024bfae25095c9b6d8ce379cc
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\48\481017c024bfae25095c9b6d8ce379cc
-    projectPath: Library\Artifacts\48\481017c024bfae25095c9b6d8ce379cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\49\490c7795251264f734f59b27aa5480f4
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\49\490c7795251264f734f59b27aa5480f4
-    projectPath: Library\Artifacts\49\490c7795251264f734f59b27aa5480f4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\4c\4c61b96cbe33b6f3c5a0d65b0cb7ba4c
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\4c\4c61b96cbe33b6f3c5a0d65b0cb7ba4c
-    projectPath: Library\Artifacts\4c\4c61b96cbe33b6f3c5a0d65b0cb7ba4c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\4c\4cd67b2c07fb84619c71cbca1a1a2960
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\4c\4cd67b2c07fb84619c71cbca1a1a2960
-    projectPath: Library\Artifacts\4c\4cd67b2c07fb84619c71cbca1a1a2960
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\4f\4f20708eb2797d9cef5c3a3b5ab3489b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\4f\4f20708eb2797d9cef5c3a3b5ab3489b
-    projectPath: Library\Artifacts\4f\4f20708eb2797d9cef5c3a3b5ab3489b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\4f\4fd92986eaedd0c21dcc543a026b3b69
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\4f\4fd92986eaedd0c21dcc543a026b3b69
-    projectPath: Library\Artifacts\4f\4fd92986eaedd0c21dcc543a026b3b69
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\50\504a83f33a3ac8740f58accc626bc810
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\50\504a83f33a3ac8740f58accc626bc810
-    projectPath: Library\Artifacts\50\504a83f33a3ac8740f58accc626bc810
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\50\50d03f8df39b92bcf75acf12c2988a50
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\50\50d03f8df39b92bcf75acf12c2988a50
-    projectPath: Library\Artifacts\50\50d03f8df39b92bcf75acf12c2988a50
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\51\519f9863f37b7dd879549b3a7d1bb59b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\51\519f9863f37b7dd879549b3a7d1bb59b
-    projectPath: Library\Artifacts\51\519f9863f37b7dd879549b3a7d1bb59b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\52\52ceb59c19d357213e5611289da9509b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\52\52ceb59c19d357213e5611289da9509b
-    projectPath: Library\Artifacts\52\52ceb59c19d357213e5611289da9509b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\53\532ec9828f64eebb7759b2e8c21427ad
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\53\532ec9828f64eebb7759b2e8c21427ad
-    projectPath: Library\Artifacts\53\532ec9828f64eebb7759b2e8c21427ad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\55\5538f9fbec0645ce4ff9bdf4b314483c
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\55\5538f9fbec0645ce4ff9bdf4b314483c
-    projectPath: Library\Artifacts\55\5538f9fbec0645ce4ff9bdf4b314483c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\57\57e713175e998eec0e6e215f5fb42c76
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\57\57e713175e998eec0e6e215f5fb42c76
-    projectPath: Library\Artifacts\57\57e713175e998eec0e6e215f5fb42c76
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\58\580dd6c042314214a6dba1248a274d5c
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\58\580dd6c042314214a6dba1248a274d5c
-    projectPath: Library\Artifacts\58\580dd6c042314214a6dba1248a274d5c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\58\58d4e8b1002ad32d7dbb767d3157dd8d
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\58\58d4e8b1002ad32d7dbb767d3157dd8d
-    projectPath: Library\Artifacts\58\58d4e8b1002ad32d7dbb767d3157dd8d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\59\59e78d2e9b1563122898a10e51678a38
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\59\59e78d2e9b1563122898a10e51678a38
-    projectPath: Library\Artifacts\59\59e78d2e9b1563122898a10e51678a38
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\5a\5a2b7c643b1a53df5e5fec2345800b35
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\5a\5a2b7c643b1a53df5e5fec2345800b35
-    projectPath: Library\Artifacts\5a\5a2b7c643b1a53df5e5fec2345800b35
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\5a\5a92536aa2340c9b8af4dde5194207b5
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\5a\5a92536aa2340c9b8af4dde5194207b5
-    projectPath: Library\Artifacts\5a\5a92536aa2340c9b8af4dde5194207b5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\5a\5a93a1c83e00956544cdffe9cbdd7db1
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\5a\5a93a1c83e00956544cdffe9cbdd7db1
-    projectPath: Library\Artifacts\5a\5a93a1c83e00956544cdffe9cbdd7db1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\5b\5ba876825fc9e37fe2571fe4d6e8ccf2
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\5b\5ba876825fc9e37fe2571fe4d6e8ccf2
-    projectPath: Library\Artifacts\5b\5ba876825fc9e37fe2571fe4d6e8ccf2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\5c\5c0189d51edc75aec9c3bfaf71123d58
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\5c\5c0189d51edc75aec9c3bfaf71123d58
-    projectPath: Library\Artifacts\5c\5c0189d51edc75aec9c3bfaf71123d58
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\5e\5e632698c2862ea818904cd6c7dd15ac
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\5e\5e632698c2862ea818904cd6c7dd15ac
-    projectPath: Library\Artifacts\5e\5e632698c2862ea818904cd6c7dd15ac
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\5e\5eda2d5cf5ea754d5b3be16496528da1
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\5e\5eda2d5cf5ea754d5b3be16496528da1
-    projectPath: Library\Artifacts\5e\5eda2d5cf5ea754d5b3be16496528da1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\5e\5ee880c12fdff99f9196d73475cf1a40
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\5e\5ee880c12fdff99f9196d73475cf1a40
-    projectPath: Library\Artifacts\5e\5ee880c12fdff99f9196d73475cf1a40
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\61\61c8650da3b215b1a8653b897872d6f3
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\61\61c8650da3b215b1a8653b897872d6f3
-    projectPath: Library\Artifacts\61\61c8650da3b215b1a8653b897872d6f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\65\65da63b522dcf30bec961f305f34e0e6
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\65\65da63b522dcf30bec961f305f34e0e6
-    projectPath: Library\Artifacts\65\65da63b522dcf30bec961f305f34e0e6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\66\66d78afcee4d6e1ca25a84a4ec8ff457
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\66\66d78afcee4d6e1ca25a84a4ec8ff457
-    projectPath: Library\Artifacts\66\66d78afcee4d6e1ca25a84a4ec8ff457
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\6a\6a2c8363411323d85c14f1f6c929b12c
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\6a\6a2c8363411323d85c14f1f6c929b12c
-    projectPath: Library\Artifacts\6a\6a2c8363411323d85c14f1f6c929b12c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\6a\6a9fc2bf54d75101e91c9a51a4933f1d
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\6a\6a9fc2bf54d75101e91c9a51a4933f1d
-    projectPath: Library\Artifacts\6a\6a9fc2bf54d75101e91c9a51a4933f1d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\6a\6afce1ae4d49fa254176c089c5e48000
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\6a\6afce1ae4d49fa254176c089c5e48000
-    projectPath: Library\Artifacts\6a\6afce1ae4d49fa254176c089c5e48000
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\6d\6d34998885c94f34d8bf704bc78c7f52
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\6d\6d34998885c94f34d8bf704bc78c7f52
-    projectPath: Library\Artifacts\6d\6d34998885c94f34d8bf704bc78c7f52
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\6f\6f15d6f622a5a334ab345e5dcf6eed68
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\6f\6f15d6f622a5a334ab345e5dcf6eed68
-    projectPath: Library\Artifacts\6f\6f15d6f622a5a334ab345e5dcf6eed68
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\72\72a2815322015c0e735def3aaa2f175a
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\72\72a2815322015c0e735def3aaa2f175a
-    projectPath: Library\Artifacts\72\72a2815322015c0e735def3aaa2f175a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\72\72b819fd2d34475eea1c601ac768c821
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\72\72b819fd2d34475eea1c601ac768c821
-    projectPath: Library\Artifacts\72\72b819fd2d34475eea1c601ac768c821
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\74\7416ac7e4df49385d4103f850ffa39ea
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\74\7416ac7e4df49385d4103f850ffa39ea
-    projectPath: Library\Artifacts\74\7416ac7e4df49385d4103f850ffa39ea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\75\755134232e6c8362af38e0914d909681
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\75\755134232e6c8362af38e0914d909681
-    projectPath: Library\Artifacts\75\755134232e6c8362af38e0914d909681
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\78\78515f08271f21e35b30f8aa3c198885
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\78\78515f08271f21e35b30f8aa3c198885
-    projectPath: Library\Artifacts\78\78515f08271f21e35b30f8aa3c198885
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\78\78f4f492c3de709e638157708a6e7aea
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\78\78f4f492c3de709e638157708a6e7aea
-    projectPath: Library\Artifacts\78\78f4f492c3de709e638157708a6e7aea
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\78\78fa39e0c1bffb7ad5dd823d78408dee
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\78\78fa39e0c1bffb7ad5dd823d78408dee
-    projectPath: Library\Artifacts\78\78fa39e0c1bffb7ad5dd823d78408dee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\79\793e5810fd8b122d67f2a90d9281bd8f
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\79\793e5810fd8b122d67f2a90d9281bd8f
-    projectPath: Library\Artifacts\79\793e5810fd8b122d67f2a90d9281bd8f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\7a\7afc5a6ff8281cc5672d93ca84975917
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\7a\7afc5a6ff8281cc5672d93ca84975917
-    projectPath: Library\Artifacts\7a\7afc5a6ff8281cc5672d93ca84975917
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\7b\7b59c7e9438feb46c92b877e1061a7d6
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\7b\7b59c7e9438feb46c92b877e1061a7d6
-    projectPath: Library\Artifacts\7b\7b59c7e9438feb46c92b877e1061a7d6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Game_Design_Club\Library\Artifacts\7e\7eee5f931b03b5fecba3814492babe5d
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\7e\7eee5f931b03b5fecba3814492babe5d
     projectPath: Library\Artifacts\7e\7eee5f931b03b5fecba3814492babe5d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\7f\7f2162adaab149adf830e5d0f58519ee
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\7f\7f2162adaab149adf830e5d0f58519ee
-    projectPath: Library\Artifacts\7f\7f2162adaab149adf830e5d0f58519ee
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\7f\7ff9cc8b90b2eae36dcb41e6c18b9f9f
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\7f\7ff9cc8b90b2eae36dcb41e6c18b9f9f
-    projectPath: Library\Artifacts\7f\7ff9cc8b90b2eae36dcb41e6c18b9f9f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\80\80cb041278a255f700da2c5c250382d1
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\80\80cb041278a255f700da2c5c250382d1
-    projectPath: Library\Artifacts\80\80cb041278a255f700da2c5c250382d1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\82\829c4bedea2fdf7e99fc656073d5b2f5
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\82\829c4bedea2fdf7e99fc656073d5b2f5
-    projectPath: Library\Artifacts\82\829c4bedea2fdf7e99fc656073d5b2f5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\84\8488e30eac5e38a51f7d6bfd60d08f6b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\84\8488e30eac5e38a51f7d6bfd60d08f6b
-    projectPath: Library\Artifacts\84\8488e30eac5e38a51f7d6bfd60d08f6b
+  - path: Game_Design_Club\Library\Artifacts\84\84e00a1d3f6df317993b756f11c3e742
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\84\84e00a1d3f6df317993b756f11c3e742
+    projectPath: Library\Artifacts\84\84e00a1d3f6df317993b756f11c3e742
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\86\864323854e2bbbecffdc8e3b45e9e544
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\86\864323854e2bbbecffdc8e3b45e9e544
-    projectPath: Library\Artifacts\86\864323854e2bbbecffdc8e3b45e9e544
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\86\86f9ff3d5b2e3fab834c86e4c4896aa9
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\86\86f9ff3d5b2e3fab834c86e4c4896aa9
-    projectPath: Library\Artifacts\86\86f9ff3d5b2e3fab834c86e4c4896aa9
+  - path: Game_Design_Club\Library\Artifacts\88\8848477ad58091c2f758bc2e85e370ed
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\88\8848477ad58091c2f758bc2e85e370ed
+    projectPath: Library\Artifacts\88\8848477ad58091c2f758bc2e85e370ed
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\88\8876e249c3aed5cc97828a9d7d509c1b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\88\8876e249c3aed5cc97828a9d7d509c1b
-    projectPath: Library\Artifacts\88\8876e249c3aed5cc97828a9d7d509c1b
+  - path: Game_Design_Club\Library\Artifacts\91\916ab9ec41424342ecdf19e020b4daca
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\91\916ab9ec41424342ecdf19e020b4daca
+    projectPath: Library\Artifacts\91\916ab9ec41424342ecdf19e020b4daca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\8a\8afa6c69e890f9bdaff863d09dc7f76c
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\8a\8afa6c69e890f9bdaff863d09dc7f76c
-    projectPath: Library\Artifacts\8a\8afa6c69e890f9bdaff863d09dc7f76c
+  - path: Game_Design_Club\Library\Artifacts\97\972771fcbd0e075ca65bc810e3fac373
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\97\972771fcbd0e075ca65bc810e3fac373
+    projectPath: Library\Artifacts\97\972771fcbd0e075ca65bc810e3fac373
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\8c\8cc44af34127f0e534bba388f08b82d3
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\8c\8cc44af34127f0e534bba388f08b82d3
-    projectPath: Library\Artifacts\8c\8cc44af34127f0e534bba388f08b82d3
+  - path: Game_Design_Club\Library\Artifacts\9c\9c8dc09377b208d7f9252324f00562a6
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\9c\9c8dc09377b208d7f9252324f00562a6
+    projectPath: Library\Artifacts\9c\9c8dc09377b208d7f9252324f00562a6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\8e\8e5aaec281cf0cbc96179d6317cb02d1
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\8e\8e5aaec281cf0cbc96179d6317cb02d1
-    projectPath: Library\Artifacts\8e\8e5aaec281cf0cbc96179d6317cb02d1
+  - path: Game_Design_Club\Library\Artifacts\9c\9cd64865ea3b3978c1681852f19d855a
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\9c\9cd64865ea3b3978c1681852f19d855a
+    projectPath: Library\Artifacts\9c\9cd64865ea3b3978c1681852f19d855a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\8f\8f32ed6e9862443153de8c35cbb7bb4e
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\8f\8f32ed6e9862443153de8c35cbb7bb4e
-    projectPath: Library\Artifacts\8f\8f32ed6e9862443153de8c35cbb7bb4e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\92\9261672a4e4b394a26f3661ef2f403cd
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\92\9261672a4e4b394a26f3661ef2f403cd
-    projectPath: Library\Artifacts\92\9261672a4e4b394a26f3661ef2f403cd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\92\92ee0447bdee1e99fa3f0e95a2b67c14
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\92\92ee0447bdee1e99fa3f0e95a2b67c14
-    projectPath: Library\Artifacts\92\92ee0447bdee1e99fa3f0e95a2b67c14
+  - path: Game_Design_Club\Library\Artifacts\9d\9dcaf7435870b07d0869d1cd8d0bbe86
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\9d\9dcaf7435870b07d0869d1cd8d0bbe86
+    projectPath: Library\Artifacts\9d\9dcaf7435870b07d0869d1cd8d0bbe86
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\93\93d75eb41fb30e66ab139f79a1d153c3
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\93\93d75eb41fb30e66ab139f79a1d153c3
-    projectPath: Library\Artifacts\93\93d75eb41fb30e66ab139f79a1d153c3
+  - path: Game_Design_Club\Library\Artifacts\b1\b1d6e14f9664efc15b3316b5f355e8ae
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b1\b1d6e14f9664efc15b3316b5f355e8ae
+    projectPath: Library\Artifacts\b1\b1d6e14f9664efc15b3316b5f355e8ae
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\93\93fe66ea55030487274fbb54e14241d3
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\93\93fe66ea55030487274fbb54e14241d3
-    projectPath: Library\Artifacts\93\93fe66ea55030487274fbb54e14241d3
+  - path: Game_Design_Club\Library\Artifacts\b3\b34ec5e3f4e8a3d52ebf878ae8fa9251
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b3\b34ec5e3f4e8a3d52ebf878ae8fa9251
+    projectPath: Library\Artifacts\b3\b34ec5e3f4e8a3d52ebf878ae8fa9251
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\98\986124cb2841d094ae564e89f37d0137
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\98\986124cb2841d094ae564e89f37d0137
-    projectPath: Library\Artifacts\98\986124cb2841d094ae564e89f37d0137
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\98\98a5a4c98704d26e1d44cf1769d22123
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\98\98a5a4c98704d26e1d44cf1769d22123
-    projectPath: Library\Artifacts\98\98a5a4c98704d26e1d44cf1769d22123
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\99\990c7c787eaabae40ce7d07ffe9558d7
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\99\990c7c787eaabae40ce7d07ffe9558d7
-    projectPath: Library\Artifacts\99\990c7c787eaabae40ce7d07ffe9558d7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\99\994a462d33b4200fb5eb584f7b58d6d1
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\99\994a462d33b4200fb5eb584f7b58d6d1
-    projectPath: Library\Artifacts\99\994a462d33b4200fb5eb584f7b58d6d1
+  - path: Game_Design_Club\Library\Artifacts\b9\b94f5375752bfbe6a450e262a40323de
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b9\b94f5375752bfbe6a450e262a40323de
+    projectPath: Library\Artifacts\b9\b94f5375752bfbe6a450e262a40323de
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\99\998f701c409cf3dbdaf4ce6360329789
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\99\998f701c409cf3dbdaf4ce6360329789
-    projectPath: Library\Artifacts\99\998f701c409cf3dbdaf4ce6360329789
+  - path: Game_Design_Club\Library\Artifacts\b9\b9fdbf11af127d6557769fc4163d6e0f
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b9\b9fdbf11af127d6557769fc4163d6e0f
+    projectPath: Library\Artifacts\b9\b9fdbf11af127d6557769fc4163d6e0f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\9a\9a2f35c67e3248aadc4e671e7e759ea9
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\9a\9a2f35c67e3248aadc4e671e7e759ea9
-    projectPath: Library\Artifacts\9a\9a2f35c67e3248aadc4e671e7e759ea9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\9d\9d8b0828aa23098f9713adb9ff7ccfa5
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\9d\9d8b0828aa23098f9713adb9ff7ccfa5
-    projectPath: Library\Artifacts\9d\9d8b0828aa23098f9713adb9ff7ccfa5
+  - path: Game_Design_Club\Library\Artifacts\c0\c05c0f5fb3726b72ddfb12e99b76d9e6
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\c0\c05c0f5fb3726b72ddfb12e99b76d9e6
+    projectPath: Library\Artifacts\c0\c05c0f5fb3726b72ddfb12e99b76d9e6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\9e\9e1b2e2496248023534ebcefad7d604a
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\9e\9e1b2e2496248023534ebcefad7d604a
-    projectPath: Library\Artifacts\9e\9e1b2e2496248023534ebcefad7d604a
+  - path: Game_Design_Club\Library\Artifacts\d7\d73c4f2c2247276548a835c0d9122214
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\d7\d73c4f2c2247276548a835c0d9122214
+    projectPath: Library\Artifacts\d7\d73c4f2c2247276548a835c0d9122214
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\a0\a06db38bc1fb2f87abf64bac5b91c3d8
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a0\a06db38bc1fb2f87abf64bac5b91c3d8
-    projectPath: Library\Artifacts\a0\a06db38bc1fb2f87abf64bac5b91c3d8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\a1\a1bd3c692fbf44fe85174fa02513d0da
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a1\a1bd3c692fbf44fe85174fa02513d0da
-    projectPath: Library\Artifacts\a1\a1bd3c692fbf44fe85174fa02513d0da
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\a2\a21ba9a96c679e4d70675469387e9cdc
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a2\a21ba9a96c679e4d70675469387e9cdc
-    projectPath: Library\Artifacts\a2\a21ba9a96c679e4d70675469387e9cdc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\a2\a238dddd413cbadfa6ae2e723ef2f90e
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a2\a238dddd413cbadfa6ae2e723ef2f90e
-    projectPath: Library\Artifacts\a2\a238dddd413cbadfa6ae2e723ef2f90e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\a5\a58a1275d684a6c75463c974c0c63e7c
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a5\a58a1275d684a6c75463c974c0c63e7c
-    projectPath: Library\Artifacts\a5\a58a1275d684a6c75463c974c0c63e7c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\a8\a862b8e54046446e46d11c0ea2d87efb
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a8\a862b8e54046446e46d11c0ea2d87efb
-    projectPath: Library\Artifacts\a8\a862b8e54046446e46d11c0ea2d87efb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\a8\a86cda27ed53df74daed7ace4567a412
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a8\a86cda27ed53df74daed7ace4567a412
-    projectPath: Library\Artifacts\a8\a86cda27ed53df74daed7ace4567a412
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\a9\a93f6683b924268ba4e8a79c5391faf1
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a9\a93f6683b924268ba4e8a79c5391faf1
-    projectPath: Library\Artifacts\a9\a93f6683b924268ba4e8a79c5391faf1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\a9\a94bca4ca4860e1e4f18c9f3a57c58e9
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a9\a94bca4ca4860e1e4f18c9f3a57c58e9
-    projectPath: Library\Artifacts\a9\a94bca4ca4860e1e4f18c9f3a57c58e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\a9\a97b3517eb5507d48b10c01053216355
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a9\a97b3517eb5507d48b10c01053216355
-    projectPath: Library\Artifacts\a9\a97b3517eb5507d48b10c01053216355
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\a9\a9f978639c3f62007c7525b4fb7698f1
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\a9\a9f978639c3f62007c7525b4fb7698f1
-    projectPath: Library\Artifacts\a9\a9f978639c3f62007c7525b4fb7698f1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\ae\ae4bebe4d7afe497e4ad531441c71fea
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\ae\ae4bebe4d7afe497e4ad531441c71fea
-    projectPath: Library\Artifacts\ae\ae4bebe4d7afe497e4ad531441c71fea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\b0\b0493303d4162ce60c83e626fa2261fa
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b0\b0493303d4162ce60c83e626fa2261fa
-    projectPath: Library\Artifacts\b0\b0493303d4162ce60c83e626fa2261fa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\b0\b0eb99ddf7bb289a3264b7b4d8b34c33
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b0\b0eb99ddf7bb289a3264b7b4d8b34c33
-    projectPath: Library\Artifacts\b0\b0eb99ddf7bb289a3264b7b4d8b34c33
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\b0\b0f1b8b6bfdd8e0f1c04f3a4f725b5e5
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b0\b0f1b8b6bfdd8e0f1c04f3a4f725b5e5
-    projectPath: Library\Artifacts\b0\b0f1b8b6bfdd8e0f1c04f3a4f725b5e5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\b1\b1c9269ab83df83c9efd0d177128c154
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b1\b1c9269ab83df83c9efd0d177128c154
-    projectPath: Library\Artifacts\b1\b1c9269ab83df83c9efd0d177128c154
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\b4\b4483c871249637ab1b5b657d8e576a4
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b4\b4483c871249637ab1b5b657d8e576a4
-    projectPath: Library\Artifacts\b4\b4483c871249637ab1b5b657d8e576a4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\b4\b49047968b6de2076f5a71bb7bab74b1
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b4\b49047968b6de2076f5a71bb7bab74b1
-    projectPath: Library\Artifacts\b4\b49047968b6de2076f5a71bb7bab74b1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\b6\b6f0eb475af2e68f606de7a137ab93f7
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b6\b6f0eb475af2e68f606de7a137ab93f7
-    projectPath: Library\Artifacts\b6\b6f0eb475af2e68f606de7a137ab93f7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\b8\b817388e24a957ea14b411fb4432ce72
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b8\b817388e24a957ea14b411fb4432ce72
-    projectPath: Library\Artifacts\b8\b817388e24a957ea14b411fb4432ce72
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\b8\b81c4ccbf22ffc4fa2cc4b52de84c0bc
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b8\b81c4ccbf22ffc4fa2cc4b52de84c0bc
-    projectPath: Library\Artifacts\b8\b81c4ccbf22ffc4fa2cc4b52de84c0bc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\b8\b855ebd77d1d1fcbf8da9b319f33db9b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\b8\b855ebd77d1d1fcbf8da9b319f33db9b
-    projectPath: Library\Artifacts\b8\b855ebd77d1d1fcbf8da9b319f33db9b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\ba\bad3d00197f810c807c0e555de5966c5
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\ba\bad3d00197f810c807c0e555de5966c5
-    projectPath: Library\Artifacts\ba\bad3d00197f810c807c0e555de5966c5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\ba\baffac677c410ae01f62f21e5b0659f5
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\ba\baffac677c410ae01f62f21e5b0659f5
-    projectPath: Library\Artifacts\ba\baffac677c410ae01f62f21e5b0659f5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\bb\bb0801e3c9f060d5edb1c4256b5b9f79
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\bb\bb0801e3c9f060d5edb1c4256b5b9f79
-    projectPath: Library\Artifacts\bb\bb0801e3c9f060d5edb1c4256b5b9f79
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\bd\bd14dc0265bd671ed3aab710da81af81
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\bd\bd14dc0265bd671ed3aab710da81af81
-    projectPath: Library\Artifacts\bd\bd14dc0265bd671ed3aab710da81af81
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\c0\c093b5cebd1f2c2d379680ceed89012b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\c0\c093b5cebd1f2c2d379680ceed89012b
-    projectPath: Library\Artifacts\c0\c093b5cebd1f2c2d379680ceed89012b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\c2\c2ae8c1fa75490cffd800b47bc5b6052
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\c2\c2ae8c1fa75490cffd800b47bc5b6052
-    projectPath: Library\Artifacts\c2\c2ae8c1fa75490cffd800b47bc5b6052
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\c2\c2ebe36c81ee0f882ef667eac1a28c8d
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\c2\c2ebe36c81ee0f882ef667eac1a28c8d
-    projectPath: Library\Artifacts\c2\c2ebe36c81ee0f882ef667eac1a28c8d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\c4\c41e7e0626da35ff7ccb98723188710a
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\c4\c41e7e0626da35ff7ccb98723188710a
-    projectPath: Library\Artifacts\c4\c41e7e0626da35ff7ccb98723188710a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\c4\c4edba511b58ec6e6600fd0ef8f0c540
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\c4\c4edba511b58ec6e6600fd0ef8f0c540
-    projectPath: Library\Artifacts\c4\c4edba511b58ec6e6600fd0ef8f0c540
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\c6\c6587f364892da7687fd28074775bfd5
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\c6\c6587f364892da7687fd28074775bfd5
-    projectPath: Library\Artifacts\c6\c6587f364892da7687fd28074775bfd5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\c6\c6a35cce72b591f64d51d7f31de6267c
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\c6\c6a35cce72b591f64d51d7f31de6267c
-    projectPath: Library\Artifacts\c6\c6a35cce72b591f64d51d7f31de6267c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\c7\c71e2acd2fa057274018c71c43b8dc36
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\c7\c71e2acd2fa057274018c71c43b8dc36
-    projectPath: Library\Artifacts\c7\c71e2acd2fa057274018c71c43b8dc36
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\cb\cb200ea43dff475eae7d69492f33f4c4
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\cb\cb200ea43dff475eae7d69492f33f4c4
-    projectPath: Library\Artifacts\cb\cb200ea43dff475eae7d69492f33f4c4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\cd\cdf240655acd697eee7c1057563d0dfd
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\cd\cdf240655acd697eee7c1057563d0dfd
-    projectPath: Library\Artifacts\cd\cdf240655acd697eee7c1057563d0dfd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\ce\ce641f75fcc1ef7b50cab5b55e7e0c1e
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\ce\ce641f75fcc1ef7b50cab5b55e7e0c1e
-    projectPath: Library\Artifacts\ce\ce641f75fcc1ef7b50cab5b55e7e0c1e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\cf\cf6d2b9794bfcaba3bd4808187f88f97
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\cf\cf6d2b9794bfcaba3bd4808187f88f97
-    projectPath: Library\Artifacts\cf\cf6d2b9794bfcaba3bd4808187f88f97
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\d1\d16a63b35fde520ddea7fbd82836d91f
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\d1\d16a63b35fde520ddea7fbd82836d91f
-    projectPath: Library\Artifacts\d1\d16a63b35fde520ddea7fbd82836d91f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\d1\d1d625f22dfd7fa070c3d42516db5928
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\d1\d1d625f22dfd7fa070c3d42516db5928
-    projectPath: Library\Artifacts\d1\d1d625f22dfd7fa070c3d42516db5928
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\d3\d329d2a0a3504ad109749ea9f9dcfbea
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\d3\d329d2a0a3504ad109749ea9f9dcfbea
-    projectPath: Library\Artifacts\d3\d329d2a0a3504ad109749ea9f9dcfbea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\d6\d69fc088aaae55cba47630ffb750d6da
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\d6\d69fc088aaae55cba47630ffb750d6da
-    projectPath: Library\Artifacts\d6\d69fc088aaae55cba47630ffb750d6da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\d8\d80dee10813f2041f2cd1af719b083d4
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\d8\d80dee10813f2041f2cd1af719b083d4
-    projectPath: Library\Artifacts\d8\d80dee10813f2041f2cd1af719b083d4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\d8\d89fd18c37761a4d8141f22cf692ba85
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\d8\d89fd18c37761a4d8141f22cf692ba85
-    projectPath: Library\Artifacts\d8\d89fd18c37761a4d8141f22cf692ba85
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\da\dab63c45b73763a7a0d11315fddd8504
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\da\dab63c45b73763a7a0d11315fddd8504
-    projectPath: Library\Artifacts\da\dab63c45b73763a7a0d11315fddd8504
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\db\db0ef36aff6be67673ceb02066fc31f7
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\db\db0ef36aff6be67673ceb02066fc31f7
-    projectPath: Library\Artifacts\db\db0ef36aff6be67673ceb02066fc31f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\db\db172b2279996d87a202d90d10c6e212
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\db\db172b2279996d87a202d90d10c6e212
-    projectPath: Library\Artifacts\db\db172b2279996d87a202d90d10c6e212
+  - path: Game_Design_Club\Library\Artifacts\d8\d8df2387f52f1bd0e7994e76a915ff88
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\d8\d8df2387f52f1bd0e7994e76a915ff88
+    projectPath: Library\Artifacts\d8\d8df2387f52f1bd0e7994e76a915ff88
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1028,143 +248,35 @@ MonoBehaviour:
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\db\dbfd66fafd033a8d87bceeafa30bf2f3
     projectPath: Library\Artifacts\db\dbfd66fafd033a8d87bceeafa30bf2f3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\dc\dcc28fd6f473878315fceb67359a91d3
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\dc\dcc28fd6f473878315fceb67359a91d3
-    projectPath: Library\Artifacts\dc\dcc28fd6f473878315fceb67359a91d3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\e0\e07b543d73c2e8c9839bed9ab51832fc
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\e0\e07b543d73c2e8c9839bed9ab51832fc
-    projectPath: Library\Artifacts\e0\e07b543d73c2e8c9839bed9ab51832fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\e1\e15c8b1e496cf3f74ac5c8dae0b1d649
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\e1\e15c8b1e496cf3f74ac5c8dae0b1d649
-    projectPath: Library\Artifacts\e1\e15c8b1e496cf3f74ac5c8dae0b1d649
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\e3\e35e720a6710a50c90881f71dcdb785e
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\e3\e35e720a6710a50c90881f71dcdb785e
-    projectPath: Library\Artifacts\e3\e35e720a6710a50c90881f71dcdb785e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\e4\e46c21d099454112fa38971143a7df8b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\e4\e46c21d099454112fa38971143a7df8b
-    projectPath: Library\Artifacts\e4\e46c21d099454112fa38971143a7df8b
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Game_Design_Club\Library\Artifacts\e5\e5b58e9933e316042a146fa8dc324915
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\e5\e5b58e9933e316042a146fa8dc324915
     projectPath: Library\Artifacts\e5\e5b58e9933e316042a146fa8dc324915
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\e9\e9099172f3f44b14dcd585a2c3a2fd7c
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\e9\e9099172f3f44b14dcd585a2c3a2fd7c
-    projectPath: Library\Artifacts\e9\e9099172f3f44b14dcd585a2c3a2fd7c
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\e9\e91adb168e253cf68cc07f78aa1f5cb8
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\e9\e91adb168e253cf68cc07f78aa1f5cb8
-    projectPath: Library\Artifacts\e9\e91adb168e253cf68cc07f78aa1f5cb8
+  - path: Game_Design_Club\Library\Artifacts\e8\e8f7bc5e26cb63b18739aba3bdd3af5c
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\e8\e8f7bc5e26cb63b18739aba3bdd3af5c
+    projectPath: Library\Artifacts\e8\e8f7bc5e26cb63b18739aba3bdd3af5c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\e9\e9372f420decd9f31b3c2c31c68ba9f3
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\e9\e9372f420decd9f31b3c2c31c68ba9f3
-    projectPath: Library\Artifacts\e9\e9372f420decd9f31b3c2c31c68ba9f3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\ea\ea7b45885ab654a9a53459aa1f756c65
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\ea\ea7b45885ab654a9a53459aa1f756c65
-    projectPath: Library\Artifacts\ea\ea7b45885ab654a9a53459aa1f756c65
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\ed\ed75422de16b5a8a9ac32fb48c1dbd34
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\ed\ed75422de16b5a8a9ac32fb48c1dbd34
-    projectPath: Library\Artifacts\ed\ed75422de16b5a8a9ac32fb48c1dbd34
+  - path: Game_Design_Club\Library\Artifacts\f4\f44d37ce9e20b88a581c6989f2c1ac0a
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\f4\f44d37ce9e20b88a581c6989f2c1ac0a
+    projectPath: Library\Artifacts\f4\f44d37ce9e20b88a581c6989f2c1ac0a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\ee\eee0fc626c90c1bfeea10eb78a2bd4b2
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\ee\eee0fc626c90c1bfeea10eb78a2bd4b2
-    projectPath: Library\Artifacts\ee\eee0fc626c90c1bfeea10eb78a2bd4b2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\f0\f00f28d5ed89220bfb12cd6ba457b017
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\f0\f00f28d5ed89220bfb12cd6ba457b017
-    projectPath: Library\Artifacts\f0\f00f28d5ed89220bfb12cd6ba457b017
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\f3\f32c34215dff408b29b9d742422c3713
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\f3\f32c34215dff408b29b9d742422c3713
-    projectPath: Library\Artifacts\f3\f32c34215dff408b29b9d742422c3713
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\f3\f36af9d82b1500304e0b87a776f2235b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\f3\f36af9d82b1500304e0b87a776f2235b
-    projectPath: Library\Artifacts\f3\f36af9d82b1500304e0b87a776f2235b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\f5\f5aa3bf5d899db0f65fbb62de9273f2d
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\f5\f5aa3bf5d899db0f65fbb62de9273f2d
-    projectPath: Library\Artifacts\f5\f5aa3bf5d899db0f65fbb62de9273f2d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\f6\f60ed7155a27f419d4712a66a8735057
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\f6\f60ed7155a27f419d4712a66a8735057
-    projectPath: Library\Artifacts\f6\f60ed7155a27f419d4712a66a8735057
+  - path: Game_Design_Club\Library\Artifacts\f5\f5435c940040abd9a6d4539f6b54e387
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\f5\f5435c940040abd9a6d4539f6b54e387
+    projectPath: Library\Artifacts\f5\f5435c940040abd9a6d4539f6b54e387
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\f7\f730ebd433b0f5eba5ffdc50787db16a
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\f7\f730ebd433b0f5eba5ffdc50787db16a
-    projectPath: Library\Artifacts\f7\f730ebd433b0f5eba5ffdc50787db16a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\f8\f85bfdcfeb29d74c549650e9eba08940
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\f8\f85bfdcfeb29d74c549650e9eba08940
-    projectPath: Library\Artifacts\f8\f85bfdcfeb29d74c549650e9eba08940
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\f9\f9015dfd3ad58168e08e2fe7b90a8775
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\f9\f9015dfd3ad58168e08e2fe7b90a8775
-    projectPath: Library\Artifacts\f9\f9015dfd3ad58168e08e2fe7b90a8775
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\fd\fd8c37d7944f59aa4e563c8157ca2f1b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\fd\fd8c37d7944f59aa4e563c8157ca2f1b
-    projectPath: Library\Artifacts\fd\fd8c37d7944f59aa4e563c8157ca2f1b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\Artifacts\fe\fee585dddf71cc3d936fceeafa226ff4
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\fe\fee585dddf71cc3d936fceeafa226ff4
-    projectPath: Library\Artifacts\fe\fee585dddf71cc3d936fceeafa226ff4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Library\Artifacts\ff\ffcc3cd1c551274099186c99570655cd
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\ff\ffcc3cd1c551274099186c99570655cd
-    projectPath: Library\Artifacts\ff\ffcc3cd1c551274099186c99570655cd
+  - path: Game_Design_Club\Library\Artifacts\ff\ff43a8bfeb2d848ce8c451a25b436bfa
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Artifacts\ff\ff43a8bfeb2d848ce8c451a25b436bfa
+    projectPath: Library\Artifacts\ff\ff43a8bfeb2d848ce8c451a25b436bfa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1178,8 +290,8 @@ MonoBehaviour:
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Game_Design_Club\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -1222,18 +334,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game_Design_Club\Library\PackageManager\ProjectCache
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club\Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Game_Design_Club\Library\SceneVisibilityState.asset
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -1252,240 +352,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game_Design_Club\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club\Library\ShaderCache\0\0e6529669d98b31a3e7fc96893a46927.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\0\0e6529669d98b31a3e7fc96893a46927.bin
-    projectPath: Library\ShaderCache\0\0e6529669d98b31a3e7fc96893a46927.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\1\1867ac2d0393565291c658de10b9df82.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\1\1867ac2d0393565291c658de10b9df82.bin
-    projectPath: Library\ShaderCache\1\1867ac2d0393565291c658de10b9df82.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\1\18a32c1784116d59b1e6a33791f53053.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\1\18a32c1784116d59b1e6a33791f53053.bin
-    projectPath: Library\ShaderCache\1\18a32c1784116d59b1e6a33791f53053.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\2\205c56ef950beb4b93ec15dba14cab81.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\2\205c56ef950beb4b93ec15dba14cab81.bin
-    projectPath: Library\ShaderCache\2\205c56ef950beb4b93ec15dba14cab81.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\2\2790f1c1e37cb1642f9170ee8808095f.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\2\2790f1c1e37cb1642f9170ee8808095f.bin
-    projectPath: Library\ShaderCache\2\2790f1c1e37cb1642f9170ee8808095f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\3\37c33d8d0a2a43656b28e997c4a11756.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\3\37c33d8d0a2a43656b28e997c4a11756.bin
-    projectPath: Library\ShaderCache\3\37c33d8d0a2a43656b28e997c4a11756.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\3\3bc8960b982580f4d706ff85fa285a95.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\3\3bc8960b982580f4d706ff85fa285a95.bin
-    projectPath: Library\ShaderCache\3\3bc8960b982580f4d706ff85fa285a95.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\3\3dd7e751f87e832962c8c4e260690c93.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\3\3dd7e751f87e832962c8c4e260690c93.bin
-    projectPath: Library\ShaderCache\3\3dd7e751f87e832962c8c4e260690c93.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\3\3f7c771db291a31da2049aa73f061d40.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\3\3f7c771db291a31da2049aa73f061d40.bin
-    projectPath: Library\ShaderCache\3\3f7c771db291a31da2049aa73f061d40.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\4\44843e7574218c1276862545f580fd2c.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\4\44843e7574218c1276862545f580fd2c.bin
-    projectPath: Library\ShaderCache\4\44843e7574218c1276862545f580fd2c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\4\489dd971edf59f95507c4ab3956954a6.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\4\489dd971edf59f95507c4ab3956954a6.bin
-    projectPath: Library\ShaderCache\4\489dd971edf59f95507c4ab3956954a6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\5\59022fc72b1b1610fc908641623759d4.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\5\59022fc72b1b1610fc908641623759d4.bin
-    projectPath: Library\ShaderCache\5\59022fc72b1b1610fc908641623759d4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\5\5d0ee912078a4eac19df145a518c05a2.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\5\5d0ee912078a4eac19df145a518c05a2.bin
-    projectPath: Library\ShaderCache\5\5d0ee912078a4eac19df145a518c05a2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\6\6559e1c354b048b9b59083b5a9308837.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\6\6559e1c354b048b9b59083b5a9308837.bin
-    projectPath: Library\ShaderCache\6\6559e1c354b048b9b59083b5a9308837.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\6\6f900f7f2ec6c71126540d48145f7044.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\6\6f900f7f2ec6c71126540d48145f7044.bin
-    projectPath: Library\ShaderCache\6\6f900f7f2ec6c71126540d48145f7044.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\7\70cbde9fd92a2020a9b970914c752df6.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\7\70cbde9fd92a2020a9b970914c752df6.bin
-    projectPath: Library\ShaderCache\7\70cbde9fd92a2020a9b970914c752df6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\7\721fe25d7103c2bdd9df9416dadc5ab7.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\7\721fe25d7103c2bdd9df9416dadc5ab7.bin
-    projectPath: Library\ShaderCache\7\721fe25d7103c2bdd9df9416dadc5ab7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\7\738e72f1d7e360d75c726d3640ad88e9.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\7\738e72f1d7e360d75c726d3640ad88e9.bin
-    projectPath: Library\ShaderCache\7\738e72f1d7e360d75c726d3640ad88e9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\7\742fb4ca32b70bc543ff10d88f4007cc.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\7\742fb4ca32b70bc543ff10d88f4007cc.bin
-    projectPath: Library\ShaderCache\7\742fb4ca32b70bc543ff10d88f4007cc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\8\8aedfb72d51f23cdee9656e800b820b2.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\8\8aedfb72d51f23cdee9656e800b820b2.bin
-    projectPath: Library\ShaderCache\8\8aedfb72d51f23cdee9656e800b820b2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\8\8ba27370997fda43e30a3997eb8e05ac.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\8\8ba27370997fda43e30a3997eb8e05ac.bin
-    projectPath: Library\ShaderCache\8\8ba27370997fda43e30a3997eb8e05ac.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\9\964e345a957c21168935988b88bc3509.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\9\964e345a957c21168935988b88bc3509.bin
-    projectPath: Library\ShaderCache\9\964e345a957c21168935988b88bc3509.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\9\9750b11a62616d960679e7ea58e53b6e.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\9\9750b11a62616d960679e7ea58e53b6e.bin
-    projectPath: Library\ShaderCache\9\9750b11a62616d960679e7ea58e53b6e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\9\9bd00358a75667b24de8b049d4bb5b2a.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\9\9bd00358a75667b24de8b049d4bb5b2a.bin
-    projectPath: Library\ShaderCache\9\9bd00358a75667b24de8b049d4bb5b2a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\9\9c2ca7fb2ed9e57d4a09510ffca69dbd.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\9\9c2ca7fb2ed9e57d4a09510ffca69dbd.bin
-    projectPath: Library\ShaderCache\9\9c2ca7fb2ed9e57d4a09510ffca69dbd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\9\9ee93b9aa2218b37daa8759013565539.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\9\9ee93b9aa2218b37daa8759013565539.bin
-    projectPath: Library\ShaderCache\9\9ee93b9aa2218b37daa8759013565539.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\a\a07acc91db50ce1b066e3ec01a81d6aa.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\a\a07acc91db50ce1b066e3ec01a81d6aa.bin
-    projectPath: Library\ShaderCache\a\a07acc91db50ce1b066e3ec01a81d6aa.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\b\b59476da1773d03903f85b623f417b9d.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\b\b59476da1773d03903f85b623f417b9d.bin
-    projectPath: Library\ShaderCache\b\b59476da1773d03903f85b623f417b9d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\d\d27002c369f696309c870e4801eb6a14.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\d\d27002c369f696309c870e4801eb6a14.bin
-    projectPath: Library\ShaderCache\d\d27002c369f696309c870e4801eb6a14.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\d\d3e3c6c0f27c847519b8e6c83ca5fb09.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\d\d3e3c6c0f27c847519b8e6c83ca5fb09.bin
-    projectPath: Library\ShaderCache\d\d3e3c6c0f27c847519b8e6c83ca5fb09.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\d\d7743c51f58b886cc44e3154efd8f153.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\d\d7743c51f58b886cc44e3154efd8f153.bin
-    projectPath: Library\ShaderCache\d\d7743c51f58b886cc44e3154efd8f153.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\d\d96a95dbf7cd806bf5d31d7694bf411e.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\d\d96a95dbf7cd806bf5d31d7694bf411e.bin
-    projectPath: Library\ShaderCache\d\d96a95dbf7cd806bf5d31d7694bf411e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\d\dd9f359a219f763eb1887b4314e0a55c.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\d\dd9f359a219f763eb1887b4314e0a55c.bin
-    projectPath: Library\ShaderCache\d\dd9f359a219f763eb1887b4314e0a55c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\e\edae03a17148aabb654e5f6878772421.bin
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\e\edae03a17148aabb654e5f6878772421.bin
-    projectPath: Library\ShaderCache\e\edae03a17148aabb654e5f6878772421.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Game_Design_Club\Library\SourceAssetDB
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -1498,57 +364,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game_Design_Club\Library\StateCache\SceneView\b6\b6ad09fc721964690b158d664c514c61.json
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\StateCache\SceneView\b6\b6ad09fc721964690b158d664c514c61.json
-    projectPath: Library\StateCache\SceneView\b6\b6ad09fc721964690b158d664c514c61.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club\Library\Style.catalog
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Library\Style.catalog
-    projectPath: Library\Style.catalog
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Game_Design_Club\Logs\AssetImportWorker0.log
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Game_Design_Club\Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club\Logs\AssetImportWorker1.log
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Logs\AssetImportWorker1.log
-    projectPath: Logs\AssetImportWorker1.log
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Game_Design_Club\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+  - path: Game_Design_Club\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club\ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
+  - path: Game_Design_Club\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1556,86 +392,164 @@ MonoBehaviour:
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Game_Design_Club\Temp\Assembly-CSharp.dll.hash
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\Assembly-CSharp.dll.hash
     projectPath: Temp\Assembly-CSharp.dll.hash
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\Assembly-CSharp-Editor.dll.hash
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\Assembly-CSharp-Editor.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Game_Design_Club\Temp\CompilationLog.txt
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\CompilationLog.txt
     projectPath: Temp\CompilationLog.txt
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Game_Design_Club\Temp\UnityLockfile
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Temp\UnityTempFile-0d07e0fc940626047aefbe7bb77c648e
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-0d07e0fc940626047aefbe7bb77c648e
-    projectPath: Temp\UnityTempFile-0d07e0fc940626047aefbe7bb77c648e
+  - path: Game_Design_Club\Temp\UnityTempFile-048318679f1c45946aff1167df1e3e8e
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-048318679f1c45946aff1167df1e3e8e
+    projectPath: Temp\UnityTempFile-048318679f1c45946aff1167df1e3e8e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Temp\UnityTempFile-166f737a803d243cd81be38bb2b67c43
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-166f737a803d243cd81be38bb2b67c43
-    projectPath: Temp\UnityTempFile-166f737a803d243cd81be38bb2b67c43
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Temp\UnityTempFile-5463fda2084ef8a49be74d518b129092
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-5463fda2084ef8a49be74d518b129092
-    projectPath: Temp\UnityTempFile-5463fda2084ef8a49be74d518b129092
+  - path: Game_Design_Club\Temp\UnityTempFile-074f7d80deb38364493f36f170879889
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-074f7d80deb38364493f36f170879889
+    projectPath: Temp\UnityTempFile-074f7d80deb38364493f36f170879889
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Temp\UnityTempFile-5d61627c88b1a491795cb593d0c0f05b
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-5d61627c88b1a491795cb593d0c0f05b
-    projectPath: Temp\UnityTempFile-5d61627c88b1a491795cb593d0c0f05b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Temp\UnityTempFile-610ff8d3c2bf8d24c895ec6bea18739a
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-610ff8d3c2bf8d24c895ec6bea18739a
-    projectPath: Temp\UnityTempFile-610ff8d3c2bf8d24c895ec6bea18739a
+  - path: Game_Design_Club\Temp\UnityTempFile-11d0e24aecc87784e84df0f4e24da70d
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-11d0e24aecc87784e84df0f4e24da70d
+    projectPath: Temp\UnityTempFile-11d0e24aecc87784e84df0f4e24da70d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Temp\UnityTempFile-7d30281c1a5e6470a9386ccb2a903d8d
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-7d30281c1a5e6470a9386ccb2a903d8d
-    projectPath: Temp\UnityTempFile-7d30281c1a5e6470a9386ccb2a903d8d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Temp\UnityTempFile-8840eaf7978c0c84bb8d17922c9e36f3
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-8840eaf7978c0c84bb8d17922c9e36f3
-    projectPath: Temp\UnityTempFile-8840eaf7978c0c84bb8d17922c9e36f3
+  - path: Game_Design_Club\Temp\UnityTempFile-2aceca0e05edcd942981d3ceab3a0fb3
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-2aceca0e05edcd942981d3ceab3a0fb3
+    projectPath: Temp\UnityTempFile-2aceca0e05edcd942981d3ceab3a0fb3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Temp\UnityTempFile-a6b1d7c540ea3cb4ca2f31b5db3393b8
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-a6b1d7c540ea3cb4ca2f31b5db3393b8
-    projectPath: Temp\UnityTempFile-a6b1d7c540ea3cb4ca2f31b5db3393b8
+  - path: Game_Design_Club\Temp\UnityTempFile-4289c16537dbdb946b598822b5bc45d7
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-4289c16537dbdb946b598822b5bc45d7
+    projectPath: Temp\UnityTempFile-4289c16537dbdb946b598822b5bc45d7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club\Temp\UnityTempFile-d29f27a87851e43e083415471d6192c1
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-d29f27a87851e43e083415471d6192c1
-    projectPath: Temp\UnityTempFile-d29f27a87851e43e083415471d6192c1
+  - path: Game_Design_Club\Temp\UnityTempFile-52079250a0ab48540be8ced4d445899e
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-52079250a0ab48540be8ced4d445899e
+    projectPath: Temp\UnityTempFile-52079250a0ab48540be8ced4d445899e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club\Temp\UnityTempFile-e781eb0f33f494c2491a4c1c1287fe18
-    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-e781eb0f33f494c2491a4c1c1287fe18
-    projectPath: Temp\UnityTempFile-e781eb0f33f494c2491a4c1c1287fe18
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-548d5f7c857ace946b335c6cc63903b3
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-548d5f7c857ace946b335c6cc63903b3
+    projectPath: Temp\UnityTempFile-548d5f7c857ace946b335c6cc63903b3
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-5aa8400138ecc48409324911af9d6122
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-5aa8400138ecc48409324911af9d6122
+    projectPath: Temp\UnityTempFile-5aa8400138ecc48409324911af9d6122
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-6ca49e7fab3fb94489b628404dcd9037
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-6ca49e7fab3fb94489b628404dcd9037
+    projectPath: Temp\UnityTempFile-6ca49e7fab3fb94489b628404dcd9037
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-8996085ab40bc434b812f98e6aca2312
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-8996085ab40bc434b812f98e6aca2312
+    projectPath: Temp\UnityTempFile-8996085ab40bc434b812f98e6aca2312
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-8fcb9ff3dd4c19f48bd383336e0dc728
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-8fcb9ff3dd4c19f48bd383336e0dc728
+    projectPath: Temp\UnityTempFile-8fcb9ff3dd4c19f48bd383336e0dc728
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-92bcbb0af9b9a9c43b879ad457707ce5
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-92bcbb0af9b9a9c43b879ad457707ce5
+    projectPath: Temp\UnityTempFile-92bcbb0af9b9a9c43b879ad457707ce5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-a66e25dbbba852e4ca07c23615ed57e7
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-a66e25dbbba852e4ca07c23615ed57e7
+    projectPath: Temp\UnityTempFile-a66e25dbbba852e4ca07c23615ed57e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-a7b19afc13969bb429c384aae21aed7c
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-a7b19afc13969bb429c384aae21aed7c
+    projectPath: Temp\UnityTempFile-a7b19afc13969bb429c384aae21aed7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-ad691f1174da32e4ca5ea364a7df4004
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-ad691f1174da32e4ca5ea364a7df4004
+    projectPath: Temp\UnityTempFile-ad691f1174da32e4ca5ea364a7df4004
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-b52306f4f63ceb24d99446900f504a7e
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-b52306f4f63ceb24d99446900f504a7e
+    projectPath: Temp\UnityTempFile-b52306f4f63ceb24d99446900f504a7e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-b5c130b85c880494c897c7005beb2bae
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-b5c130b85c880494c897c7005beb2bae
+    projectPath: Temp\UnityTempFile-b5c130b85c880494c897c7005beb2bae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-b6e9e86ab21649d4e9f3067f9f3374fb
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-b6e9e86ab21649d4e9f3067f9f3374fb
+    projectPath: Temp\UnityTempFile-b6e9e86ab21649d4e9f3067f9f3374fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-db839aa275f7e944f9e202a79c74bd76
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-db839aa275f7e944f9e202a79c74bd76
+    projectPath: Temp\UnityTempFile-db839aa275f7e944f9e202a79c74bd76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-dcefe6acf4b9c9540920ee5b71a87dd3
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-dcefe6acf4b9c9540920ee5b71a87dd3
+    projectPath: Temp\UnityTempFile-dcefe6acf4b9c9540920ee5b71a87dd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-f06e5251b7fb1f44c9be131224be4c1c
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-f06e5251b7fb1f44c9be131224be4c1c
+    projectPath: Temp\UnityTempFile-f06e5251b7fb1f44c9be131224be4c1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club\Temp\UnityTempFile-ffc82c7108b1a3d4f845a03ea391f8c4
+    fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\UnityTempFile-ffc82c7108b1a3d4f845a03ea391f8c4
+    projectPath: Temp\UnityTempFile-ffc82c7108b1a3d4f845a03ea391f8c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Game_Design_Club\Temp\workerlic
     fullPath: C:\Users\crazy\Documents\GitHub\GameDesignClubGame\Game_Design_Club\Temp\workerlic
     projectPath: Temp\workerlic
