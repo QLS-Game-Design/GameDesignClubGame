@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-03-08T09:13:12.032-08:00
-  initializedAtString: 2021-03-08T09:10:22.750-08:00
+  lastUpdatedAtString: 2021-03-29T09:27:58.025-07:00
+  initializedAtString: 2021-03-29T09:27:07.736-07:00
   localBranches:
+  - name: Charles
+    tracking: origin/Charles
   - name: Map
     tracking: origin/Map
   - name: main
@@ -41,9 +43,15 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - Charles
     - Map
     - main
     values:
+    - name: Charles
+      remote:
+        name: origin
+        url: https://github.com/WesleyVong/GameDesignClubGame.git
+      trackingBranch: Charles
     - name: Map
       remote:
         name: origin

@@ -13,546 +13,84 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-08T09:13:30.467-08:00
-  initializedAtString: 2021-03-08T08:47:34.082-08:00
+  lastUpdatedAtString: 2021-03-29T09:28:06.969-07:00
+  initializedAtString: 2021-03-29T09:27:00.749-07:00
   entries:
-  - path: Game_Design_Club/Assembly-CSharp.csproj
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Game_Design_Club/Assets/Animation.meta
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation.meta
+    projectPath: Assets/Animation.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/Assets/Assets.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Assets.meta
-    projectPath: Assets/Assets.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club/Assets/Assets/Graphics.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Assets/Graphics.meta
-    projectPath: Assets/Assets/Graphics.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club/Assets/Assets/Sound.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Assets/Sound.meta
-    projectPath: Assets/Assets/Sound.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game_Design_Club/Assets/Audio.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio.meta
-    projectPath: Assets/Audio.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_chop1.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_chop1.aif
-    projectPath: Assets/Audio/scavengers_chop1.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_chop1.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_chop1.aif.meta
-    projectPath: Assets/Audio/scavengers_chop1.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_chop2.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_chop2.aif
-    projectPath: Assets/Audio/scavengers_chop2.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_chop2.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_chop2.aif.meta
-    projectPath: Assets/Audio/scavengers_chop2.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_die.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_die.aif
-    projectPath: Assets/Audio/scavengers_die.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_die.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_die.aif.meta
-    projectPath: Assets/Audio/scavengers_die.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_enemy1.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_enemy1.aif
-    projectPath: Assets/Audio/scavengers_enemy1.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_enemy1.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_enemy1.aif.meta
-    projectPath: Assets/Audio/scavengers_enemy1.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_enemy2.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_enemy2.aif
-    projectPath: Assets/Audio/scavengers_enemy2.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_enemy2.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_enemy2.aif.meta
-    projectPath: Assets/Audio/scavengers_enemy2.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_footstep1.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_footstep1.aif
-    projectPath: Assets/Audio/scavengers_footstep1.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_footstep1.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_footstep1.aif.meta
-    projectPath: Assets/Audio/scavengers_footstep1.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_footstep2.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_footstep2.aif
-    projectPath: Assets/Audio/scavengers_footstep2.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_footstep2.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_footstep2.aif.meta
-    projectPath: Assets/Audio/scavengers_footstep2.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_fruit1.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_fruit1.aif
-    projectPath: Assets/Audio/scavengers_fruit1.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_fruit1.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_fruit1.aif.meta
-    projectPath: Assets/Audio/scavengers_fruit1.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_fruit2.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_fruit2.aif
-    projectPath: Assets/Audio/scavengers_fruit2.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_fruit2.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_fruit2.aif.meta
-    projectPath: Assets/Audio/scavengers_fruit2.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_music.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_music.aif
-    projectPath: Assets/Audio/scavengers_music.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_music.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_music.aif.meta
-    projectPath: Assets/Audio/scavengers_music.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_soda1.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_soda1.aif
-    projectPath: Assets/Audio/scavengers_soda1.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_soda1.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_soda1.aif.meta
-    projectPath: Assets/Audio/scavengers_soda1.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_soda2.aif
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_soda2.aif
-    projectPath: Assets/Audio/scavengers_soda2.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Audio/scavengers_soda2.aif.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Audio/scavengers_soda2.aif.meta
-    projectPath: Assets/Audio/scavengers_soda2.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Fonts.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Fonts.meta
-    projectPath: Assets/Fonts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Fonts/OFL.txt
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Fonts/OFL.txt
-    projectPath: Assets/Fonts/OFL.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Fonts/OFL.txt.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Fonts/OFL.txt.meta
-    projectPath: Assets/Fonts/OFL.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Fonts/PressStart2P-Regular.ttf
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Fonts/PressStart2P-Regular.ttf
-    projectPath: Assets/Fonts/PressStart2P-Regular.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Fonts/PressStart2P-Regular.ttf.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Fonts/PressStart2P-Regular.ttf.meta
-    projectPath: Assets/Fonts/PressStart2P-Regular.ttf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Graphics.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Graphics.meta
-    projectPath: Assets/Graphics.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map.meta
-    projectPath: Assets/Map.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Ground.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Ground.prefab
-    projectPath: Assets/Map/Ground.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Ground.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Ground.prefab.meta
-    projectPath: Assets/Map/Ground.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_21.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_21.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_21.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_21.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_21.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_21.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_22.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_22.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_22.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_22.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_22.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_22.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_23.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_23.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_23.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_23.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_23.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_23.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_24.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_24.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_24.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_24.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_24.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_24.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_25.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_25.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_25.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_25.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_25.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_25.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_26.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_26.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_26.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_26.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_26.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_26.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_27.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_27.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_27.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_27.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_27.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_27.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_28.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_28.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_28.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_28.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_28.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_28.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_29.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_29.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_29.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_29.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_29.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_29.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_30.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_30.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_30.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_30.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_30.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_30.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_31.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_31.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_31.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_31.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_31.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_31.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_32.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_32.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_32.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_32.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_32.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_32.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_33.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_33.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_33.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_33.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_33.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_33.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_34.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_34.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_34.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_34.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_34.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_34.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_35.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_35.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_35.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_35.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_35.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_35.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_36.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_36.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_36.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_36.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_36.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_36.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_37.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_37.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_37.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_37.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_37.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_37.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_38.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_38.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_38.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_38.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_38.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_38.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_39.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_39.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_39.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_39.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_39.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_39.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_48.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_48.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_48.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_48.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_48.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_48.asset.meta
-    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_49.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_49.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_49.asset
+  - path: Game_Design_Club/Assets/Animation/Enemy1_Idle.anim
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Enemy1_Idle.anim
+    projectPath: Assets/Animation/Enemy1_Idle.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_49.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_49.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_49.asset.meta
+  - path: Game_Design_Club/Assets/Animation/Enemy1_Idle.anim.meta
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Enemy1_Idle.anim.meta
+    projectPath: Assets/Animation/Enemy1_Idle.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_50.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_50.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_50.asset
+  - path: Game_Design_Club/Assets/Animation/Enemy2_Idle.anim
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Enemy2_Idle.anim
+    projectPath: Assets/Animation/Enemy2_Idle.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_50.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_50.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_50.asset.meta
+  - path: Game_Design_Club/Assets/Animation/Enemy2_Idle.anim.meta
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Enemy2_Idle.anim.meta
+    projectPath: Assets/Animation/Enemy2_Idle.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_51.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_51.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_51.asset
+  - path: Game_Design_Club/Assets/Animation/Player_Idle.anim
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Player_Idle.anim
+    projectPath: Assets/Animation/Player_Idle.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_51.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_51.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_51.asset.meta
+  - path: Game_Design_Club/Assets/Animation/Player_Idle.anim.meta
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Player_Idle.anim.meta
+    projectPath: Assets/Animation/Player_Idle.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_52.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_52.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_52.asset
+  - path: Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_0.controller
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_0.controller
+    projectPath: Assets/Animation/Scavengers_SpriteSheet_0.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_52.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_52.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_52.asset.meta
+  - path: Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_0.controller.meta
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_0.controller.meta
+    projectPath: Assets/Animation/Scavengers_SpriteSheet_0.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_53.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_53.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_53.asset
+  - path: Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_12.controller
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_12.controller
+    projectPath: Assets/Animation/Scavengers_SpriteSheet_12.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_53.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_53.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_53.asset.meta
+  - path: Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_12.controller.meta
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_12.controller.meta
+    projectPath: Assets/Animation/Scavengers_SpriteSheet_12.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_54.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_54.asset
-    projectPath: Assets/Map/Scavengers_SpriteSheet_54.asset
+  - path: Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_6.controller
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_6.controller
+    projectPath: Assets/Animation/Scavengers_SpriteSheet_6.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_54.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Map/Scavengers_SpriteSheet_54.asset.meta
-    projectPath: Assets/Map/Scavengers_SpriteSheet_54.asset.meta
+  - path: Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_6.controller.meta
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Animation/Scavengers_SpriteSheet_6.controller.meta
+    projectPath: Assets/Animation/Scavengers_SpriteSheet_6.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -562,1165 +100,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game_Design_Club/Assets/Sound.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Sound.meta
-    projectPath: Assets/Sound.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Sprites.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Sprites.meta
-    projectPath: Assets/Sprites.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Sprites/Scavengers_SpriteSheet.png
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Sprites/Scavengers_SpriteSheet.png
-    projectPath: Assets/Sprites/Scavengers_SpriteSheet.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Sprites/Scavengers_SpriteSheet.png.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Sprites/Scavengers_SpriteSheet.png.meta
-    projectPath: Assets/Sprites/Scavengers_SpriteSheet.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused.meta
-    projectPath: Assets/Unused.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game.meta
-    projectPath: Assets/Unused/_Complete-Game.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/_Complete-Game.unity
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/_Complete-Game.unity
-    projectPath: Assets/Unused/_Complete-Game/_Complete-Game.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/_Complete-Game.unity.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/_Complete-Game.unity.meta
-    projectPath: Assets/Unused/_Complete-Game/_Complete-Game.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/_Complete-GameSettings.lighting
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/_Complete-GameSettings.lighting
-    projectPath: Assets/Unused/_Complete-Game/_Complete-GameSettings.lighting
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/_Complete-GameSettings.lighting.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/_Complete-GameSettings.lighting.meta
-    projectPath: Assets/Unused/_Complete-Game/_Complete-GameSettings.lighting.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Attack.anim
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Attack.anim
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Attack.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Attack.anim.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Attack.anim.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Attack.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Idle.anim
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Idle.anim
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Idle.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Idle.anim.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Idle.anim.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/Enemy1Idle.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Attack.anim
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Attack.anim
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Attack.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Attack.anim.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Attack.anim.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Attack.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Idle.anim
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Idle.anim
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Idle.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Idle.anim.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Idle.anim.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/Enemy2Idle.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerChop.anim
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerChop.anim
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/PlayerChop.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerChop.anim.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerChop.anim.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/PlayerChop.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerHit.anim
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerHit.anim
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/PlayerHit.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerHit.anim.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerHit.anim.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/PlayerHit.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerIdle.anim
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerIdle.anim
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/PlayerIdle.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerIdle.anim.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/Animations/PlayerIdle.anim.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/Animations/PlayerIdle.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/AnimatorControllers.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy1.controller
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy1.controller
-    projectPath: Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy1.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy1.controller.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy1.controller.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy1.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy2.overrideController
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy2.overrideController
-    projectPath: Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy2.overrideController
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy2.overrideController.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy2.overrideController.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Enemy2.overrideController.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Player.controller
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Player.controller
-    projectPath: Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Player.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Player.controller.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Player.controller.meta
-    projectPath: Assets/Unused/_Complete-Game/Animation/AnimatorControllers/Player.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Enemy1.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Enemy1.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Enemy1.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Enemy1.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Enemy1.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Enemy1.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Enemy2.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Enemy2.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Enemy2.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Enemy2.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Enemy2.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Enemy2.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Exit.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Exit.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Exit.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Exit.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Exit.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Exit.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor1.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor1.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor1.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor1.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor1.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor1.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor2.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor2.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor2.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor2.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor2.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor2.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor3.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor3.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor3.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor3.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor3.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor3.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor4.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor4.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor4.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor4.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor4.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor4.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor5.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor5.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor5.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor5.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor5.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor5.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor6.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor6.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor6.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor6.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor6.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor6.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor7.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor7.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor7.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor7.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor7.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor7.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor8.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor8.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor8.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor8.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Floor8.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Floor8.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Food.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Food.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Food.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Food.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Food.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Food.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/GameManager.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/GameManager.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/GameManager.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/GameManager.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/GameManager.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/GameManager.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall1.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall1.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/OuterWall1.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall1.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall1.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/OuterWall1.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall2.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall2.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/OuterWall2.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall2.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall2.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/OuterWall2.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall3.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall3.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/OuterWall3.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall3.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/OuterWall3.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/OuterWall3.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Player.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Player.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Player.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Player.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Player.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Player.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Soda.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Soda.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Soda.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Soda.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Soda.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Soda.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/SoundManager.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/SoundManager.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/SoundManager.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/SoundManager.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/SoundManager.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/SoundManager.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall1.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall1.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall1.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall1.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall1.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall1.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall2.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall2.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall2.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall2.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall2.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall2.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall3.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall3.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall3.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall3.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall3.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall3.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall4.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall4.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall4.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall4.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall4.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall4.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall5.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall5.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall5.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall5.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall5.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall5.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall6.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall6.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall6.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall6.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall6.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall6.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall7.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall7.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall7.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall7.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall7.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall7.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall8.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall8.prefab
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall8.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall8.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Prefabs/Wall8.prefab.meta
-    projectPath: Assets/Unused/_Complete-Game/Prefabs/Wall8.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scenes.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scenes.meta
-    projectPath: Assets/Unused/_Complete-Game/Scenes.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scenes/Main.unity
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scenes/Main.unity
-    projectPath: Assets/Unused/_Complete-Game/Scenes/Main.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scenes/Main.unity.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scenes/Main.unity.meta
-    projectPath: Assets/Unused/_Complete-Game/Scenes/Main.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scenes/MainSettings.lighting
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scenes/MainSettings.lighting
-    projectPath: Assets/Unused/_Complete-Game/Scenes/MainSettings.lighting
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scenes/MainSettings.lighting.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scenes/MainSettings.lighting.meta
-    projectPath: Assets/Unused/_Complete-Game/Scenes/MainSettings.lighting.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts.meta
-    projectPath: Assets/Unused/_Complete-Game/Scripts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/BoardManager.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/BoardManager.cs
-    projectPath: Assets/Unused/_Complete-Game/Scripts/BoardManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/BoardManager.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/BoardManager.cs.meta
-    projectPath: Assets/Unused/_Complete-Game/Scripts/BoardManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Enemy.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Enemy.cs
-    projectPath: Assets/Unused/_Complete-Game/Scripts/Enemy.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Enemy.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Enemy.cs.meta
-    projectPath: Assets/Unused/_Complete-Game/Scripts/Enemy.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/GameManager.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/GameManager.cs
-    projectPath: Assets/Unused/_Complete-Game/Scripts/GameManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/GameManager.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/GameManager.cs.meta
-    projectPath: Assets/Unused/_Complete-Game/Scripts/GameManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Loader.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Loader.cs
-    projectPath: Assets/Unused/_Complete-Game/Scripts/Loader.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Loader.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Loader.cs.meta
-    projectPath: Assets/Unused/_Complete-Game/Scripts/Loader.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/MovingObject.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/MovingObject.cs
-    projectPath: Assets/Unused/_Complete-Game/Scripts/MovingObject.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/MovingObject.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/MovingObject.cs.meta
-    projectPath: Assets/Unused/_Complete-Game/Scripts/MovingObject.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Player.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Player.cs
-    projectPath: Assets/Unused/_Complete-Game/Scripts/Player.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Player.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Player.cs.meta
-    projectPath: Assets/Unused/_Complete-Game/Scripts/Player.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/SoundManager.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/SoundManager.cs
-    projectPath: Assets/Unused/_Complete-Game/Scripts/SoundManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/SoundManager.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/SoundManager.cs.meta
-    projectPath: Assets/Unused/_Complete-Game/Scripts/SoundManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Wall.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Wall.cs
-    projectPath: Assets/Unused/_Complete-Game/Scripts/Wall.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Wall.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/_Complete-Game/Scripts/Wall.cs.meta
-    projectPath: Assets/Unused/_Complete-Game/Scripts/Wall.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/2D Roguelike Upgrade Guide.pdf
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/2D
-      Roguelike Upgrade Guide.pdf
-    projectPath: Assets/Unused/2D Roguelike Upgrade Guide.pdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/2D Roguelike Upgrade Guide.pdf.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/2D
-      Roguelike Upgrade Guide.pdf.meta
-    projectPath: Assets/Unused/2D Roguelike Upgrade Guide.pdf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/Readme.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/Readme.asset
-    projectPath: Assets/Unused/Readme.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/Readme.asset.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/Readme.asset.meta
-    projectPath: Assets/Unused/Readme.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo.meta
-    projectPath: Assets/Unused/TutorialInfo.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Fonts.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Fonts.meta
-    projectPath: Assets/Unused/TutorialInfo/Fonts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/LICENSE.txt
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/LICENSE.txt
-    projectPath: Assets/Unused/TutorialInfo/Fonts/LICENSE.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/LICENSE.txt.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/LICENSE.txt.meta
-    projectPath: Assets/Unused/TutorialInfo/Fonts/LICENSE.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/RobotoCondensed-Bold.ttf
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/RobotoCondensed-Bold.ttf
-    projectPath: Assets/Unused/TutorialInfo/Fonts/RobotoCondensed-Bold.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/RobotoCondensed-Bold.ttf.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/RobotoCondensed-Bold.ttf.meta
-    projectPath: Assets/Unused/TutorialInfo/Fonts/RobotoCondensed-Bold.ttf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/Roboto-Thin.ttf
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/Roboto-Thin.ttf
-    projectPath: Assets/Unused/TutorialInfo/Fonts/Roboto-Thin.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/Roboto-Thin.ttf.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Fonts/Roboto-Thin.ttf.meta
-    projectPath: Assets/Unused/TutorialInfo/Fonts/Roboto-Thin.ttf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Icons.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Icons.meta
-    projectPath: Assets/Unused/TutorialInfo/Icons.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Icons/2DRoguelike.png
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Icons/2DRoguelike.png
-    projectPath: Assets/Unused/TutorialInfo/Icons/2DRoguelike.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Icons/2DRoguelike.png.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Icons/2DRoguelike.png.meta
-    projectPath: Assets/Unused/TutorialInfo/Icons/2DRoguelike.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Icons/Help_Icon.png
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Icons/Help_Icon.png
-    projectPath: Assets/Unused/TutorialInfo/Icons/Help_Icon.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Icons/Help_Icon.png.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Icons/Help_Icon.png.meta
-    projectPath: Assets/Unused/TutorialInfo/Icons/Help_Icon.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Layout.wlt
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Layout.wlt
-    projectPath: Assets/Unused/TutorialInfo/Layout.wlt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Layout.wlt.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Layout.wlt.meta
-    projectPath: Assets/Unused/TutorialInfo/Layout.wlt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Scripts.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Scripts.meta
-    projectPath: Assets/Unused/TutorialInfo/Scripts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Editor.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Editor.meta
-    projectPath: Assets/Unused/TutorialInfo/Scripts/Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
-    projectPath: Assets/Unused/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
-    projectPath: Assets/Unused/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Editor/TutorialInfoEditor.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Editor/TutorialInfoEditor.cs
-    projectPath: Assets/Unused/TutorialInfo/Scripts/Editor/TutorialInfoEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Editor/TutorialInfoEditor.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Editor/TutorialInfoEditor.cs.meta
-    projectPath: Assets/Unused/TutorialInfo/Scripts/Editor/TutorialInfoEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Readme.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Readme.cs
-    projectPath: Assets/Unused/TutorialInfo/Scripts/Readme.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Readme.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/Readme.cs.meta
-    projectPath: Assets/Unused/TutorialInfo/Scripts/Readme.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/TutorialInfo.cs
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/TutorialInfo.cs
-    projectPath: Assets/Unused/TutorialInfo/Scripts/TutorialInfo.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/TutorialInfo.cs.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Scripts/TutorialInfo.cs.meta
-    projectPath: Assets/Unused/TutorialInfo/Scripts/TutorialInfo.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Sprites.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Sprites.meta
-    projectPath: Assets/Unused/TutorialInfo/Sprites.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Sprites/unity-logo.png
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Sprites/unity-logo.png
-    projectPath: Assets/Unused/TutorialInfo/Sprites/unity-logo.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Sprites/unity-logo.png.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Sprites/unity-logo.png.meta
-    projectPath: Assets/Unused/TutorialInfo/Sprites/unity-logo.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Tutorial Info.prefab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Tutorial
-      Info.prefab
-    projectPath: Assets/Unused/TutorialInfo/Tutorial Info.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Assets/Unused/TutorialInfo/Tutorial Info.prefab.meta
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Assets/Unused/TutorialInfo/Tutorial
-      Info.prefab.meta
-    projectPath: Assets/Unused/TutorialInfo/Tutorial Info.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Game_Design_Club.sln
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Game_Design_Club.sln
-    projectPath: Game_Design_Club.sln
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Game_Design_Club/Library/ArtifactDB
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ArtifactDB
     projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game_Design_Club/Library/Artifacts/01/01e3205eae78b2331bec93ca59af24fa
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/01/01e3205eae78b2331bec93ca59af24fa
-    projectPath: Library/Artifacts/01/01e3205eae78b2331bec93ca59af24fa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/04/045943bf6adf853e83b8a46e0b6b0943
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/04/045943bf6adf853e83b8a46e0b6b0943
-    projectPath: Library/Artifacts/04/045943bf6adf853e83b8a46e0b6b0943
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/05/050f334320b0f47ff5a39fa7261edf35
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/05/050f334320b0f47ff5a39fa7261edf35
-    projectPath: Library/Artifacts/05/050f334320b0f47ff5a39fa7261edf35
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/05/05b60c0c7a237b6d9ccee4873388e6ea
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/05/05b60c0c7a237b6d9ccee4873388e6ea
-    projectPath: Library/Artifacts/05/05b60c0c7a237b6d9ccee4873388e6ea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/06/0679dc20c47d6ee178da1225e02ba082
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/06/0679dc20c47d6ee178da1225e02ba082
-    projectPath: Library/Artifacts/06/0679dc20c47d6ee178da1225e02ba082
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/08/08d26c1f9d12bfbd9eb7037c963c9843
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/08/08d26c1f9d12bfbd9eb7037c963c9843
-    projectPath: Library/Artifacts/08/08d26c1f9d12bfbd9eb7037c963c9843
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/0a/0aaba04dfddd4d1fcc4bccf2e5b3cd80
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/0a/0aaba04dfddd4d1fcc4bccf2e5b3cd80
-    projectPath: Library/Artifacts/0a/0aaba04dfddd4d1fcc4bccf2e5b3cd80
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/0b/0bd769fab23338025c78938041cc6a0d
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/0b/0bd769fab23338025c78938041cc6a0d
-    projectPath: Library/Artifacts/0b/0bd769fab23338025c78938041cc6a0d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/13/13ecfe951cc64dc0c2b23a371c5c6513
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/13/13ecfe951cc64dc0c2b23a371c5c6513
-    projectPath: Library/Artifacts/13/13ecfe951cc64dc0c2b23a371c5c6513
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/14/14c5eae9de65db98cb01653e14e2a426
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/14/14c5eae9de65db98cb01653e14e2a426
-    projectPath: Library/Artifacts/14/14c5eae9de65db98cb01653e14e2a426
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/16/161094d7cc34deec17b99baf5cd991d6
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/16/161094d7cc34deec17b99baf5cd991d6
-    projectPath: Library/Artifacts/16/161094d7cc34deec17b99baf5cd991d6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/17/17e569bb60885b9e7ca51d77fd739abe
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/17/17e569bb60885b9e7ca51d77fd739abe
-    projectPath: Library/Artifacts/17/17e569bb60885b9e7ca51d77fd739abe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/1a/1a93f3a0778e87a7f7282bfa8aeaadfc
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/1a/1a93f3a0778e87a7f7282bfa8aeaadfc
-    projectPath: Library/Artifacts/1a/1a93f3a0778e87a7f7282bfa8aeaadfc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/1b/1bc4da38bab0378a2bd4404f9f84a905
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/1b/1bc4da38bab0378a2bd4404f9f84a905
-    projectPath: Library/Artifacts/1b/1bc4da38bab0378a2bd4404f9f84a905
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/1c/1c90d44345424d42877800dd4d86a19b
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/1c/1c90d44345424d42877800dd4d86a19b
-    projectPath: Library/Artifacts/1c/1c90d44345424d42877800dd4d86a19b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/20/203e3038620c86f9c9a030167c0b94ef
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/20/203e3038620c86f9c9a030167c0b94ef
-    projectPath: Library/Artifacts/20/203e3038620c86f9c9a030167c0b94ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Game_Design_Club/Library/Artifacts/23/232f2b596b7374f7a02555db7a2a7227
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/23/232f2b596b7374f7a02555db7a2a7227
     projectPath: Library/Artifacts/23/232f2b596b7374f7a02555db7a2a7227
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/28/28446946e653c6fde1ebfa916e3395cb
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/28/28446946e653c6fde1ebfa916e3395cb
-    projectPath: Library/Artifacts/28/28446946e653c6fde1ebfa916e3395cb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/29/2970c3b06dad1c12e7b8c3586e435255
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/29/2970c3b06dad1c12e7b8c3586e435255
-    projectPath: Library/Artifacts/29/2970c3b06dad1c12e7b8c3586e435255
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/2a/2aa0e7d95d4b3791ba9a0d63d07576ad
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/2a/2aa0e7d95d4b3791ba9a0d63d07576ad
-    projectPath: Library/Artifacts/2a/2aa0e7d95d4b3791ba9a0d63d07576ad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/2a/2acabd07a26cef3fd0fcd25105f72974
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/2a/2acabd07a26cef3fd0fcd25105f72974
-    projectPath: Library/Artifacts/2a/2acabd07a26cef3fd0fcd25105f72974
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/2b/2b3c6a4f21cb8197dab934b80c8605bd
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/2b/2b3c6a4f21cb8197dab934b80c8605bd
-    projectPath: Library/Artifacts/2b/2b3c6a4f21cb8197dab934b80c8605bd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/2e/2eba3f781a943e74a1b5392482f98a29
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/2e/2eba3f781a943e74a1b5392482f98a29
-    projectPath: Library/Artifacts/2e/2eba3f781a943e74a1b5392482f98a29
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/34/343341401eab93203a341438439bf9c5
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/34/343341401eab93203a341438439bf9c5
-    projectPath: Library/Artifacts/34/343341401eab93203a341438439bf9c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/34/34b76e1c70ed8af831eb4b49f0e6e872
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/34/34b76e1c70ed8af831eb4b49f0e6e872
-    projectPath: Library/Artifacts/34/34b76e1c70ed8af831eb4b49f0e6e872
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/36/36ea689b46370cc09a354cc224976e74
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/36/36ea689b46370cc09a354cc224976e74
-    projectPath: Library/Artifacts/36/36ea689b46370cc09a354cc224976e74
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/3a/3a586982a5c48f188e0c69aa297bc341
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/3a/3a586982a5c48f188e0c69aa297bc341
-    projectPath: Library/Artifacts/3a/3a586982a5c48f188e0c69aa297bc341
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/3e/3e9593b77d8db48d23b462094d199787
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/3e/3e9593b77d8db48d23b462094d199787
-    projectPath: Library/Artifacts/3e/3e9593b77d8db48d23b462094d199787
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/40/40be97dab65075a6e3ed13e22a8a26c3
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/40/40be97dab65075a6e3ed13e22a8a26c3
-    projectPath: Library/Artifacts/40/40be97dab65075a6e3ed13e22a8a26c3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/41/41816e857731513350438674d9ee2887
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/41/41816e857731513350438674d9ee2887
-    projectPath: Library/Artifacts/41/41816e857731513350438674d9ee2887
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/42/423ce81b1cb2ad85d3376f1a99f3c082
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/42/423ce81b1cb2ad85d3376f1a99f3c082
-    projectPath: Library/Artifacts/42/423ce81b1cb2ad85d3376f1a99f3c082
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/49/49dc9a16136e723993dc7b9ff967af50
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/49/49dc9a16136e723993dc7b9ff967af50
-    projectPath: Library/Artifacts/49/49dc9a16136e723993dc7b9ff967af50
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/4b/4ba54e6d8ec9c88b3d30bd45544f2bf0
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/4b/4ba54e6d8ec9c88b3d30bd45544f2bf0
-    projectPath: Library/Artifacts/4b/4ba54e6d8ec9c88b3d30bd45544f2bf0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/4e/4e1b7597350f450e853a6a092c36f792
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/4e/4e1b7597350f450e853a6a092c36f792
-    projectPath: Library/Artifacts/4e/4e1b7597350f450e853a6a092c36f792
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/50/50d03f8df39b92bcf75acf12c2988a50
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/50/50d03f8df39b92bcf75acf12c2988a50
-    projectPath: Library/Artifacts/50/50d03f8df39b92bcf75acf12c2988a50
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/51/51a84e9297cd4f5f1b496902fe5864a4
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/51/51a84e9297cd4f5f1b496902fe5864a4
-    projectPath: Library/Artifacts/51/51a84e9297cd4f5f1b496902fe5864a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/52/52ceb59c19d357213e5611289da9509b
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/52/52ceb59c19d357213e5611289da9509b
-    projectPath: Library/Artifacts/52/52ceb59c19d357213e5611289da9509b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/59/59f63954e8ea0afd4e98d9295951703a
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/59/59f63954e8ea0afd4e98d9295951703a
-    projectPath: Library/Artifacts/59/59f63954e8ea0afd4e98d9295951703a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/5a/5a2b7c643b1a53df5e5fec2345800b35
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/5a/5a2b7c643b1a53df5e5fec2345800b35
-    projectPath: Library/Artifacts/5a/5a2b7c643b1a53df5e5fec2345800b35
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/5c/5c0189d51edc75aec9c3bfaf71123d58
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/5c/5c0189d51edc75aec9c3bfaf71123d58
-    projectPath: Library/Artifacts/5c/5c0189d51edc75aec9c3bfaf71123d58
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/5c/5c70ca3b31139b6481fa7ef05df6db48
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/5c/5c70ca3b31139b6481fa7ef05df6db48
-    projectPath: Library/Artifacts/5c/5c70ca3b31139b6481fa7ef05df6db48
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/5e/5e632698c2862ea818904cd6c7dd15ac
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/5e/5e632698c2862ea818904cd6c7dd15ac
-    projectPath: Library/Artifacts/5e/5e632698c2862ea818904cd6c7dd15ac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/5e/5ee880c12fdff99f9196d73475cf1a40
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/5e/5ee880c12fdff99f9196d73475cf1a40
-    projectPath: Library/Artifacts/5e/5ee880c12fdff99f9196d73475cf1a40
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/61/61f5119cc81dd995970c1012c2ce2608
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/61/61f5119cc81dd995970c1012c2ce2608
-    projectPath: Library/Artifacts/61/61f5119cc81dd995970c1012c2ce2608
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/65/6529ebb6c37c7b3b4178ad89207bae3e
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/65/6529ebb6c37c7b3b4178ad89207bae3e
-    projectPath: Library/Artifacts/65/6529ebb6c37c7b3b4178ad89207bae3e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/65/65da63b522dcf30bec961f305f34e0e6
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/65/65da63b522dcf30bec961f305f34e0e6
-    projectPath: Library/Artifacts/65/65da63b522dcf30bec961f305f34e0e6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/6a/6afce1ae4d49fa254176c089c5e48000
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/6a/6afce1ae4d49fa254176c089c5e48000
-    projectPath: Library/Artifacts/6a/6afce1ae4d49fa254176c089c5e48000
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game_Design_Club/Library/Artifacts/3c/3cbf64155e5b4911a0848abec27783b8
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/3c/3cbf64155e5b4911a0848abec27783b8
+    projectPath: Library/Artifacts/3c/3cbf64155e5b4911a0848abec27783b8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1728,317 +122,29 @@ MonoBehaviour:
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/72/72a2815322015c0e735def3aaa2f175a
     projectPath: Library/Artifacts/72/72a2815322015c0e735def3aaa2f175a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/79/793e5810fd8b122d67f2a90d9281bd8f
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/79/793e5810fd8b122d67f2a90d9281bd8f
-    projectPath: Library/Artifacts/79/793e5810fd8b122d67f2a90d9281bd8f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/7c/7c7c0fd4a724debe197c07fbd5bb4fb3
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/7c/7c7c0fd4a724debe197c07fbd5bb4fb3
-    projectPath: Library/Artifacts/7c/7c7c0fd4a724debe197c07fbd5bb4fb3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/7f/7f2162adaab149adf830e5d0f58519ee
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/7f/7f2162adaab149adf830e5d0f58519ee
-    projectPath: Library/Artifacts/7f/7f2162adaab149adf830e5d0f58519ee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/7f/7fe9e6b3d49c90eac8328ed07279f858
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/7f/7fe9e6b3d49c90eac8328ed07279f858
-    projectPath: Library/Artifacts/7f/7fe9e6b3d49c90eac8328ed07279f858
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/7f/7ff9cc8b90b2eae36dcb41e6c18b9f9f
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/7f/7ff9cc8b90b2eae36dcb41e6c18b9f9f
-    projectPath: Library/Artifacts/7f/7ff9cc8b90b2eae36dcb41e6c18b9f9f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/80/80cb041278a255f700da2c5c250382d1
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/80/80cb041278a255f700da2c5c250382d1
-    projectPath: Library/Artifacts/80/80cb041278a255f700da2c5c250382d1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/82/829c4bedea2fdf7e99fc656073d5b2f5
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/82/829c4bedea2fdf7e99fc656073d5b2f5
-    projectPath: Library/Artifacts/82/829c4bedea2fdf7e99fc656073d5b2f5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/84/84cb30fdbd785263ee6d207e057e9f38
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/84/84cb30fdbd785263ee6d207e057e9f38
-    projectPath: Library/Artifacts/84/84cb30fdbd785263ee6d207e057e9f38
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/86/864323854e2bbbecffdc8e3b45e9e544
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/86/864323854e2bbbecffdc8e3b45e9e544
-    projectPath: Library/Artifacts/86/864323854e2bbbecffdc8e3b45e9e544
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/8c/8c9ac2ee20647d15d2a8b4f0d4a3db98
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/8c/8c9ac2ee20647d15d2a8b4f0d4a3db98
-    projectPath: Library/Artifacts/8c/8c9ac2ee20647d15d2a8b4f0d4a3db98
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/90/9012907fe9b639fab9a1b09ee1426a9f
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/90/9012907fe9b639fab9a1b09ee1426a9f
-    projectPath: Library/Artifacts/90/9012907fe9b639fab9a1b09ee1426a9f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/91/9193437fa84c5b54f062561da75f5497
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/91/9193437fa84c5b54f062561da75f5497
-    projectPath: Library/Artifacts/91/9193437fa84c5b54f062561da75f5497
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/93/934d9441ba44082757c654181ed6b71b
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/93/934d9441ba44082757c654181ed6b71b
-    projectPath: Library/Artifacts/93/934d9441ba44082757c654181ed6b71b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/93/937f7cf95a88e1e5a30e3d3d301839a7
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/93/937f7cf95a88e1e5a30e3d3d301839a7
-    projectPath: Library/Artifacts/93/937f7cf95a88e1e5a30e3d3d301839a7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/96/9685b628894d6b57699b3cd4833002b8
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/96/9685b628894d6b57699b3cd4833002b8
-    projectPath: Library/Artifacts/96/9685b628894d6b57699b3cd4833002b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/96/96ef6c1214e51a8a3496045db10e1090
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/96/96ef6c1214e51a8a3496045db10e1090
-    projectPath: Library/Artifacts/96/96ef6c1214e51a8a3496045db10e1090
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/98/985e476b79e2866e381728090ae9dcf5
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/98/985e476b79e2866e381728090ae9dcf5
-    projectPath: Library/Artifacts/98/985e476b79e2866e381728090ae9dcf5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/98/98a5a4c98704d26e1d44cf1769d22123
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/98/98a5a4c98704d26e1d44cf1769d22123
-    projectPath: Library/Artifacts/98/98a5a4c98704d26e1d44cf1769d22123
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/98/98b872ca6f9b8786c3609ac130a4652e
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/98/98b872ca6f9b8786c3609ac130a4652e
-    projectPath: Library/Artifacts/98/98b872ca6f9b8786c3609ac130a4652e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/99/990c7c787eaabae40ce7d07ffe9558d7
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/99/990c7c787eaabae40ce7d07ffe9558d7
-    projectPath: Library/Artifacts/99/990c7c787eaabae40ce7d07ffe9558d7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/a0/a02fd9e7ff9d4a49516a8755ba983f69
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/a0/a02fd9e7ff9d4a49516a8755ba983f69
-    projectPath: Library/Artifacts/a0/a02fd9e7ff9d4a49516a8755ba983f69
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/a1/a12ee7fe0eab2cb8b01e928d132f7ea2
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/a1/a12ee7fe0eab2cb8b01e928d132f7ea2
-    projectPath: Library/Artifacts/a1/a12ee7fe0eab2cb8b01e928d132f7ea2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/a1/a1bd3c692fbf44fe85174fa02513d0da
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/a1/a1bd3c692fbf44fe85174fa02513d0da
-    projectPath: Library/Artifacts/a1/a1bd3c692fbf44fe85174fa02513d0da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/a3/a314d80368eeff343135711f154938fb
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/a3/a314d80368eeff343135711f154938fb
-    projectPath: Library/Artifacts/a3/a314d80368eeff343135711f154938fb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/a5/a58a1275d684a6c75463c974c0c63e7c
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/a5/a58a1275d684a6c75463c974c0c63e7c
-    projectPath: Library/Artifacts/a5/a58a1275d684a6c75463c974c0c63e7c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/a8/a8413a764dc1b2e22f80ca18b95ecdab
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/a8/a8413a764dc1b2e22f80ca18b95ecdab
-    projectPath: Library/Artifacts/a8/a8413a764dc1b2e22f80ca18b95ecdab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/a9/a97b3517eb5507d48b10c01053216355
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/a9/a97b3517eb5507d48b10c01053216355
-    projectPath: Library/Artifacts/a9/a97b3517eb5507d48b10c01053216355
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/ac/ac2d8b4d3023a412797b76a79d5d0875
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/ac/ac2d8b4d3023a412797b76a79d5d0875
-    projectPath: Library/Artifacts/ac/ac2d8b4d3023a412797b76a79d5d0875
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/ac/acd90bc50c985ad96698583fd1e9a964
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/ac/acd90bc50c985ad96698583fd1e9a964
-    projectPath: Library/Artifacts/ac/acd90bc50c985ad96698583fd1e9a964
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/af/af111fe830af0c1652c0fbb830761aa2
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/af/af111fe830af0c1652c0fbb830761aa2
-    projectPath: Library/Artifacts/af/af111fe830af0c1652c0fbb830761aa2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/b5/b5aaa942e784faa65db20d69c047d4e0
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/b5/b5aaa942e784faa65db20d69c047d4e0
-    projectPath: Library/Artifacts/b5/b5aaa942e784faa65db20d69c047d4e0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/ba/bad3d00197f810c807c0e555de5966c5
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/ba/bad3d00197f810c807c0e555de5966c5
-    projectPath: Library/Artifacts/ba/bad3d00197f810c807c0e555de5966c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/bb/bb0801e3c9f060d5edb1c4256b5b9f79
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/bb/bb0801e3c9f060d5edb1c4256b5b9f79
-    projectPath: Library/Artifacts/bb/bb0801e3c9f060d5edb1c4256b5b9f79
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/bb/bbfdd85193a6888ba732f850f731886f
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/bb/bbfdd85193a6888ba732f850f731886f
-    projectPath: Library/Artifacts/bb/bbfdd85193a6888ba732f850f731886f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/bd/bd14dc0265bd671ed3aab710da81af81
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/bd/bd14dc0265bd671ed3aab710da81af81
-    projectPath: Library/Artifacts/bd/bd14dc0265bd671ed3aab710da81af81
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/bf/bff732c40d790b9df22919fcbf90b399
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/bf/bff732c40d790b9df22919fcbf90b399
-    projectPath: Library/Artifacts/bf/bff732c40d790b9df22919fcbf90b399
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/c0/c093b5cebd1f2c2d379680ceed89012b
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/c0/c093b5cebd1f2c2d379680ceed89012b
-    projectPath: Library/Artifacts/c0/c093b5cebd1f2c2d379680ceed89012b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/c2/c2567b759bdb2ce7f7438ff8c3948c7d
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/c2/c2567b759bdb2ce7f7438ff8c3948c7d
-    projectPath: Library/Artifacts/c2/c2567b759bdb2ce7f7438ff8c3948c7d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/c7/c71e2acd2fa057274018c71c43b8dc36
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/c7/c71e2acd2fa057274018c71c43b8dc36
-    projectPath: Library/Artifacts/c7/c71e2acd2fa057274018c71c43b8dc36
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/d4/d4c8cc6dc0c3c77ca45c915143396273
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/d4/d4c8cc6dc0c3c77ca45c915143396273
-    projectPath: Library/Artifacts/d4/d4c8cc6dc0c3c77ca45c915143396273
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Game_Design_Club/Library/Artifacts/da/dab63c45b73763a7a0d11315fddd8504
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/da/dab63c45b73763a7a0d11315fddd8504
-    projectPath: Library/Artifacts/da/dab63c45b73763a7a0d11315fddd8504
+  - path: Game_Design_Club/Library/Artifacts/8f/8f6a84c5655bd6b4e791d4f2da03a299
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/8f/8f6a84c5655bd6b4e791d4f2da03a299
+    projectPath: Library/Artifacts/8f/8f6a84c5655bd6b4e791d4f2da03a299
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/da/dafc2b4152b70852235664abc219135e
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/da/dafc2b4152b70852235664abc219135e
-    projectPath: Library/Artifacts/da/dafc2b4152b70852235664abc219135e
+  - path: Game_Design_Club/Library/Artifacts/8f/8ff69c8ad243a440284db5f42d46053e
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/8f/8ff69c8ad243a440284db5f42d46053e
+    projectPath: Library/Artifacts/8f/8ff69c8ad243a440284db5f42d46053e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/db/db0ef36aff6be67673ceb02066fc31f7
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/db/db0ef36aff6be67673ceb02066fc31f7
-    projectPath: Library/Artifacts/db/db0ef36aff6be67673ceb02066fc31f7
+  - path: Game_Design_Club/Library/Artifacts/a4/a42ed8fba2807e099f7e90e56671993b
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/a4/a42ed8fba2807e099f7e90e56671993b
+    projectPath: Library/Artifacts/a4/a42ed8fba2807e099f7e90e56671993b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/e3/e35e720a6710a50c90881f71dcdb785e
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/e3/e35e720a6710a50c90881f71dcdb785e
-    projectPath: Library/Artifacts/e3/e35e720a6710a50c90881f71dcdb785e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/e4/e46c21d099454112fa38971143a7df8b
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/e4/e46c21d099454112fa38971143a7df8b
-    projectPath: Library/Artifacts/e4/e46c21d099454112fa38971143a7df8b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/e5/e50102029a363c89ea99ced04373e0ad
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/e5/e50102029a363c89ea99ced04373e0ad
-    projectPath: Library/Artifacts/e5/e50102029a363c89ea99ced04373e0ad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/e8/e846dbdcfe574e9c9bcc20dc7f08b8be
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/e8/e846dbdcfe574e9c9bcc20dc7f08b8be
-    projectPath: Library/Artifacts/e8/e846dbdcfe574e9c9bcc20dc7f08b8be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/e9/e9372f420decd9f31b3c2c31c68ba9f3
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/e9/e9372f420decd9f31b3c2c31c68ba9f3
-    projectPath: Library/Artifacts/e9/e9372f420decd9f31b3c2c31c68ba9f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/e9/e94ae829ff939df2fe09bf6c0ab4b7f1
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/e9/e94ae829ff939df2fe09bf6c0ab4b7f1
-    projectPath: Library/Artifacts/e9/e94ae829ff939df2fe09bf6c0ab4b7f1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/ea/ea41b5f9c3dae50913be88b9661937fd
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/ea/ea41b5f9c3dae50913be88b9661937fd
-    projectPath: Library/Artifacts/ea/ea41b5f9c3dae50913be88b9661937fd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/ea/ea7b45885ab654a9a53459aa1f756c65
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/ea/ea7b45885ab654a9a53459aa1f756c65
-    projectPath: Library/Artifacts/ea/ea7b45885ab654a9a53459aa1f756c65
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/eb/ebef562cac823b1c71811ff39fdd6a8b
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/eb/ebef562cac823b1c71811ff39fdd6a8b
-    projectPath: Library/Artifacts/eb/ebef562cac823b1c71811ff39fdd6a8b
+  - path: Game_Design_Club/Library/Artifacts/d9/d9244a3de82b2897623f5a0ecc45c862
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/d9/d9244a3de82b2897623f5a0ecc45c862
+    projectPath: Library/Artifacts/d9/d9244a3de82b2897623f5a0ecc45c862
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2046,95 +152,17 @@ MonoBehaviour:
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/ee/eee0fc626c90c1bfeea10eb78a2bd4b2
     projectPath: Library/Artifacts/ee/eee0fc626c90c1bfeea10eb78a2bd4b2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/ef/efc3be958fda76ca744784a390d2a813
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/ef/efc3be958fda76ca744784a390d2a813
-    projectPath: Library/Artifacts/ef/efc3be958fda76ca744784a390d2a813
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game_Design_Club/Library/Artifacts/f7/f765450b365172de1cfb22168486d1c5
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f7/f765450b365172de1cfb22168486d1c5
+    projectPath: Library/Artifacts/f7/f765450b365172de1cfb22168486d1c5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f0/f00f28d5ed89220bfb12cd6ba457b017
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f0/f00f28d5ed89220bfb12cd6ba457b017
-    projectPath: Library/Artifacts/f0/f00f28d5ed89220bfb12cd6ba457b017
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f0/f0c9e914e0e61f1fdf38703912bbf9b9
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f0/f0c9e914e0e61f1fdf38703912bbf9b9
-    projectPath: Library/Artifacts/f0/f0c9e914e0e61f1fdf38703912bbf9b9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f3/f32c34215dff408b29b9d742422c3713
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f3/f32c34215dff408b29b9d742422c3713
-    projectPath: Library/Artifacts/f3/f32c34215dff408b29b9d742422c3713
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f3/f36af9d82b1500304e0b87a776f2235b
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f3/f36af9d82b1500304e0b87a776f2235b
-    projectPath: Library/Artifacts/f3/f36af9d82b1500304e0b87a776f2235b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f4/f4a1ed476c8f63754a603ea67e55dcbd
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f4/f4a1ed476c8f63754a603ea67e55dcbd
-    projectPath: Library/Artifacts/f4/f4a1ed476c8f63754a603ea67e55dcbd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f5/f5aa3bf5d899db0f65fbb62de9273f2d
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f5/f5aa3bf5d899db0f65fbb62de9273f2d
-    projectPath: Library/Artifacts/f5/f5aa3bf5d899db0f65fbb62de9273f2d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f6/f63c260008d1fffec5d3608694e8a973
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f6/f63c260008d1fffec5d3608694e8a973
-    projectPath: Library/Artifacts/f6/f63c260008d1fffec5d3608694e8a973
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f7/f730ebd433b0f5eba5ffdc50787db16a
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f7/f730ebd433b0f5eba5ffdc50787db16a
-    projectPath: Library/Artifacts/f7/f730ebd433b0f5eba5ffdc50787db16a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f7/f73b513b1468c0c30bb2ebf8133a96a2
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f7/f73b513b1468c0c30bb2ebf8133a96a2
-    projectPath: Library/Artifacts/f7/f73b513b1468c0c30bb2ebf8133a96a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f7/f77d8c82e413c83221d6c8f9e4518ec9
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f7/f77d8c82e413c83221d6c8f9e4518ec9
-    projectPath: Library/Artifacts/f7/f77d8c82e413c83221d6c8f9e4518ec9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/f8/f80af1af6cc4aadab2811ada797baf70
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/f8/f80af1af6cc4aadab2811ada797baf70
-    projectPath: Library/Artifacts/f8/f80af1af6cc4aadab2811ada797baf70
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/fe/fe50d6ec503aa3caafd87b21fb9d8678
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/fe/fe50d6ec503aa3caafd87b21fb9d8678
-    projectPath: Library/Artifacts/fe/fe50d6ec503aa3caafd87b21fb9d8678
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/fe/fee585dddf71cc3d936fceeafa226ff4
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/fe/fee585dddf71cc3d936fceeafa226ff4
-    projectPath: Library/Artifacts/fe/fee585dddf71cc3d936fceeafa226ff4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/Artifacts/ff/ffd7b3bcb8293790717d089e99a705bf
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/ff/ffd7b3bcb8293790717d089e99a705bf
-    projectPath: Library/Artifacts/ff/ffd7b3bcb8293790717d089e99a705bf
+  - path: Game_Design_Club/Library/Artifacts/fe/fe3a4dab4908e7853498ade2a91a67da
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/Artifacts/fe/fe3a4dab4908e7853498ade2a91a67da
+    projectPath: Library/Artifacts/fe/fe3a4dab4908e7853498ade2a91a67da
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2180,213 +208,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Game_Design_Club/Library/gfu/cache/gituser.yaml
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Game_Design_Club/Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game_Design_Club/Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
-    projectPath: Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
+  - path: Game_Design_Club/Library/InspectorExpandedItems.asset
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Game_Design_Club/Library/SceneVisibilityState.asset
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game_Design_Club/Library/ScriptAssemblies/Assembly-CSharp.dll
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ScriptAssemblies/Assembly-CSharp.dll
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/Library/ScriptAssemblies/Assembly-CSharp.pdb
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ScriptAssemblies/Assembly-CSharp.pdb
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+  - path: Game_Design_Club/Library/ShaderCache/4/44ddd06a6bcac09ea1a01e2e3efbfe20.bin
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/4/44ddd06a6bcac09ea1a01e2e3efbfe20.bin
+    projectPath: Library/ShaderCache/4/44ddd06a6bcac09ea1a01e2e3efbfe20.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/0/0d6c229079de755463786a1ec1f96ca0.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/0/0d6c229079de755463786a1ec1f96ca0.bin
-    projectPath: Library/ShaderCache/0/0d6c229079de755463786a1ec1f96ca0.bin
+  - path: Game_Design_Club/Library/ShaderCache/a/a7aa0367f9e33ed059bc093c0d1fc7a8.bin
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/a/a7aa0367f9e33ed059bc093c0d1fc7a8.bin
+    projectPath: Library/ShaderCache/a/a7aa0367f9e33ed059bc093c0d1fc7a8.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/1/1151a562a3dfde80a06b8420c9b33501.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/1/1151a562a3dfde80a06b8420c9b33501.bin
-    projectPath: Library/ShaderCache/1/1151a562a3dfde80a06b8420c9b33501.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/2/210986c8d73635e974ace50d331f0e5e.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/2/210986c8d73635e974ace50d331f0e5e.bin
-    projectPath: Library/ShaderCache/2/210986c8d73635e974ace50d331f0e5e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/2/2908ae912ed3dc6f58e58a5d254eda51.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/2/2908ae912ed3dc6f58e58a5d254eda51.bin
-    projectPath: Library/ShaderCache/2/2908ae912ed3dc6f58e58a5d254eda51.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/3/3b17fb316d7e2e062a56829e63757e73.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/3/3b17fb316d7e2e062a56829e63757e73.bin
-    projectPath: Library/ShaderCache/3/3b17fb316d7e2e062a56829e63757e73.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/4/41ec245b897696fcefe4d68d251ffa96.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/4/41ec245b897696fcefe4d68d251ffa96.bin
-    projectPath: Library/ShaderCache/4/41ec245b897696fcefe4d68d251ffa96.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/4/45f27c82a168bbec3a8ed7bcdb289d89.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/4/45f27c82a168bbec3a8ed7bcdb289d89.bin
-    projectPath: Library/ShaderCache/4/45f27c82a168bbec3a8ed7bcdb289d89.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/4/4f6ee9b7fc5b04c12b20f5c7b7b590cd.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/4/4f6ee9b7fc5b04c12b20f5c7b7b590cd.bin
-    projectPath: Library/ShaderCache/4/4f6ee9b7fc5b04c12b20f5c7b7b590cd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/5/5e4eddbcfd5e932c014bbcc702b1851b.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/5/5e4eddbcfd5e932c014bbcc702b1851b.bin
-    projectPath: Library/ShaderCache/5/5e4eddbcfd5e932c014bbcc702b1851b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/5/5ecf1409c6907c257a283b955ec869eb.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/5/5ecf1409c6907c257a283b955ec869eb.bin
-    projectPath: Library/ShaderCache/5/5ecf1409c6907c257a283b955ec869eb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/7/7119158f0e9b7117fe11dc77283c9cc2.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/7/7119158f0e9b7117fe11dc77283c9cc2.bin
-    projectPath: Library/ShaderCache/7/7119158f0e9b7117fe11dc77283c9cc2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/7/757081e4d795c717c3078d6ada3a7933.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/7/757081e4d795c717c3078d6ada3a7933.bin
-    projectPath: Library/ShaderCache/7/757081e4d795c717c3078d6ada3a7933.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/7/7597d1b3685597446c170ce2d8c05a9d.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/7/7597d1b3685597446c170ce2d8c05a9d.bin
-    projectPath: Library/ShaderCache/7/7597d1b3685597446c170ce2d8c05a9d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/7/7e5812902de638f4d483de57e72828d7.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/7/7e5812902de638f4d483de57e72828d7.bin
-    projectPath: Library/ShaderCache/7/7e5812902de638f4d483de57e72828d7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/8/83861c5bbc1358d0c713d7d389eb2e33.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/8/83861c5bbc1358d0c713d7d389eb2e33.bin
-    projectPath: Library/ShaderCache/8/83861c5bbc1358d0c713d7d389eb2e33.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/8/8e7aba2f093260518c61d64a8e6adee3.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/8/8e7aba2f093260518c61d64a8e6adee3.bin
-    projectPath: Library/ShaderCache/8/8e7aba2f093260518c61d64a8e6adee3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/a/aa732310b0fa100f3a46e567f29bfbc9.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/a/aa732310b0fa100f3a46e567f29bfbc9.bin
-    projectPath: Library/ShaderCache/a/aa732310b0fa100f3a46e567f29bfbc9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/b/b55027182fab294e52eb95b46e71fb87.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/b/b55027182fab294e52eb95b46e71fb87.bin
-    projectPath: Library/ShaderCache/b/b55027182fab294e52eb95b46e71fb87.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/b/b8df885d6a8f15d8c52465e65e373be4.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/b/b8df885d6a8f15d8c52465e65e373be4.bin
-    projectPath: Library/ShaderCache/b/b8df885d6a8f15d8c52465e65e373be4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/b/b99a72e243bb5997fc51cfad84624d78.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/b/b99a72e243bb5997fc51cfad84624d78.bin
-    projectPath: Library/ShaderCache/b/b99a72e243bb5997fc51cfad84624d78.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/c/c42c278df1c6ac4fd95f43cbcb0226fd.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/c/c42c278df1c6ac4fd95f43cbcb0226fd.bin
-    projectPath: Library/ShaderCache/c/c42c278df1c6ac4fd95f43cbcb0226fd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/c/c650d48e3e143b535e6c82273d968ced.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/c/c650d48e3e143b535e6c82273d968ced.bin
-    projectPath: Library/ShaderCache/c/c650d48e3e143b535e6c82273d968ced.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/c/c8e0a3eb89dd176c9c1133f19c5e46ad.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/c/c8e0a3eb89dd176c9c1133f19c5e46ad.bin
-    projectPath: Library/ShaderCache/c/c8e0a3eb89dd176c9c1133f19c5e46ad.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/d/d9af94e54f807452c1ebe698cc859896.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/d/d9af94e54f807452c1ebe698cc859896.bin
-    projectPath: Library/ShaderCache/d/d9af94e54f807452c1ebe698cc859896.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/d/dbab4576ae07240ae42f491da66e4fa0.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/d/dbab4576ae07240ae42f491da66e4fa0.bin
-    projectPath: Library/ShaderCache/d/dbab4576ae07240ae42f491da66e4fa0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/e/e41f8089f8ff72d457a2a946116d7561.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/e/e41f8089f8ff72d457a2a946116d7561.bin
-    projectPath: Library/ShaderCache/e/e41f8089f8ff72d457a2a946116d7561.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/e/e759eaff9c09c32a65f7b7f9bd8ef98c.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/e/e759eaff9c09c32a65f7b7f9bd8ef98c.bin
-    projectPath: Library/ShaderCache/e/e759eaff9c09c32a65f7b7f9bd8ef98c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/e/eb47d477bb6affe2bede3b8b9f2531c2.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/e/eb47d477bb6affe2bede3b8b9f2531c2.bin
-    projectPath: Library/ShaderCache/e/eb47d477bb6affe2bede3b8b9f2531c2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/Library/ShaderCache/e/ebb797b03ae362b767f7989c8e0a85bc.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/e/ebb797b03ae362b767f7989c8e0a85bc.bin
-    projectPath: Library/ShaderCache/e/ebb797b03ae362b767f7989c8e0a85bc.bin
+  - path: Game_Design_Club/Library/ShaderCache/c/cc2b7ce728263f8b1afb8d0e61f75d24.bin
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/c/cc2b7ce728263f8b1afb8d0e61f75d24.bin
+    projectPath: Library/ShaderCache/c/cc2b7ce728263f8b1afb8d0e61f75d24.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2396,9 +256,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game_Design_Club/Library/ShaderCache/f/f54aa355d629a313ae45edc572c21349.bin
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/f/f54aa355d629a313ae45edc572c21349.bin
-    projectPath: Library/ShaderCache/f/f54aa355d629a313ae45edc572c21349.bin
+  - path: Game_Design_Club/Library/ShaderCache/f/f982fa962d35bfa3cae5ad49ff96fa37.bin
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/ShaderCache/f/f982fa962d35bfa3cae5ad49ff96fa37.bin
+    projectPath: Library/ShaderCache/f/f982fa962d35bfa3cae5ad49ff96fa37.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2408,6 +268,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Game_Design_Club/Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club/Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game_Design_Club/Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Game_Design_Club/Library/SourceAssetDB
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
@@ -2420,135 +298,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Game_Design_Club/Library/StateCache/SceneView/b6/b6ad09fc721964690b158d664c514c61.json
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Library/StateCache/SceneView/b6/b6ad09fc721964690b158d664c514c61.json
+    projectPath: Library/StateCache/SceneView/b6/b6ad09fc721964690b158d664c514c61.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Game_Design_Club/Logs/AssetImportWorker0.log
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Logs/AssetImportWorker0.log
     projectPath: Logs/AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/AudioManager.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/AudioManager.asset
-    projectPath: ProjectSettings/AudioManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/ClusterInputManager.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/ClusterInputManager.asset
-    projectPath: ProjectSettings/ClusterInputManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/DynamicsManager.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/DynamicsManager.asset
-    projectPath: ProjectSettings/DynamicsManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/EditorBuildSettings.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/EditorBuildSettings.asset
-    projectPath: ProjectSettings/EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/EditorSettings.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/EditorSettings.asset
-    projectPath: ProjectSettings/EditorSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/GraphicsSettings.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/GraphicsSettings.asset
-    projectPath: ProjectSettings/GraphicsSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/InputManager.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/InputManager.asset
-    projectPath: ProjectSettings/InputManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/NavMeshAreas.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/NavMeshAreas.asset
-    projectPath: ProjectSettings/NavMeshAreas.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/Physics2DSettings.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/Physics2DSettings.asset
-    projectPath: ProjectSettings/Physics2DSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/PresetManager.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/PresetManager.asset
-    projectPath: ProjectSettings/PresetManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/ProjectSettings.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/ProjectSettings.asset
-    projectPath: ProjectSettings/ProjectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/QualitySettings.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/QualitySettings.asset
-    projectPath: ProjectSettings/QualitySettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/SceneTemplateSettings.json
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/SceneTemplateSettings.json
-    projectPath: ProjectSettings/SceneTemplateSettings.json
+    workTreeStatus: 5
+  - path: Game_Design_Club/Logs/AssetImportWorker0-prev.log
+    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Logs/AssetImportWorker0-prev.log
+    projectPath: Logs/AssetImportWorker0-prev.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game_Design_Club/ProjectSettings/TagManager.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/TagManager.asset
-    projectPath: ProjectSettings/TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/TimeManager.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/TimeManager.asset
-    projectPath: ProjectSettings/TimeManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/ProjectSettings/VFXManager.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/ProjectSettings/VFXManager.asset
-    projectPath: ProjectSettings/VFXManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Game_Design_Club/Temp/__Backupscenes/0.backup
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Game_Design_Club/Temp/Assembly-CSharp.dll.hash
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Assembly-CSharp.dll.hash
     projectPath: Temp/Assembly-CSharp.dll.hash
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Game_Design_Club/Temp/Assembly-CSharp-Editor.dll.hash
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/Assembly-CSharp-Editor.dll.hash
     projectPath: Temp/Assembly-CSharp-Editor.dll.hash
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Game_Design_Club/Temp/CompilationLog.txt
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/CompilationLog.txt
     projectPath: Temp/CompilationLog.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game_Design_Club/Temp/UnityTempFile-0507cde253f90407b9f1bdb10daaa2ce
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-0507cde253f90407b9f1bdb10daaa2ce
-    projectPath: Temp/UnityTempFile-0507cde253f90407b9f1bdb10daaa2ce
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -2556,38 +344,32 @@ MonoBehaviour:
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-166f737a803d243cd81be38bb2b67c43
     projectPath: Temp/UnityTempFile-166f737a803d243cd81be38bb2b67c43
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Game_Design_Club/Temp/UnityTempFile-5d61627c88b1a491795cb593d0c0f05b
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-5d61627c88b1a491795cb593d0c0f05b
     projectPath: Temp/UnityTempFile-5d61627c88b1a491795cb593d0c0f05b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Game_Design_Club/Temp/UnityTempFile-7d30281c1a5e6470a9386ccb2a903d8d
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-7d30281c1a5e6470a9386ccb2a903d8d
     projectPath: Temp/UnityTempFile-7d30281c1a5e6470a9386ccb2a903d8d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Game_Design_Club/Temp/UnityTempFile-d29f27a87851e43e083415471d6192c1
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-d29f27a87851e43e083415471d6192c1
     projectPath: Temp/UnityTempFile-d29f27a87851e43e083415471d6192c1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Game_Design_Club/Temp/UnityTempFile-e781eb0f33f494c2491a4c1c1287fe18
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/Temp/UnityTempFile-e781eb0f33f494c2491a4c1c1287fe18
     projectPath: Temp/UnityTempFile-e781eb0f33f494c2491a4c1c1287fe18
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game_Design_Club/UserSettings/EditorUserSettings.asset
-    fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Game_Design_Club/UserSettings/EditorUserSettings.asset
-    projectPath: UserSettings/EditorUserSettings.asset
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Test project/.vsconfig
     fullPath: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Test project/.vsconfig
     projectPath: ../Test project/.vsconfig
