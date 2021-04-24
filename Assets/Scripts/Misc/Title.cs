@@ -5,14 +5,18 @@ using UnityEngine.UI;
 
 public class Title : MonoBehaviour
 {
-    public string level;
-    public string story;
+    public string level1;
+    public string level2;
+    public string level3;
+    public string story1;
+    public string story2;
+    public string story3;
     public Text msg;
+    string story;
     // Start is called before the first frame update
     void Start()
     {
-        msg.text = level;
-        StartCoroutine(Delay());
+        StartRoom1();
     }
 
     // Update is called once per frame
@@ -26,6 +30,27 @@ public class Title : MonoBehaviour
         yield return new WaitForSeconds(2);
         msg.text = story;
         yield return new WaitForSeconds(8);
-        this.gameObject.SetActive(false);
+        msg.text = " ";
+    }
+
+    public void StartRoom1()
+    {
+        story = story1;
+        msg.text = level1;
+        StartCoroutine(Delay());
+    }
+
+    public void StartRoom2()
+    {
+        story = story2;
+        msg.text = level2;
+        StartCoroutine(Delay());
+    }
+
+    public void StartRoom3()
+    {
+        story = story3;
+        msg.text = level3;
+        StartCoroutine(Delay());
     }
 }
