@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Projectile : MonoBehaviour
+public class Projectile : MonoBehaviour // this is just a test projectile class that i used for ranged enemies but we're not using it anymore so - charles
 {
 
     public float speed;

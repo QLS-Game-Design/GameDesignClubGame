@@ -62,13 +62,14 @@
     <Compile Include="Assets\Unused\_Complete-Game\Scripts\Player.cs" />
     <Compile Include="Assets\Unused\_Complete-Game\Scripts\GameManager.cs" />
     <Compile Include="Assets\Unused\_Complete-Game\Scripts\Wall.cs" />
+    <Compile Include="Assets\Scripts\Enemy\Projectile.cs" />
     <Compile Include="Assets\Unused\TutorialInfo\Scripts\TutorialInfo.cs" />
+    <Compile Include="Assets\Scripts\Enemy\TestPlayer.cs" />
     <Compile Include="Assets\Unused\_Complete-Game\Scripts\MovingObject.cs" />
     <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
     <Compile Include="Assets\Unused\_Complete-Game\Scripts\BoardManager.cs" />
     <Compile Include="Assets\Unused\_Complete-Game\Scripts\Loader.cs" />
-    <Compile Include="Assets\Scripts\Enemy\TestPlayer.cs" />
-    <Compile Include="Assets\Scripts\Enemy\Projectile.cs" />
+    <Compile Include="Assets\Scripts\Enemy\Spawner.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Fonts\OFL.txt" />
