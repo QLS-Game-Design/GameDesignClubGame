@@ -1,0 +1,125 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/wesleyvong/Documents/Unity/GameDesignClubGame/Test project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50161
+Successfully changed project path to: /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Test project
+/Users/wesleyvong/Documents/Unity/GameDesignClubGame/Test project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/wesleyvong/Documents/Unity/GameDesignClubGame/Test project/Assets
+GfxDevice: creating device client; threaded=0
+2021-03-08 08:46:24.017 Unity[13259:1100422] LG ULTRAWIDE preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-03-08 08:46:24.017 Unity[13259:1100422] Metal devices available: 1
+2021-03-08 08:46:24.017 Unity[13259:1100422] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-03-08 08:46:24.018 Unity[13259:1100422] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56259
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.3f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.3f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000900 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 36.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.178 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000674 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 37.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.087 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.3f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.8 MB.
+System memory in use after: 145.7 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2245.
+Total: 2.919945 ms (FindLiveObjects: 0.469362 ms CreateObjectMapping: 0.106774 ms MarkObjects: 2.206070 ms  DeleteObjects: 0.136312 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7332a5565f412a52e23af6f627516c99') in 0.924131 seconds
+  Import took 0.927892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.053374 seconds.
+  path: Assets/2D Roguelike Upgrade Guide.pdf
+  artifactKey: Guid(b51259f0e9210b443918e15bf42bc64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Roguelike Upgrade Guide.pdf using Guid(b51259f0e9210b443918e15bf42bc64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48ea8f3ed85e777b21a055e637119d0') in 1.055552 seconds
+  Import took 1.059861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.669333 seconds.
+  path: Assets/_Complete-Game
+  artifactKey: Guid(780f6c626c5dd614f9b69337f686e5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Complete-Game using Guid(780f6c626c5dd614f9b69337f686e5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082d01829445b531973abf50abc78fd4') in 0.002216 seconds
+  Import took 0.007428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.206891 seconds.
+  path: Assets/_Complete-Game/Scenes
+  artifactKey: Guid(18997434e70246c4dbf989a2c32d3d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Complete-Game/Scenes using Guid(18997434e70246c4dbf989a2c32d3d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ad4e8fedd30f0f2df2de3831b6229d') in 0.001931 seconds
+  Import took 0.008519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.170157 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(43253f702375d1e4795dfe82af7b2d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(43253f702375d1e4795dfe82af7b2d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2915836b61e2a278fcf59672d1a815') in 0.001968 seconds
+  Import took 0.007518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065231 seconds.
+  path: Assets/Sprites/Scavengers_SpriteSheet.png
+  artifactKey: Guid(fbe1e7b94bb1a4a099d5bcb15a00141c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Scavengers_SpriteSheet.png using Guid(fbe1e7b94bb1a4a099d5bcb15a00141c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d89883d54cad2f6ba8d2a040c80bbb') in 1.389437 seconds
+  Import took 1.395228 seconds .
+
