@@ -16,7 +16,7 @@ public class Player:MonoBehaviour
     public float MaxDamage;
     public float Damage;
     public float theta;
-    Vector2 mousePos;
+    // Vector2 mousePos;
     // public RigidBody2D rb;
     // public Keycode W;
     // public Keycode A;
@@ -49,7 +49,7 @@ public class Player:MonoBehaviour
             transform.Translate(new Vector2(0.1f*Speed,0));
             GetComponent<SpriteRenderer>().flipX = false;
         }
-        mousePos = Input.mousePosition;
+        
         
     }
     
