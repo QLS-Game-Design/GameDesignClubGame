@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public int startingHealth;
-    public int damage;
-    private int health;
+    public float startingHealth;
+    public float damage;
+    private float health;
     public float speed;
 
     public Transform player;
@@ -17,6 +17,7 @@ public class Enemy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        rb = GetComponent<Rigidbody2D>();
         player = GameObject.FindGameObjectWithTag("Player").transform;
         health = startingHealth;
     }
@@ -27,7 +28,7 @@ public class Enemy : MonoBehaviour
         {
             Vector3 dir = collision.contacts[0].point - transform.position;
             dir = -dir.normalized;
-            GetComponent<Rigidbody2D>().AddForce(dir * 5); // how much the enemy gets knocked back
+            rb.AddForce(dir * 5); // how much the enemy gets knocked back
         } 
         else if (collision.gameObject.tag == "projectile")
         {
@@ -58,5 +59,7 @@ public class Enemy : MonoBehaviour
     void Update()
     {
         transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
+        //rb.MovePosition(transform.position + (player.position-transform.position).normalized * speed * Time.deltaTime);
+
     }
 }

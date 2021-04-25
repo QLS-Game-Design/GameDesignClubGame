@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
@@ -6,10 +8,16 @@ public class Spawner : MonoBehaviour
 {
 
     public Wave[] waves;
-    public Enemy enemy;
+    public Enemy enemy1;
+    public Enemy enemy2;
+    public Enemy enemy3;
+
+    public int bar1; // split 100% to three parts each representing the likelihood of each type of enemy spawning
+    public int bar2;
 
     Wave currentWave;
     int currentWaveNumber;
+    public bool finished;
 
     int enemiesRemaining;
     int enemiesRemainingAlive;
@@ -17,7 +25,7 @@ public class Spawner : MonoBehaviour
 
     void Start()
     {
-
+        finished = false;
         NextWave();
     }
 
@@ -29,7 +37,20 @@ public class Spawner : MonoBehaviour
             nextSpawnTime = Time.time + currentWave.timeBetweenSpawns;
 
             Vector3 Pos = new Vector3(transform.position.x, transform.position.y, 0);
-            Enemy spawnedEnemy = Instantiate(enemy, Pos, Quaternion.identity) as Enemy;
+            int enemyType = Random.Range(1, 100);
+            Enemy spawnedEnemy;
+            if (enemyType <= bar1)
+            {
+                spawnedEnemy = Instantiate(enemy1, Pos, Quaternion.identity) as Enemy;
+            }
+            else if (enemyType > bar1 && enemyType <= bar2)
+            {
+                spawnedEnemy = Instantiate(enemy2, Pos, Quaternion.identity) as Enemy;
+            }
+            else
+            {
+                spawnedEnemy = Instantiate(enemy3, Pos, Quaternion.identity) as Enemy;
+            }
 
             spawnedEnemy.OnDeath += OnEnemyDeath;
         }
@@ -57,7 +78,7 @@ public class Spawner : MonoBehaviour
         }
         else
         {
-            // SceneManager.LoadScene(); // load next level here
+            finished = true;
         }
     }
 
