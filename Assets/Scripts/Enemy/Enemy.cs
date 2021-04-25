@@ -4,32 +4,43 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public int startingHealth;
-    private int health;
-    protected bool dead;
-
-    public GameObject projectile;
-    public Transform player;
-
+    public float startingHealth;
+    private float health;
+    public float damage;
     public float speed;
-    public float stoppingDistance;
-    public float retreatingDistance;
 
-    private float timeBtwShots;
-    public float startTimeBtwShots;
+    public Transform player;
+    
+    public event System.Action OnDeath;
 
     // Start is called before the first frame update
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
         health = startingHealth;
-        timeBtwShots = startTimeBtwShots;
+    }
+
+    void OnCollisionEnter(Collision c)
+    {
+        // force is how forcefully we will push the player away from the enemy.
+        float force = 3;
+
+        // If the object we hit is the enemy
+        if (c.gameObject.tag == "Player")
+        {
+            Vector3 dir = c.contacts[0].point - transform.position;
+            dir = -dir.normalized;
+            GetComponent<Rigidbody>().AddForce(dir * force);
+        } else if (c.gameObject.tag == "Bullet")
+        {
+            TakeDamage(1);
+        }
     }
 
     public void TakeDamage(int damage)
     {
         health -= damage;
-        if (health <= 0 && !dead)
+        if (health <= 0)
         {
             Die();
         }
@@ -37,31 +48,18 @@ public class Enemy : MonoBehaviour
 
     protected void Die()
     {
-        dead = true;
         // we can add more death effects here
+        if (OnDeath != null)
+        {
+            OnDeath();
+        }
+        GameObject.Destroy(gameObject);
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Vector2.Distance(transform.position, player.position) > stoppingDistance)
-        {
-            transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
-        } else if (Vector2.Distance(transform.position, player.position) < stoppingDistance && Vector2.Distance(transform.position, player.position) > retreatingDistance)
-        {
-            transform.position = this.transform.position;
-        } else if (Vector2.Distance(transform.position, player.position) < retreatingDistance)
-        {
-            transform.position = Vector2.MoveTowards(transform.position, player.position, -speed * Time.deltaTime);
-        }
-
-        if (timeBtwShots <= 0)
-        {
-            Instantiate(projectile, transform.position, Quaternion.identity);
-            timeBtwShots = startTimeBtwShots; 
-        } else
-        {
-            timeBtwShots -= Time.deltaTime;
-        }
+        transform.position = Vector2.MoveTowards(transform.position, player.position, -speed * Time.deltaTime);
     }
 }
