@@ -10,6 +10,7 @@ TagManager:
   - Soda
   - Terrain
   - Weapon
+  - Bullet
   layers:
   - Default
   - TransparentFX
