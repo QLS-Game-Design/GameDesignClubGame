@@ -663,6 +663,10 @@ MonoBehaviour:
   audioSource: {fileID: 484953928}
   level: 1
   mc: {fileID: 99917894}
+  player: {fileID: 0}
+  loc1: {x: 0, y: 0}
+  loc2: {x: 0, y: -10}
+  loc3: {x: 0, y: -22}
 --- !u!4 &484953927
 Transform:
   m_ObjectHideFlags: 0
@@ -7216,8 +7220,8 @@ Tilemap:
   - first: {x: 6, y: -1, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 5
-      m_TileSpriteIndex: 6
+      m_TileIndex: 8
+      m_TileSpriteIndex: 4
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -8045,13 +8049,13 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 09ea129f54cda4307949c95a5b6d041f, type: 2}
   - m_RefCount: 6
     m_Data: {fileID: 11400000, guid: 56847ad66edd641219b53d9e71aa6ca4, type: 2}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: 438d820c87757437fa3abd7d3748a6c6, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 36
     m_Data: {fileID: 11400000, guid: 25ebf690a559f4a2f9e5ada40caeed0b, type: 2}
   - m_RefCount: 24
     m_Data: {fileID: 11400000, guid: b5a49c76a5ee14d7a8db4bfa74de0758, type: 2}
-  - m_RefCount: 15
+  - m_RefCount: 16
     m_Data: {fileID: 11400000, guid: 46f1e8005ad3e45159c36db348388518, type: 2}
   - m_RefCount: 27
     m_Data: {fileID: 11400000, guid: 28bb0cef0bbe7449997701eb6be0649d, type: 2}
@@ -8093,15 +8097,14 @@ Tilemap:
   - m_RefCount: 24
     m_Data: {fileID: -1440775858218296271, guid: 269162c7d24a7422dae931acf69f11f5,
       type: 3}
-  - m_RefCount: 15
+  - m_RefCount: 16
     m_Data: {fileID: -4824133335132760534, guid: 269162c7d24a7422dae931acf69f11f5,
       type: 3}
   - m_RefCount: 36
     m_Data: {fileID: 4298433252127632207, guid: 269162c7d24a7422dae931acf69f11f5,
       type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 6094753451310603303, guid: 269162c7d24a7422dae931acf69f11f5,
-      type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 6
     m_Data: {fileID: -2340825653783119053, guid: de762efa841c84b5f980e58531d98e98,
       type: 3}
