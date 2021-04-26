@@ -20,17 +20,21 @@ public class Enemy : MonoBehaviour
         health = startingHealth;
     }
 
-    void OnCollisionEnter(Collision c)
+    void OnCollisionEnter2D(Collision2D c)
     {
-        // force is how forcefully we will push the player away from the enemy.
-        float force = 3;
 
         // If the object we hit is the enemy
+        if (c.gameObject.tag != "Enemy")
+        {
+            Debug.Log(c.gameObject.tag);
+        }
         if (c.gameObject.tag == "Player")
         {
-            Vector3 dir = c.contacts[0].point - transform.position;
-            dir = -dir.normalized;
-            GetComponent<Rigidbody>().AddForce(dir * force);
+            // we can add bounce back later
+            //Debug.Log("collided with player");
+            //Vector2 dir = c.contacts[0].point - new Vector2(transform.position.x, transform.position.y);
+            //dir = -dir.normalized;
+            //transform.Translate(dir);
         } else if (c.gameObject.tag == "Bullet")
         {
             TakeDamage(1);
