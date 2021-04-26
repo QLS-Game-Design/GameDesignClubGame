@@ -60,6 +60,6 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = Vector2.MoveTowards(transform.position, player.position, -speed * Time.deltaTime);
+        transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
     }
 }

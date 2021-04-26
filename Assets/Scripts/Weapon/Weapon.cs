@@ -18,8 +18,9 @@ public class Weapon : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Shoot(){
-        Instantiate(bulletPrefab,transform.position,transform.rotation);
+    void Shoot(int k){
+        GameObject clone = Instantiate(bulletPrefab,transform.position,transform.rotation);
+        clone.GetComponent<Bullet>().speed *= k;
     }
     void Update()
     {
@@ -40,7 +41,10 @@ public class Weapon : MonoBehaviour
             GameObject.FindGameObjectWithTag("Player").GetComponent<SpriteRenderer>().flipX = false;
         }
         if (Input.GetButtonDown("Fire1")){
-            Shoot();
+            if (mx < 0)
+                Shoot(-1);
+            else
+                Shoot(1);
         }
         float theta = Mathf.Atan(my/mx)*(180/Mathf.PI);
         this.transform.eulerAngles = new Vector3(
