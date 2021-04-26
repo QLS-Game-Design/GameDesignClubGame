@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - Soda
   - Terrain
+  - Weapon
   layers:
   - Default
   - TransparentFX
