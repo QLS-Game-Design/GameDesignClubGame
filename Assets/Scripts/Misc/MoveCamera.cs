@@ -4,29 +4,37 @@ using UnityEngine;
 
 public class MoveCamera : MonoBehaviour
 {
-    float startTime;
-    float elapsed = 0;
-    float travelTime = 0;
-    Vector2 initPos;
-    Vector2 destPos;
+    float destPos;
+    public Vector3 cam1;
+    public Vector3 cam2;
+    public Vector3 cam3;
+    public float speed;
+    int step = 1;
 
     // Start is called before the first frame update
     void Start()
     {
-        MoveToPos(new Vector3(0, -10, -10), 5);
     }
 
     // Update is called once per frame
     void Update()
     {
-        elapsed = Time.time - startTime;
+        if (transform.position.y > destPos)
+        {
+            transform.Translate(new Vector3(0, -1 * speed, 0));
+        }
 
     }
 
-    public void MoveToPos(Vector3 pos, float time)
+    public void NextPos()
     {
-        initPos = transform.position;
-        startTime = Time.time;
-        travelTime = time;
+        step++;
+        if (step == 2)
+        {
+            destPos = cam2.y;
+        } else if (step == 3)
+        {
+            destPos = cam3.y;
+        }
     }
 }

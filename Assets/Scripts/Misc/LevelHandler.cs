@@ -10,9 +10,11 @@ public class LevelHandler : MonoBehaviour
     public Title title;
     public AudioSource audioSource;
     public int level = 1;
+    public MoveCamera mc;
     // Start is called before the first frame update
     void Start()
     {
+        Application.targetFrameRate = 60;
         title.StartRoom1();
         audioSource.clip = level1audio;
     }
@@ -30,10 +32,12 @@ public class LevelHandler : MonoBehaviour
         {
             title.StartRoom2();
             audioSource.clip = level2audio;
+            mc.NextPos();
         } else if (level == 3)
         {
             title.StartRoom3();
             audioSource.clip = level3audio;
+            mc.NextPos();
         }
     }
 }
