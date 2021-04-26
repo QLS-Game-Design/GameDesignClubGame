@@ -10,12 +10,17 @@ public class Weapon : MonoBehaviour
     Vector2 mousePos;
     public Camera mainCam;
     public Vector2 camera;
+    // public Transform firePoint = this;
+    public GameObject bulletPrefab;
     void Start()
     {
         
     }
 
     // Update is called once per frame
+    void Shoot(){
+        Instantiate(bulletPrefab,transform.position,transform.rotation);
+    }
     void Update()
     {
         mousePos = Input.mousePosition;
@@ -27,11 +32,21 @@ public class Weapon : MonoBehaviour
         float my = camera.y-py;
         // Debug.Log("x:"+mx);
         // Debug.Log("y:"+my);
+        if (mx < 0){
+            GetComponent<SpriteRenderer>().flipX = true;
+            GameObject.FindGameObjectWithTag("Player").GetComponent<SpriteRenderer>().flipX = true;
+        } else {
+            GetComponent<SpriteRenderer>().flipX = false;
+            GameObject.FindGameObjectWithTag("Player").GetComponent<SpriteRenderer>().flipX = false;
+        }
+        if (Input.GetButtonDown("Fire1")){
+            Shoot();
+        }
         float theta = Mathf.Atan(my/mx)*(180/Mathf.PI);
         this.transform.eulerAngles = new Vector3(
             this.transform.eulerAngles.x,
             this.transform.eulerAngles.y,
-            theta+90
+            theta
         );
     }
 }

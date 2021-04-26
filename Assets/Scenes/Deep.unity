@@ -231,8 +231,8 @@ GameObject:
   - component: {fileID: 200129967}
   - component: {fileID: 200129968}
   m_Layer: 0
-  m_Name: Capsule
-  m_TagString: Untagged
+  m_Name: Weapon
+  m_TagString: Weapon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -244,13 +244,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 200129965}
-  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.51, y: -0.059999995, z: 0}
-  m_LocalScale: {x: 0.14750001, y: 0.505, z: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.12, y: -0.07, z: 0}
+  m_LocalScale: {x: 0.28267702, y: 0.3147245, z: 1}
   m_Children: []
   m_Father: {fileID: 913217654}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &200129967
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -291,8 +291,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: -9095717837082945937, guid: 34587324d412940a79d530020c957dc0,
-    type: 3}
+  m_Sprite: {fileID: 21300000, guid: 92e7750b1bbf2f141ae8a51b04d99a5a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -319,6 +318,8 @@ MonoBehaviour:
   player: {fileID: 913217650}
   mainCam: {fileID: 99917892}
   camera: {x: 0, y: 0}
+  bulletPrefab: {fileID: 8847701041793155397, guid: 87110749787db5447a1ca06503f21fdf,
+    type: 3}
 --- !u!1 &222001182
 GameObject:
   m_ObjectHideFlags: 0
@@ -801,7 +802,7 @@ GameObject:
   - component: {fileID: 913217655}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
