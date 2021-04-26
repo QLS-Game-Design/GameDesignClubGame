@@ -16,6 +16,7 @@ public class Player:MonoBehaviour
     public float MaxDamage;
     public float Damage;
     public float theta;
+    public bool isDead;
     // Vector2 mousePos;
     // public RigidBody2D rb;
     // public Keycode W;
@@ -25,7 +26,7 @@ public class Player:MonoBehaviour
 
     void Start()
     {
-
+        isDead = false;
     }
 
     // Update is called once per frame
@@ -35,24 +36,39 @@ public class Player:MonoBehaviour
         // S = 0,-1
         // A = -1,0
         // D = 1,0
-        if (Input.GetKey(KeyCode.W)){
-            transform.Translate(new Vector2(0,0.1f*Speed));
+        if (!isDead)
+        {
+            if (Input.GetKey(KeyCode.W))
+            {
+                transform.Translate(new Vector2(0, 0.1f * Speed));
+            }
+            if (Input.GetKey(KeyCode.S))
+            {
+                transform.Translate(new Vector2(0, -0.1f * Speed));
+            }
+            if (Input.GetKey(KeyCode.A))
+            {
+                transform.Translate(new Vector2(-0.1f * Speed, 0));
+                GetComponent<SpriteRenderer>().flipX = true;
+            }
+            if (Input.GetKey(KeyCode.D))
+            {
+                transform.Translate(new Vector2(0.1f * Speed, 0));
+                GetComponent<SpriteRenderer>().flipX = false;
+            }
         }
-        if (Input.GetKey(KeyCode.S)){
-            transform.Translate(new Vector2(0,-0.1f*Speed));
-        }
-        if (Input.GetKey(KeyCode.A)){
-            transform.Translate(new Vector2(-0.1f*Speed,0));
-            GetComponent<SpriteRenderer>().flipX = true;
-        }
-        if (Input.GetKey(KeyCode.D)){
-            transform.Translate(new Vector2(0.1f*Speed,0));
-            GetComponent<SpriteRenderer>().flipX = false;
-        }
-        
-        
+
+
     }
-    
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Enemy")
+        {
+            isDead = true;
+        }
+    }
+
 }
 // public class PlayerSniper{
 //     public float MaxHealth = 1000 ; // absolute maximum health: 10000
