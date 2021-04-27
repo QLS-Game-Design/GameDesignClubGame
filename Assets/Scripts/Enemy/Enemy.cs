@@ -26,7 +26,7 @@ public class Enemy : MonoBehaviour
         // If the object we hit is the enemy
         if (c.gameObject.tag != "Enemy")
         {
-            Debug.Log(c.gameObject.tag);
+            // Debug.Log(c.gameObject.tag);
         }
         if (c.gameObject.tag == "Player")
         {

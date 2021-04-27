@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startingHealth: 1
-  damage: 3
+  damage: 1
   speed: 3
   player: {fileID: 0}
 --- !u!61 &5477090695599693025
