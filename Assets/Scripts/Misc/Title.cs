@@ -61,8 +61,8 @@ public class Title : MonoBehaviour
     }
     public void Win()
     {
-        story = story3;
-        msg.text = level3;
+        story = win;
+        msg.text = win;
         done = false;
         StartCoroutine(Delay());
     }

@@ -113,19 +113,22 @@ public class LevelHandler : MonoBehaviour
         {
             title.StartRoom2();
             audioSource.clip = level2audio;
+            audioSource.Play();
             mc.NextPos();
             player.transform.position = loc2;
         } else if (level == 3)
         {
             title.StartRoom3();
             audioSource.clip = level3audio;
+            audioSource.Play();
             mc.NextPos();
             player.transform.position = loc3;
         } else if (level == 4)
         {
             title.Win();
             audioSource.clip = winaudio;
-            
+            audioSource.Play();
+
         }
     }
 }
