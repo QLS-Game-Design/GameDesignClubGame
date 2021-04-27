@@ -16,9 +16,15 @@ public class LevelHandler : MonoBehaviour
     public Vector2 loc1;
     public Vector2 loc2;
     public Vector2 loc3;
+    public Spawner[]level1Spawners;
+    public Spawner[] level2Spawners;
+    public Spawner[] level3Spawners;
+    bool finished = false;
+    bool wavestarted = false;
     // Start is called before the first frame update
     void Start()
     {
+        wavestarted = false;
         Application.targetFrameRate = 60;
         title.StartRoom1();
         audioSource.clip = level1audio;
@@ -27,11 +33,77 @@ public class LevelHandler : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (title.done == true && wavestarted == false)
+        {
+            if (level == 1)
+            {
+                foreach (Spawner i in level1Spawners)
+                {
+                    i.NextWave();
+                }
+            } else if (level == 2){
+                foreach (Spawner i in level2Spawners)
+                {
+                    i.NextWave();
+                }
+            } else if (level == 3){
+                foreach (Spawner i in level3Spawners)
+                {
+                    i.NextWave();
+                }
+            }
+            wavestarted = true;
+        }
+        if (level == 1)
+        {
+            finished = true;
+            foreach(Spawner i in level1Spawners)
+            {
+                if (!i.finished)
+                {
+                    finished = false;
+                }
+            }
+            if (finished == true)
+            {
+                LevelUp();
+            }
+        }
+        if (level == 2)
+        {
+            finished = true;
+            foreach (Spawner i in level1Spawners)
+            {
+                if (!i.finished)
+                {
+                    finished = false;
+                }
+            }
+            if (finished == true)
+            {
+                LevelUp();
+            }
+        }
+        if (level == 3)
+        {
+            finished = true;
+            foreach (Spawner i in level3Spawners)
+            {
+                if (!i.finished)
+                {
+                    finished = false;
+                }
+            }
+            if (finished == true)
+            {
+                LevelUp();
+            }
+        }
     }
 
     public void LevelUp()
     {
+        wavestarted = false;
         level++;
         if (level == 2)
         {

@@ -13,6 +13,7 @@ public class Title : MonoBehaviour
     public string story3;
     public Text msg;
     string story;
+    public bool done;
     // Start is called before the first frame update
     void Start()
     {
@@ -29,14 +30,16 @@ public class Title : MonoBehaviour
     {
         yield return new WaitForSeconds(2);
         msg.text = story;
-        yield return new WaitForSeconds(8);
+        yield return new WaitForSeconds(4);
         msg.text = " ";
+        done = true;
     }
 
     public void StartRoom1()
     {
         story = story1;
         msg.text = level1;
+        done = false;
         StartCoroutine(Delay());
     }
 
@@ -44,6 +47,7 @@ public class Title : MonoBehaviour
     {
         story = story2;
         msg.text = level2;
+        done = false;
         StartCoroutine(Delay());
     }
 
@@ -51,6 +55,7 @@ public class Title : MonoBehaviour
     {
         story = story3;
         msg.text = level3;
+        done = false;
         StartCoroutine(Delay());
     }
 }

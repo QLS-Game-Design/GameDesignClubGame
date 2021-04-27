@@ -521,7 +521,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waves:
-  - enemyCount: 10
+  - enemyCount: 4
     timeBetweenSpawns: 2
   enemy1: {fileID: 2538299207942184666, guid: 6ef9497e73e275b4da9c21da1aec1d1f, type: 3}
   enemy2: {fileID: 3841367432851639850, guid: 2919a24a18e18ab46b77675381563c11, type: 3}
@@ -626,6 +626,7 @@ MonoBehaviour:
   story3: You catch the device in the corner of your eye, but there are a lot of
     monsters
   msg: {fileID: 741290447}
+  done: 0
 --- !u!1 &484953925
 GameObject:
   m_ObjectHideFlags: 0
@@ -667,6 +668,11 @@ MonoBehaviour:
   loc1: {x: 0, y: 0}
   loc2: {x: 0, y: -10}
   loc3: {x: 0, y: -22}
+  level1Spawners:
+  - {fileID: 271610713}
+  - {fileID: 2022831349}
+  level2Spawners: []
+  level3Spawners: []
 --- !u!4 &484953927
 Transform:
   m_ObjectHideFlags: 0
@@ -970,6 +976,7 @@ MonoBehaviour:
   MaxDamage: 0
   Damage: 0
   theta: 0
+  isDead: 0
 --- !u!212 &913217653
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8230,7 +8237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waves:
-  - enemyCount: 10
+  - enemyCount: 4
     timeBetweenSpawns: 2
   enemy1: {fileID: 2538299207942184666, guid: 6ef9497e73e275b4da9c21da1aec1d1f, type: 3}
   enemy2: {fileID: 3841367432851639850, guid: 2919a24a18e18ab46b77675381563c11, type: 3}
