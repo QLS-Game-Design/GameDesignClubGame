@@ -11,6 +11,7 @@ public class Title : MonoBehaviour
     public string story1;
     public string story2;
     public string story3;
+    public string win;
     public Text msg;
     string story;
     public bool done;
@@ -52,6 +53,13 @@ public class Title : MonoBehaviour
     }
 
     public void StartRoom3()
+    {
+        story = story3;
+        msg.text = level3;
+        done = false;
+        StartCoroutine(Delay());
+    }
+    public void Win()
     {
         story = story3;
         msg.text = level3;

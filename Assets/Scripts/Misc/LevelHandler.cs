@@ -8,6 +8,7 @@ public class LevelHandler : MonoBehaviour
     public AudioClip level1audio;
     public AudioClip level2audio;
     public AudioClip level3audio;
+    public AudioClip winaudio;
     public Title title;
     public AudioSource audioSource;
     public int level = 1;
@@ -51,6 +52,9 @@ public class LevelHandler : MonoBehaviour
                 {
                     i.NextWave();
                 }
+            } else if (level == 4)
+            {
+                SceneManager.LoadScene(0);
             }
             wavestarted = true;
         }
@@ -72,7 +76,7 @@ public class LevelHandler : MonoBehaviour
         if (level == 2)
         {
             finished = true;
-            foreach (Spawner i in level1Spawners)
+            foreach (Spawner i in level2Spawners)
             {
                 if (!i.finished)
                 {
@@ -119,7 +123,9 @@ public class LevelHandler : MonoBehaviour
             player.transform.position = loc3;
         } else if (level == 4)
         {
-            SceneManager.LoadScene(0);
+            title.Win();
+            audioSource.clip = winaudio;
+            
         }
     }
 }

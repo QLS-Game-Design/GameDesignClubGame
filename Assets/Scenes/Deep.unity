@@ -621,10 +621,11 @@ MonoBehaviour:
   level1: 'Level 1: Going Deep'
   level2: 'Level 2: Going Deeper'
   level3: 'Level 3: In too deep'
-  story1: You arrive at the cave, seeking the fabled source of unlimited energy
+  story1: You arrive at the cave, looking for treasures
   story2: Not finding anything in the first level, you go deeper
-  story3: You catch the device in the corner of your eye, but there are a lot of
+  story3: You catch the treasure in the corner of your eye, but there are a lot of
     monsters
+  win: You Win!!! As for the treasure... Its gone!
   msg: {fileID: 741290447}
   done: 0
 --- !u!1 &484953925
@@ -660,6 +661,7 @@ MonoBehaviour:
   level1audio: {fileID: 8300000, guid: 1979af36756bb491fa9ca6b20f5ace44, type: 3}
   level2audio: {fileID: 8300000, guid: 56f4113964bea44b99feed8325dbeb98, type: 3}
   level3audio: {fileID: 8300000, guid: df9c2b24f1a69466db3871afa352f85d, type: 3}
+  winaudio: {fileID: 0}
   title: {fileID: 298609812}
   audioSource: {fileID: 484953928}
   level: 1
