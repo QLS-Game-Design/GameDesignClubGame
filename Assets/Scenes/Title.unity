@@ -502,7 +502,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Deeper and Deeper
+  m_Text: Deep Treasure
 --- !u!222 &1231050149
 CanvasRenderer:
   m_ObjectHideFlags: 0

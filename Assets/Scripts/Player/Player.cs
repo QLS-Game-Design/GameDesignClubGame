@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Player:MonoBehaviour
 {
@@ -17,6 +19,8 @@ public class Player:MonoBehaviour
     public float Damage;
     public float theta;
     public bool isDead;
+    public Text text;
+
     // Vector2 mousePos;
     // public RigidBody2D rb;
     // public Keycode W;
@@ -27,6 +31,7 @@ public class Player:MonoBehaviour
     void Start()
     {
         Health = MaxHealth;
+        text.text = "Health " + Health.ToString();
     }
 
     // Update is called once per frame
@@ -56,6 +61,9 @@ public class Player:MonoBehaviour
                 transform.Translate(new Vector2(0.1f * Speed, 0));
                 GetComponent<SpriteRenderer>().flipX = false;
             }
+        } else
+        {
+            SceneManager.LoadScene(0);
         }
 
 
@@ -66,6 +74,7 @@ public class Player:MonoBehaviour
         if (collision.gameObject.tag == "Enemy")
         {
             Health-=collision.gameObject.GetComponent<Enemy>().damage;
+            text.text = "Health " + Health.ToString();
             Debug.Log(Health);
         }
     }
