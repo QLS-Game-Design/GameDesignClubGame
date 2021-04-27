@@ -26,7 +26,6 @@ public class Spawner : MonoBehaviour
     void Start()
     {
         finished = false;
-        NextWave();
     }
 
     void Update()
@@ -66,7 +65,7 @@ public class Spawner : MonoBehaviour
         }
     }
 
-    void NextWave()
+    public void NextWave()
     {
         currentWaveNumber++;
         if (currentWaveNumber - 1 < waves.Length)

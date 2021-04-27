@@ -521,7 +521,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waves:
-  - enemyCount: 10
+  - enemyCount: 4
     timeBetweenSpawns: 2
   enemy1: {fileID: 2538299207942184666, guid: 6ef9497e73e275b4da9c21da1aec1d1f, type: 3}
   enemy2: {fileID: 3841367432851639850, guid: 2919a24a18e18ab46b77675381563c11, type: 3}
@@ -621,11 +621,13 @@ MonoBehaviour:
   level1: 'Level 1: Going Deep'
   level2: 'Level 2: Going Deeper'
   level3: 'Level 3: In too deep'
-  story1: You arrive at the cave, seeking the fabled source of unlimited energy
+  story1: You arrive at the cave, looking for treasures
   story2: Not finding anything in the first level, you go deeper
-  story3: You catch the device in the corner of your eye, but there are a lot of
+  story3: You catch the treasure in the corner of your eye, but there are a lot of
     monsters
+  win: You Win!!! As for the treasure... Its gone!
   msg: {fileID: 741290447}
+  done: 0
 --- !u!1 &484953925
 GameObject:
   m_ObjectHideFlags: 0
@@ -659,6 +661,7 @@ MonoBehaviour:
   level1audio: {fileID: 8300000, guid: 1979af36756bb491fa9ca6b20f5ace44, type: 3}
   level2audio: {fileID: 8300000, guid: 56f4113964bea44b99feed8325dbeb98, type: 3}
   level3audio: {fileID: 8300000, guid: df9c2b24f1a69466db3871afa352f85d, type: 3}
+  winaudio: {fileID: 0}
   title: {fileID: 298609812}
   audioSource: {fileID: 484953928}
   level: 1
@@ -667,6 +670,11 @@ MonoBehaviour:
   loc1: {x: 0, y: 0}
   loc2: {x: 0, y: -10}
   loc3: {x: 0, y: -22}
+  level1Spawners:
+  - {fileID: 271610713}
+  - {fileID: 2022831349}
+  level2Spawners: []
+  level3Spawners: []
 --- !u!4 &484953927
 Transform:
   m_ObjectHideFlags: 0
@@ -8231,7 +8239,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waves:
-  - enemyCount: 10
+  - enemyCount: 4
     timeBetweenSpawns: 2
   enemy1: {fileID: 2538299207942184666, guid: 6ef9497e73e275b4da9c21da1aec1d1f, type: 3}
   enemy2: {fileID: 3841367432851639850, guid: 2919a24a18e18ab46b77675381563c11, type: 3}
