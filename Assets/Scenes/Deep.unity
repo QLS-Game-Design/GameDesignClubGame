@@ -1013,7 +1013,7 @@ MonoBehaviour:
   enemy2: {fileID: 3841367432851639850, guid: 2919a24a18e18ab46b77675381563c11, type: 3}
   enemy3: {fileID: 6526368282334131877, guid: c173458d6ae6eab4a8ef19eb1fde72cf, type: 3}
   bar1: 33
-  bar2: 33
+  bar2: 66
   finished: 0
 --- !u!212 &827941953
 SpriteRenderer:
@@ -3965,7 +3965,7 @@ MonoBehaviour:
   enemy2: {fileID: 3841367432851639850, guid: 2919a24a18e18ab46b77675381563c11, type: 3}
   enemy3: {fileID: 6526368282334131877, guid: c173458d6ae6eab4a8ef19eb1fde72cf, type: 3}
   bar1: 33
-  bar2: 33
+  bar2: 66
   finished: 0
 --- !u!212 &1646041809
 SpriteRenderer:
@@ -4136,7 +4136,7 @@ MonoBehaviour:
   enemy2: {fileID: 3841367432851639850, guid: 2919a24a18e18ab46b77675381563c11, type: 3}
   enemy3: {fileID: 6526368282334131877, guid: c173458d6ae6eab4a8ef19eb1fde72cf, type: 3}
   bar1: 33
-  bar2: 33
+  bar2: 66
   finished: 0
 --- !u!212 &1704903453
 SpriteRenderer:
@@ -4241,7 +4241,7 @@ MonoBehaviour:
   enemy2: {fileID: 3841367432851639850, guid: 2919a24a18e18ab46b77675381563c11, type: 3}
   enemy3: {fileID: 6526368282334131877, guid: c173458d6ae6eab4a8ef19eb1fde72cf, type: 3}
   bar1: 33
-  bar2: 33
+  bar2: 66
   finished: 0
 --- !u!212 &1831185171
 SpriteRenderer:
