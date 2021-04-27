@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player:MonoBehaviour
 {
     // Start is called before the first frame update
-    public float MaxHealth; // absolute maximum health: 10000
+    public float MaxHealth = 1000; // absolute maximum health: 10000
     public float Health;
     public float MaxEnergy; // absolute maximum energy: 10000
     public float Energy;
@@ -26,7 +26,7 @@ public class Player:MonoBehaviour
 
     void Start()
     {
-        isDead = false;
+        Health = MaxHealth;
     }
 
     // Update is called once per frame
@@ -36,7 +36,7 @@ public class Player:MonoBehaviour
         // S = 0,-1
         // A = -1,0
         // D = 1,0
-        if (!isDead)
+        if (Health>0)
         {
             if (Input.GetKey(KeyCode.W))
             {
@@ -65,10 +65,10 @@ public class Player:MonoBehaviour
     {
         if (collision.gameObject.tag == "Enemy")
         {
-            isDead = true;
+            Health-=collision.gameObject.GetComponent<Enemy>().damage;
+            Debug.Log(Health);
         }
     }
-
 }
 // public class PlayerSniper{
 //     public float MaxHealth = 1000 ; // absolute maximum health: 10000

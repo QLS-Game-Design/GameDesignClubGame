@@ -20,11 +20,14 @@ public class Enemy : MonoBehaviour
         health = startingHealth;
     }
 
-
     void OnCollisionEnter2D(Collision2D c)
     {
 
         // If the object we hit is the enemy
+        if (c.gameObject.tag != "Enemy")
+        {
+            // Debug.Log(c.gameObject.tag);
+        }
         if (c.gameObject.tag == "Player")
         {
             // we can add bounce back later
